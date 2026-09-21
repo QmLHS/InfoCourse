@@ -1,0 +1,955 @@
+ANNO_ACCADEMICO;COD_ATENEO;NOME_ATENEO;CODICE_ISCRIZIONE;DESCRIZIONE_ISCRIZIONE;ISCRITTI_LAUREA;ISCRITTI_DOTTORATO;ISCRITTI_SPECIALIZZAZIONE;ISCRITTI_MASTER_PERFEZIONAMENTO
+2008-2009;00101;Torino - Università degli studi;T1 ;Totale iscritti;63494;1255;1982;1227
+2008-2009;00102;Torino - Politecnico;T1 ;Totale iscritti;25399;689;30;260
+2008-2009;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1 ;Totale iscritti;9470;182;267;175
+2008-2009;00401;Bra (CN) - Università di Scienze Gastronomiche;T1 ;Totale iscritti;229;0;0;24
+2008-2009;00701;Aosta - Università degli studi;T1 ;Totale iscritti;1083;0;22;13
+2008-2009;01001;Genova - Università degli studi;T1 ;Totale iscritti;35151;1030;1306;626
+2008-2009;01201;"Castellanza - Università ""Carlo Cattaneo""";T1 ;Totale iscritti;1872;14;0;490
+2008-2009;01202;Varese - Università dell' Insubria;T1 ;Totale iscritti;9240;237;407;115
+2008-2009;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1 ;Totale iscritti;2219;0;0;2
+2008-2009;01501;Milano - Università degli studi;T1 ;Totale iscritti;58093;1548;3072;1513
+2008-2009;01502;Milano - Politecnico;T1 ;Totale iscritti;35434;851;22;1301
+2008-2009;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1 ;Totale iscritti;12927;123;0;1139
+2008-2009;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1 ;Totale iscritti;39974;755;2050;2328
+2008-2009;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1 ;Totale iscritti;4845;51;0;276
+2008-2009;01508;Milano - Università Vita-Salute San Raffaele;T1 ;Totale iscritti;1911;187;343;53
+2008-2009;01509;Milano-Bicocca - Università degli studi;T1 ;Totale iscritti;29861;645;455;329
+2008-2009;01510;"Milano - Università telematica internazionale ""UNITEL""";T1 ;Totale iscritti;159;0;0;0
+2008-2009;01601;Bergamo - Università degli studi;T1 ;Totale iscritti;14093;201;123;797
+2008-2009;01701;Brescia - Università degli studi;T1 ;Totale iscritti;14132;184;663;208
+2008-2009;01801;Pavia - Università degli studi;T1 ;Totale iscritti;22061;639;1480;281
+2008-2009;01802;Pavia - Istituto universitario di studi superiori;T1 ;Totale iscritti;0;49;0;90
+2008-2009;02101;Bolzano - Libera Università;T1 ;Totale iscritti;2803;49;316;41
+2008-2009;02201;Trento - Università degli studi;T1 ;Totale iscritti;15894;496;72;62
+2008-2009;02301;Verona - Università degli studi;T1 ;Totale iscritti;21945;550;860;672
+2008-2009;02701;"Venezia - Università degli studi ""Cà Foscari""";T1 ;Totale iscritti;-3;-3;-3;-3
+2008-2009;02702;Venezia - Università IUAV;T1 ;Totale iscritti;6091;141;0;106
+2008-2009;02801;Padova - Università degli studi;T1 ;Totale iscritti;61366;1604;1587;1639
+2008-2009;03001;Udine - Università degli studi;T1 ;Totale iscritti;15627;467;552;230
+2008-2009;03201;Trieste - Università degli studi;T1 ;Totale iscritti;19263;476;495;288
+2008-2009;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1 ;Totale iscritti;0;238;0;31
+2008-2009;03401;Parma - Università degli studi;T1 ;Totale iscritti;26963;501;512;1547
+2008-2009;03601;Modena e Reggio Emilia - Università degli studi;T1 ;Totale iscritti;17765;506;917;317
+2008-2009;03701;Bologna - Università degli studi;T1 ;Totale iscritti;79130;1781;1822;2412
+2008-2009;03801;Ferrara - Università degli studi;T1 ;Totale iscritti;17342;419;795;875
+2008-2009;04101;"Urbino - Università degli studi ""Carlo Bo""";T1 ;Totale iscritti;15369;227;34;472
+2008-2009;04201;Ancona - Università Politecnica delle Marche;T1 ;Totale iscritti;15465;445;332;201
+2008-2009;04301;Macerata - Università degli studi;T1 ;Totale iscritti;11686;243;294;385
+2008-2009;04302;Camerino - Università degli studi;T1 ;Totale iscritti;8361;207;204;405
+2008-2009;04601;Lucca - Scuola IMT Alti Studi;T1 ;Totale iscritti;0;113;0;0
+2008-2009;04801;Firenze - Università degli studi;T1 ;Totale iscritti;59373;1356;999;3369
+2008-2009;04803;Firenze - Istituto Italiano di Scienze Umane;T1 ;Totale iscritti;0;190;0;18
+2008-2009;04804;"Firenze - Università telematica ""Italian University line""";T1 ;Totale iscritti;44;0;0;58
+2008-2009;05001;Pisa - Università degli studi;T1 ;Totale iscritti;48928;1043;1539;1233
+2008-2009;05002;Pisa - Scuola normale superiore;T1 ;Totale iscritti;278;181;0;0
+2008-2009;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1 ;Totale iscritti;269;259;0;89
+2008-2009;05201;Siena - Università degli studi;T1 ;Totale iscritti;20304;1036;664;914
+2008-2009;05202;Siena - Università per stranieri;T1 ;Totale iscritti;661;25;36;93
+2008-2009;05401;Perugia - Università degli studi;T1 ;Totale iscritti;32310;690;1300;607
+2008-2009;05403;Perugia - Università per stranieri;T1 ;Totale iscritti;1859;8;0;102
+2008-2009;05601;Viterbo - Università della Tuscia;T1 ;Totale iscritti;9642;295;15;333
+2008-2009;05801;"Roma - Università degli studi ""La Sapienza""";T1 ;Totale iscritti;138616;2900;3522;2335
+2008-2009;05802;"Roma - Università degli studi di ""Tor Vergata""";T1 ;Totale iscritti;34950;1372;1024;4262
+2008-2009;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1 ;Totale iscritti;7183;44;74;396
+2008-2009;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1 ;Totale iscritti;7317;166;136;257
+2008-2009;05806;"Roma - Università degli studi del ""Foro Italico""";T1 ;Totale iscritti;1615;53;0;36
+2008-2009;05807;Roma - III Università degli studi;T1 ;Totale iscritti;34983;576;1139;1148
+2008-2009;05808;"Roma - Università ""Campus Bio-Medico""";T1 ;Totale iscritti;1004;60;256;91
+2008-2009;05809;Roma - Libera Università degli studi San Pio V;T1 ;Totale iscritti;1161;8;0;3803
+2008-2009;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1 ;Totale iscritti;7690;9;5;4913
+2008-2009;05811;"Roma - Università telematica ""TEL.M.A.""";T1 ;Totale iscritti;679;0;0;1328
+2008-2009;05812;Roma - Università Europea;T1 ;Totale iscritti;637;0;0;803
+2008-2009;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1 ;Totale iscritti;2675;0;0;0
+2008-2009;05814;Roma - Universitas Mercatorum;T1 ;Totale iscritti;139;0;0;0
+2008-2009;05815;Roma - Università telematica delle Scienze Umane UNISU;T1 ;Totale iscritti;2336;0;0;984
+2008-2009;06001;Cassino - Università degli studi;T1 ;Totale iscritti;10953;182;4;214
+2008-2009;06201;Benevento - Università degli studi del Sannio;T1 ;Totale iscritti;7368;100;0;23
+2008-2009;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1 ;Totale iscritti;430;0;0;92
+2008-2009;06301;"Napoli - Università degli studi ""Federico II""";T1 ;Totale iscritti;89444;1719;2728;1393
+2008-2009;06302;"Napoli - Università degli studi ""Parthenope""";T1 ;Totale iscritti;17489;135;0;148
+2008-2009;06303;"Napoli - Università degli studi ""L' Orientale""";T1 ;Totale iscritti;9819;178;219;35
+2008-2009;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1 ;Totale iscritti;10993;37;1427;276
+2008-2009;06306;Napoli - Seconda Università degli studi;T1 ;Totale iscritti;29596;538;1300;246
+2008-2009;06307;"Napoli - Università telematica ""Pegaso""";T1 ;Totale iscritti;1228;0;0;2882
+2008-2009;06501;Salerno - Università degli studi;T1 ;Totale iscritti;39988;506;777;268
+2008-2009;06601;L'Aquila - Università degli studi;T1 ;Totale iscritti;23285;292;504;248
+2008-2009;06701;Teramo - Università degli studi;T1 ;Totale iscritti;8673;150;195;1066
+2008-2009;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1 ;Totale iscritti;29890;437;1204;596
+2008-2009;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1 ;Totale iscritti;375;0;0;404
+2008-2009;07001;Campobasso - Università degli studi del Molise;T1 ;Totale iscritti;9613;110;379;54
+2008-2009;07101;Foggia - Università degli studi;T1 ;Totale iscritti;11182;158;334;388
+2008-2009;07201;Bari - Università degli studi;T1 ;Totale iscritti;59962;1093;4056;881
+2008-2009;07202;Bari - Politecnico;T1 ;Totale iscritti;10645;196;0;26
+2008-2009;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1 ;Totale iscritti;1115;11;0;154
+2008-2009;07501;Lecce - Università del Salento;T1 ;Totale iscritti;27264;689;150;126
+2008-2009;07601;Potenza - Università degli studi della Basilicata;T1 ;Totale iscritti;8885;211;456;0
+2008-2009;07801;Arcavacata di Rende - Università della Calabria;T1 ;Totale iscritti;28230;450;1034;1659
+2008-2009;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1 ;Totale iscritti;11336;144;524;349
+2008-2009;08001;Reggio Calabria - Università degli studi Mediterranea;T1 ;Totale iscritti;10167;239;93;39
+2008-2009;08003;Reggio Calabria - Università per Stranieri;T1 ;Totale iscritti;-1;-1;-1;-1
+2008-2009;08201;Palermo - Università degli studi;T1 ;Totale iscritti;63912;1295;2333;256
+2008-2009;08301;Messina - Università degli studi;T1 ;Totale iscritti;31939;1001;2436;495
+2008-2009;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1 ;Totale iscritti;4504;23;0;28
+2008-2009;08701;Catania - Università degli studi;T1 ;Totale iscritti;60241;1088;2100;209
+2008-2009;09001;Sassari - Università degli studi;T1 ;Totale iscritti;15312;373;564;53
+2008-2009;09201;Cagliari - Università degli studi;T1 ;Totale iscritti;32667;480;1003;111
+2009-2010;00101;Torino - Università degli studi;T1 ;Totale iscritti;63913;1302;1486;1227
+2009-2010;00102;Torino - Politecnico;T1 ;Totale iscritti;26499;750;31;299
+2009-2010;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1 ;Totale iscritti;9333;170;262;291
+2009-2010;00401;Bra (CN) - Università di Scienze Gastronomiche;T1 ;Totale iscritti;237;0;0;50
+2009-2010;00701;Aosta - Università degli studi;T1 ;Totale iscritti;1112;0;0;60
+2009-2010;01001;Genova - Università degli studi;T1 ;Totale iscritti;35098;1025;972;859
+2009-2010;01201;"Castellanza - Università ""Carlo Cattaneo""";T1 ;Totale iscritti;1789;18;0;419
+2009-2010;01202;Varese - Università dell' Insubria;T1 ;Totale iscritti;9515;229;398;152
+2009-2010;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1 ;Totale iscritti;4793;0;0;85
+2009-2010;01501;Milano - Università degli studi;T1 ;Totale iscritti;58279;1464;2159;1410
+2009-2010;01502;Milano - Politecnico;T1 ;Totale iscritti;35451;914;20;1398
+2009-2010;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1 ;Totale iscritti;12925;140;0;1213
+2009-2010;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1 ;Totale iscritti;40429;689;1246;2454
+2009-2010;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1 ;Totale iscritti;4423;57;0;288
+2009-2010;01508;Milano - Università Vita-Salute San Raffaele;T1 ;Totale iscritti;1968;191;337;47
+2009-2010;01509;Milano-Bicocca - Università degli studi;T1 ;Totale iscritti;30725;653;454;430
+2009-2010;01510;"Milano - Università telematica internazionale ""UNITEL""";T1 ;Totale iscritti;262;0;0;0
+2009-2010;01601;Bergamo - Università degli studi;T1 ;Totale iscritti;14729;239;0;371
+2009-2010;01701;Brescia - Università degli studi;T1 ;Totale iscritti;14512;186;599;191
+2009-2010;01801;Pavia - Università degli studi;T1 ;Totale iscritti;22210;643;1081;285
+2009-2010;01802;Pavia - Istituto universitario di studi superiori;T1 ;Totale iscritti;0;49;0;94
+2009-2010;02101;Bolzano - Libera Università;T1 ;Totale iscritti;2989;53;16;49
+2009-2010;02201;Trento - Università degli studi;T1 ;Totale iscritti;15590;539;65;99
+2009-2010;02301;Verona - Università degli studi;T1 ;Totale iscritti;23940;585;806;713
+2009-2010;02701;"Venezia - Università degli studi ""Cà Foscari""";T1 ;Totale iscritti;19109;383;3;644
+2009-2010;02702;Venezia - Università IUAV;T1 ;Totale iscritti;5987;139;0;4
+2009-2010;02801;Padova - Università degli studi;T1 ;Totale iscritti;61635;1579;1647;1646
+2009-2010;03001;Udine - Università degli studi;T1 ;Totale iscritti;16192;462;332;121
+2009-2010;03201;Trieste - Università degli studi;T1 ;Totale iscritti;15776;393;388;306
+2009-2010;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1 ;Totale iscritti;0;234;0;33
+2009-2010;03401;Parma - Università degli studi;T1 ;Totale iscritti;29676;477;369;148
+2009-2010;03601;Modena e Reggio Emilia - Università degli studi;T1 ;Totale iscritti;18423;455;393;424
+2009-2010;03701;Bologna - Università degli studi;T1 ;Totale iscritti;74835;1750;1302;1735
+2009-2010;03801;Ferrara - Università degli studi;T1 ;Totale iscritti;17922;354;419;368
+2009-2010;04101;"Urbino - Università degli studi ""Carlo Bo""";T1 ;Totale iscritti;14738;227;50;362
+2009-2010;04201;Ancona - Università Politecnica delle Marche;T1 ;Totale iscritti;16766;432;411;332
+2009-2010;04301;Macerata - Università degli studi;T1 ;Totale iscritti;11427;249;94;455
+2009-2010;04302;Camerino - Università degli studi;T1 ;Totale iscritti;8268;209;128;368
+2009-2010;04601;Lucca - Scuola IMT Alti Studi;T1 ;Totale iscritti;0;123;0;0
+2009-2010;04801;Firenze - Università degli studi;T1 ;Totale iscritti;56586;1293;942;3026
+2009-2010;04803;Firenze - Istituto Italiano di Scienze Umane;T1 ;Totale iscritti;0;203;0;0
+2009-2010;04804;"Firenze - Università telematica ""Italian University line""";T1 ;Totale iscritti;34;0;0;183
+2009-2010;05001;Pisa - Università degli studi;T1 ;Totale iscritti;48650;898;971;1174
+2009-2010;05002;Pisa - Scuola normale superiore;T1 ;Totale iscritti;266;220;0;0
+2009-2010;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1 ;Totale iscritti;264;304;0;141
+2009-2010;05201;Siena - Università degli studi;T1 ;Totale iscritti;17262;938;648;843
+2009-2010;05202;Siena - Università per stranieri;T1 ;Totale iscritti;647;29;50;101
+2009-2010;05401;Perugia - Università degli studi;T1 ;Totale iscritti;30943;550;767;251
+2009-2010;05403;Perugia - Università per stranieri;T1 ;Totale iscritti;1736;15;0;77
+2009-2010;05601;Viterbo - Università della Tuscia;T1 ;Totale iscritti;9123;299;36;486
+2009-2010;05801;"Roma - Università degli studi ""La Sapienza""";T1 ;Totale iscritti;135077;2956;3371;2400
+2009-2010;05802;"Roma - Università degli studi di ""Tor Vergata""";T1 ;Totale iscritti;35454;1429;1011;3347
+2009-2010;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1 ;Totale iscritti;7355;46;109;400
+2009-2010;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1 ;Totale iscritti;7493;165;156;263
+2009-2010;05806;"Roma - Università degli studi del ""Foro Italico""";T1 ;Totale iscritti;1601;51;0;59
+2009-2010;05807;Roma - III Università degli studi;T1 ;Totale iscritti;35325;600;198;1373
+2009-2010;05808;"Roma - Università ""Campus Bio-Medico""";T1 ;Totale iscritti;1096;73;254;216
+2009-2010;05809;Roma - Libera Università degli studi San Pio V;T1 ;Totale iscritti;1246;8;0;5011
+2009-2010;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1 ;Totale iscritti;8023;0;77;3586
+2009-2010;05811;"Roma - Università telematica ""TEL.M.A.""";T1 ;Totale iscritti;-3;-3;-3;-3
+2009-2010;05812;Roma - Università Europea;T1 ;Totale iscritti;804;0;0;464
+2009-2010;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1 ;Totale iscritti;3365;0;0;237
+2009-2010;05814;Roma - Universitas Mercatorum;T1 ;Totale iscritti;122;0;0;0
+2009-2010;05815;Roma - Università telematica delle Scienze Umane UNISU;T1 ;Totale iscritti;5409;0;0;5406
+2009-2010;06001;Cassino - Università degli studi;T1 ;Totale iscritti;10597;145;0;26
+2009-2010;06201;Benevento - Università degli studi del Sannio;T1 ;Totale iscritti;6651;116;0;0
+2009-2010;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1 ;Totale iscritti;432;0;0;42
+2009-2010;06301;"Napoli - Università degli studi ""Federico II""";T1 ;Totale iscritti;88487;1646;2114;1328
+2009-2010;06302;"Napoli - Università degli studi ""Parthenope""";T1 ;Totale iscritti;16888;158;0;221
+2009-2010;06303;"Napoli - Università degli studi ""L' Orientale""";T1 ;Totale iscritti;10254;164;0;121
+2009-2010;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1 ;Totale iscritti;10588;16;147;224
+2009-2010;06306;Napoli - Seconda Università degli studi;T1 ;Totale iscritti;30120;534;1077;256
+2009-2010;06307;"Napoli - Università telematica ""Pegaso""";T1 ;Totale iscritti;2393;0;0;5043
+2009-2010;06501;Salerno - Università degli studi;T1 ;Totale iscritti;36711;722;213;410
+2009-2010;06601;L'Aquila - Università degli studi;T1 ;Totale iscritti;23293;311;484;324
+2009-2010;06701;Teramo - Università degli studi;T1 ;Totale iscritti;8549;124;170;746
+2009-2010;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1 ;Totale iscritti;31955;458;727;537
+2009-2010;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1 ;Totale iscritti;365;0;0;481
+2009-2010;07001;Campobasso - Università degli studi del Molise;T1 ;Totale iscritti;9615;90;38;94
+2009-2010;07101;Foggia - Università degli studi;T1 ;Totale iscritti;11494;149;302;363
+2009-2010;07201;Bari - Università degli studi;T1 ;Totale iscritti;52478;1042;1706;920
+2009-2010;07202;Bari - Politecnico;T1 ;Totale iscritti;11923;200;0;14
+2009-2010;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1 ;Totale iscritti;1213;28;70;137
+2009-2010;07501;Lecce - Università del Salento;T1 ;Totale iscritti;25895;595;135;160
+2009-2010;07601;Potenza - Università degli studi della Basilicata;T1 ;Totale iscritti;9337;188;29;0
+2009-2010;07801;Arcavacata di Rende - Università della Calabria;T1 ;Totale iscritti;35884;444;77;1066
+2009-2010;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1 ;Totale iscritti;11447;149;615;114
+2009-2010;08001;Reggio Calabria - Università degli studi Mediterranea;T1 ;Totale iscritti;10071;241;104;105
+2009-2010;08003;Reggio Calabria - Università per Stranieri;T1 ;Totale iscritti;250;0;0;29
+2009-2010;08201;Palermo - Università degli studi;T1 ;Totale iscritti;61147;783;1196;313
+2009-2010;08301;Messina - Università degli studi;T1 ;Totale iscritti;30111;911;1074;405
+2009-2010;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1 ;Totale iscritti;5181;25;0;73
+2009-2010;08701;Catania - Università degli studi;T1 ;Totale iscritti;59550;946;1250;195
+2009-2010;09001;Sassari - Università degli studi;T1 ;Totale iscritti;16036;374;549;73
+2009-2010;09201;Cagliari - Università degli studi;T1 ;Totale iscritti;32751;431;890;266
+2010-2011;00101;Torino - Università degli studi;T1 ;Totale iscritti;64288;1153;1463;1434
+2010-2011;00102;Torino - Politecnico;T1 ;Totale iscritti;27175;773;28;285
+2010-2011;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1 ;Totale iscritti;9309;173;236;167
+2010-2011;00401;Bra (CN) - Università di Scienze Gastronomiche;T1 ;Totale iscritti;243;0;0;74
+2010-2011;00701;Aosta - Università degli studi;T1 ;Totale iscritti;1156;0;0;0
+2010-2011;01001;Genova - Università degli studi;T1 ;Totale iscritti;35354;1068;953;543
+2010-2011;01201;"Castellanza - Università ""Carlo Cattaneo""";T1 ;Totale iscritti;1815;26;0;452
+2010-2011;01202;Varese - Università dell' Insubria;T1 ;Totale iscritti;9244;220;366;68
+2010-2011;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1 ;Totale iscritti;6006;0;0;136
+2010-2011;01501;Milano - Università degli studi;T1 ;Totale iscritti;59890;1374;2297;1572
+2010-2011;01502;Milano - Politecnico;T1 ;Totale iscritti;36722;980;15;1284
+2010-2011;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1 ;Totale iscritti;13065;125;0;1105
+2010-2011;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1 ;Totale iscritti;40121;675;1193;2294
+2010-2011;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1 ;Totale iscritti;4361;59;0;306
+2010-2011;01508;Milano - Università Vita-Salute San Raffaele;T1 ;Totale iscritti;1942;185;322;82
+2010-2011;01509;Milano-Bicocca - Università degli studi;T1 ;Totale iscritti;30692;653;454;430
+2010-2011;01601;Bergamo - Università degli studi;T1 ;Totale iscritti;14615;284;0;216
+2010-2011;01701;Brescia - Università degli studi;T1 ;Totale iscritti;14457;200;564;242
+2010-2011;01801;Pavia - Università degli studi;T1 ;Totale iscritti;22148;662;1016;315
+2010-2011;01802;Pavia - Istituto universitario di studi superiori;T1 ;Totale iscritti;0;54;0;75
+2010-2011;02101;Bolzano - Libera Università;T1 ;Totale iscritti;3157;68;0;58
+2010-2011;02201;Trento - Università degli studi;T1 ;Totale iscritti;16042;552;87;73
+2010-2011;02301;Verona - Università degli studi;T1 ;Totale iscritti;22573;935;878;663
+2010-2011;02701;"Venezia - Università degli studi ""Cà Foscari""";T1 ;Totale iscritti;18611;383;0;502
+2010-2011;02702;Venezia - Università IUAV;T1 ;Totale iscritti;6152;149;0;94
+2010-2011;02801;Padova - Università degli studi;T1 ;Totale iscritti;61290;1556;1584;1464
+2010-2011;03001;Udine - Università degli studi;T1 ;Totale iscritti;15502;447;334;146
+2010-2011;03201;Trieste - Università degli studi;T1 ;Totale iscritti;18836;379;379;306
+2010-2011;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1 ;Totale iscritti;0;230;0;32
+2010-2011;03401;Parma - Università degli studi;T1 ;Totale iscritti;29486;445;259;701
+2010-2011;03601;Modena e Reggio Emilia - Università degli studi;T1 ;Totale iscritti;18234;418;369;422
+2010-2011;03701;Bologna - Università degli studi;T1 ;Totale iscritti;78377;1696;1229;1799
+2010-2011;03801;Ferrara - Università degli studi;T1 ;Totale iscritti;17571;372;406;476
+2010-2011;04101;"Urbino - Università degli studi ""Carlo Bo""";T1 ;Totale iscritti;14232;201;48;233
+2010-2011;04201;Ancona - Università Politecnica delle Marche;T1 ;Totale iscritti;16123;376;414;283
+2010-2011;04301;Macerata - Università degli studi;T1 ;Totale iscritti;11042;260;100;329
+2010-2011;04302;Camerino - Università degli studi;T1 ;Totale iscritti;7845;184;110;318
+2010-2011;04601;Lucca - Scuola IMT Alti Studi;T1 ;Totale iscritti;0;103;0;0
+2010-2011;04801;Firenze - Università degli studi;T1 ;Totale iscritti;55839;1107;1078;2738
+2010-2011;04803;Firenze - Istituto Italiano di Scienze Umane;T1 ;Totale iscritti;0;165;0;0
+2010-2011;04804;"Firenze - Università telematica ""Italian University line""";T1 ;Totale iscritti;21;0;0;105
+2010-2011;05001;Pisa - Università degli studi;T1 ;Totale iscritti;48819;783;971;1296
+2010-2011;05002;Pisa - Scuola normale superiore;T1 ;Totale iscritti;270;216;0;0
+2010-2011;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1 ;Totale iscritti;265;318;0;166
+2010-2011;05201;Siena - Università degli studi;T1 ;Totale iscritti;16811;849;604;911
+2010-2011;05202;Siena - Università per stranieri;T1 ;Totale iscritti;694;30;43;65
+2010-2011;05401;Perugia - Università degli studi;T1 ;Totale iscritti;29887;456;708;137
+2010-2011;05403;Perugia - Università per stranieri;T1 ;Totale iscritti;1491;21;0;104
+2010-2011;05601;Viterbo - Università della Tuscia;T1 ;Totale iscritti;8885;276;35;231
+2010-2011;05801;"Roma - Università degli studi ""La Sapienza""";T1 ;Totale iscritti;129788;3031;3353;2368
+2010-2011;05802;"Roma - Università degli studi di ""Tor Vergata""";T1 ;Totale iscritti;34096;1516;1048;2703
+2010-2011;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1 ;Totale iscritti;7338;47;125;182
+2010-2011;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1 ;Totale iscritti;7727;163;139;444
+2010-2011;05806;"Roma - Università degli studi del ""Foro Italico""";T1 ;Totale iscritti;1807;43;0;0
+2010-2011;05807;Roma - III Università degli studi;T1 ;Totale iscritti;35263;610;194;987
+2010-2011;05808;"Roma - Università ""Campus Bio-Medico""";T1 ;Totale iscritti;1344;81;249;124
+2010-2011;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;T1 ;Totale iscritti;1327;4;0;12121
+2010-2011;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1 ;Totale iscritti;10736;19;79;1851
+2010-2011;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1 ;Totale iscritti;1235;0;0;2222
+2010-2011;05812;Roma - Università Europea;T1 ;Totale iscritti;742;9;0;1822
+2010-2011;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1 ;Totale iscritti;6719;0;0;29
+2010-2011;05814;Roma - Universitas Mercatorum;T1 ;Totale iscritti;209;0;0;0
+2010-2011;05815;Roma - Università telematica delle Scienze Umane UNISU;T1 ;Totale iscritti;9620;0;0;3098
+2010-2011;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1 ;Totale iscritti;412;0;0;1435
+2010-2011;06001;Cassino - Università degli studi;T1 ;Totale iscritti;10314;140;1;122
+2010-2011;06201;Benevento - Università degli studi del Sannio;T1 ;Totale iscritti;6630;121;0;64
+2010-2011;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1 ;Totale iscritti;501;0;0;210
+2010-2011;06301;"Napoli - Università degli studi ""Federico II""";T1 ;Totale iscritti;87964;1519;1775;1348
+2010-2011;06302;"Napoli - Università degli studi ""Parthenope""";T1 ;Totale iscritti;17024;120;0;197
+2010-2011;06303;"Napoli - Università degli studi ""L' Orientale""";T1 ;Totale iscritti;9621;138;0;67
+2010-2011;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1 ;Totale iscritti;9953;20;108;396
+2010-2011;06306;Napoli - Seconda Università degli studi;T1 ;Totale iscritti;29740;507;1074;185
+2010-2011;06307;"Napoli - Università telematica ""Pegaso""";T1 ;Totale iscritti;3225;0;0;5878
+2010-2011;06501;Salerno - Università degli studi;T1 ;Totale iscritti;35769;500;195;257
+2010-2011;06601;L'Aquila - Università degli studi;T1 ;Totale iscritti;24156;349;426;434
+2010-2011;06701;Teramo - Università degli studi;T1 ;Totale iscritti;8116;120;168;944
+2010-2011;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1 ;Totale iscritti;32351;460;703;652
+2010-2011;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1 ;Totale iscritti;371;0;0;481
+2010-2011;07001;Campobasso - Università degli studi del Molise;T1 ;Totale iscritti;8461;90;28;25
+2010-2011;07101;Foggia - Università degli studi;T1 ;Totale iscritti;11421;129;251;199
+2010-2011;07201;Bari - Università degli studi;T1 ;Totale iscritti;50694;899;1569;700
+2010-2011;07202;Bari - Politecnico;T1 ;Totale iscritti;11692;131;0;17
+2010-2011;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1 ;Totale iscritti;1337;46;273;55
+2010-2011;07501;Lecce - Università del Salento;T1 ;Totale iscritti;24338;352;162;232
+2010-2011;07601;Potenza - Università degli studi della Basilicata;T1 ;Totale iscritti;8852;165;32;5
+2010-2011;07801;Arcavacata di Rende - Università della Calabria;T1 ;Totale iscritti;34934;421;83;988
+2010-2011;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1 ;Totale iscritti;10564;167;578;257
+2010-2011;08001;Reggio Calabria - Università degli studi Mediterranea;T1 ;Totale iscritti;9586;225;117;80
+2010-2011;08003;Reggio Calabria - Università per Stranieri;T1 ;Totale iscritti;368;0;0;121
+2010-2011;08201;Palermo - Università degli studi;T1 ;Totale iscritti;61147;757;951;706
+2010-2011;08301;Messina - Università degli studi;T1 ;Totale iscritti;30182;781;1031;652
+2010-2011;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1 ;Totale iscritti;5568;52;0;57
+2010-2011;08701;Catania - Università degli studi;T1 ;Totale iscritti;55552;789;1224;382
+2010-2011;09001;Sassari - Università degli studi;T1 ;Totale iscritti;15471;386;562;207
+2010-2011;09201;Cagliari - Università degli studi;T1 ;Totale iscritti;30756;418;929;167
+2011-2012;00101;Torino - Università degli studi;T1 ;Totale iscritti;64239;1047;1510;1836
+2011-2012;00101;Torino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;609;;
+2011-2012;00101;Torino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;00102;Torino - Politecnico;T1 ;Totale iscritti;28920;741;28;403
+2011-2012;00102;Torino - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;408;;
+2011-2012;00102;Torino - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;2;0;0;139
+2011-2012;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1 ;Totale iscritti;9406;170;246;247
+2011-2012;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;105;;
+2011-2012;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;00401;Bra (CN) - Università di Scienze Gastronomiche;T1 ;Totale iscritti;256;0;0;70
+2011-2012;00401;Bra (CN) - Università di Scienze Gastronomiche;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;00401;Bra (CN) - Università di Scienze Gastronomiche;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;00701;Aosta - Università degli studi;T1 ;Totale iscritti;1148;0;0;0
+2011-2012;00701;Aosta - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;00701;Aosta - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01001;Genova - Università degli studi;T1 ;Totale iscritti;34229;1098;936;901
+2011-2012;01001;Genova - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;651;;
+2011-2012;01001;Genova - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;12
+2011-2012;01201;"Castellanza - Università ""Carlo Cattaneo""";T1 ;Totale iscritti;1820;25;0;396
+2011-2012;01201;"Castellanza - Università ""Carlo Cattaneo""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;14;;
+2011-2012;01201;"Castellanza - Università ""Carlo Cattaneo""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;58
+2011-2012;01202;Varese - Università dell' Insubria;T1 ;Totale iscritti;8799;216;333;67
+2011-2012;01202;Varese - Università dell' Insubria;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;117;;
+2011-2012;01202;Varese - Università dell' Insubria;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1 ;Totale iscritti;6733;0;0;328
+2011-2012;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01501;Milano - Università degli studi;T1 ;Totale iscritti;59770;1332;2441;1626
+2011-2012;01501;Milano - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;829;;
+2011-2012;01501;Milano - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01502;Milano - Politecnico;T1 ;Totale iscritti;37626;1123;19;1434
+2011-2012;01502;Milano - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;592;;
+2011-2012;01502;Milano - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1 ;Totale iscritti;13342;121;0;1154
+2011-2012;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;97;;
+2011-2012;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;70
+2011-2012;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1 ;Totale iscritti;39888;651;1169;2297
+2011-2012;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;172;;
+2011-2012;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1 ;Totale iscritti;4307;54;0;365
+2011-2012;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;38;;
+2011-2012;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01508;Milano - Università Vita-Salute San Raffaele;T1 ;Totale iscritti;1972;171;316;40
+2011-2012;01508;Milano - Università Vita-Salute San Raffaele;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;34;;
+2011-2012;01508;Milano - Università Vita-Salute San Raffaele;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01509;Milano-Bicocca - Università degli studi;T1 ;Totale iscritti;33142;596;453;594
+2011-2012;01509;Milano-Bicocca - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;396;;
+2011-2012;01509;Milano-Bicocca - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01601;Bergamo - Università degli studi;T1 ;Totale iscritti;14424;277;0;316
+2011-2012;01601;Bergamo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;177;;
+2011-2012;01601;Bergamo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;53
+2011-2012;01701;Brescia - Università degli studi;T1 ;Totale iscritti;14310;204;564;314
+2011-2012;01701;Brescia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;136;;
+2011-2012;01701;Brescia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01801;Pavia - Università degli studi;T1 ;Totale iscritti;21610;617;961;352
+2011-2012;01801;Pavia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;370;;
+2011-2012;01801;Pavia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;01802;Pavia - Istituto universitario di studi superiori;T1 ;Totale iscritti;0;62;0;73
+2011-2012;01802;Pavia - Istituto universitario di studi superiori;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;48;;
+2011-2012;01802;Pavia - Istituto universitario di studi superiori;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;18
+2011-2012;02101;Bolzano - Libera Università;T1 ;Totale iscritti;2807;84;0;29
+2011-2012;02101;Bolzano - Libera Università;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;68;;
+2011-2012;02101;Bolzano - Libera Università;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;02201;Trento - Università degli studi;T1 ;Totale iscritti;16287;577;0;72
+2011-2012;02201;Trento - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;431;;
+2011-2012;02201;Trento - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;02301;Verona - Università degli studi;T1 ;Totale iscritti;21956;582;914;660
+2011-2012;02301;Verona - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;355;;
+2011-2012;02301;Verona - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;02701;"Venezia - Università degli studi ""Cà Foscari""";T1 ;Totale iscritti;19035;383;214;333
+2011-2012;02701;"Venezia - Università degli studi ""Cà Foscari""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;184;;
+2011-2012;02701;"Venezia - Università degli studi ""Cà Foscari""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;02702;Venezia - Università IUAV;T1 ;Totale iscritti;5469;151;0;167
+2011-2012;02702;Venezia - Università IUAV;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;82;;
+2011-2012;02702;Venezia - Università IUAV;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;02801;Padova - Università degli studi;T1 ;Totale iscritti;60374;1519;1507;1375
+2011-2012;02801;Padova - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;1030;;
+2011-2012;02801;Padova - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03001;Udine - Università degli studi;T1 ;Totale iscritti;15378;399;320;217
+2011-2012;03001;Udine - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;215;;
+2011-2012;03001;Udine - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03201;Trieste - Università degli studi;T1 ;Totale iscritti;18116;401;345;382
+2011-2012;03201;Trieste - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;263;;
+2011-2012;03201;Trieste - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1 ;Totale iscritti;0;246;0;66
+2011-2012;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;244;;
+2011-2012;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;29
+2011-2012;03401;Parma - Università degli studi;T1 ;Totale iscritti;27603;428;170;185
+2011-2012;03401;Parma - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;205;;
+2011-2012;03401;Parma - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03601;Modena e Reggio Emilia - Università degli studi;T1 ;Totale iscritti;17195;372;211;505
+2011-2012;03601;Modena e Reggio Emilia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;227;;
+2011-2012;03601;Modena e Reggio Emilia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03701;Bologna - Università degli studi;T1 ;Totale iscritti;80024;1668;1228;1739
+2011-2012;03701;Bologna - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;965;;
+2011-2012;03701;Bologna - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;03801;Ferrara - Università degli studi;T1 ;Totale iscritti;17067;356;370;334
+2011-2012;03801;Ferrara - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;174;;
+2011-2012;03801;Ferrara - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04101;"Urbino - Università degli studi ""Carlo Bo""";T1 ;Totale iscritti;14350;170;43;344
+2011-2012;04101;"Urbino - Università degli studi ""Carlo Bo""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;87;;
+2011-2012;04101;"Urbino - Università degli studi ""Carlo Bo""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04201;Ancona - Università Politecnica delle Marche;T1 ;Totale iscritti;15827;503;398;388
+2011-2012;04201;Ancona - Università Politecnica delle Marche;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;340;;
+2011-2012;04201;Ancona - Università Politecnica delle Marche;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04301;Macerata - Università degli studi;T1 ;Totale iscritti;10297;225;95;310
+2011-2012;04301;Macerata - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;131;;
+2011-2012;04301;Macerata - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04302;Camerino - Università degli studi;T1 ;Totale iscritti;7828;179;136;221
+2011-2012;04302;Camerino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;118;;
+2011-2012;04302;Camerino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;21
+2011-2012;04601;Lucca - Scuola IMT Alti Studi;T1 ;Totale iscritti;0;98;0;0
+2011-2012;04601;Lucca - Scuola IMT Alti Studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;78;;
+2011-2012;04601;Lucca - Scuola IMT Alti Studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04801;Firenze - Università degli studi;T1 ;Totale iscritti;53496;1066;1021;1781
+2011-2012;04801;Firenze - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;588;;
+2011-2012;04801;Firenze - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;146
+2011-2012;04803;Firenze - Istituto Italiano di Scienze Umane;T1 ;Totale iscritti;0;78;0;0
+2011-2012;04803;Firenze - Istituto Italiano di Scienze Umane;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;74;;
+2011-2012;04803;Firenze - Istituto Italiano di Scienze Umane;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;04804;"Firenze - Università telematica ""Italian University line""";T1 ;Totale iscritti;58;0;0;46
+2011-2012;04804;"Firenze - Università telematica ""Italian University line""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;04804;"Firenze - Università telematica ""Italian University line""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05001;Pisa - Università degli studi;T1 ;Totale iscritti;47540;833;937;1217
+2011-2012;05001;Pisa - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;538;;
+2011-2012;05001;Pisa - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05002;Pisa - Scuola normale superiore;T1 ;Totale iscritti;270;188;0;0
+2011-2012;05002;Pisa - Scuola normale superiore;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;188;;
+2011-2012;05002;Pisa - Scuola normale superiore;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1 ;Totale iscritti;271;318;0;126
+2011-2012;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;223;;
+2011-2012;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;16;0;0
+2011-2012;05201;Siena - Università degli studi;T1 ;Totale iscritti;17216;627;589;717
+2011-2012;05201;Siena - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;369;;
+2011-2012;05201;Siena - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05202;Siena - Università per stranieri;T1 ;Totale iscritti;762;30;46;66
+2011-2012;05202;Siena - Università per stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;6;;
+2011-2012;05202;Siena - Università per stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05401;Perugia - Università degli studi;T1 ;Totale iscritti;27996;326;637;250
+2011-2012;05401;Perugia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;109;;
+2011-2012;05401;Perugia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;10;0;0
+2011-2012;05403;Perugia - Università per stranieri;T1 ;Totale iscritti;1315;27;0;37
+2011-2012;05403;Perugia - Università per stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;16;;
+2011-2012;05403;Perugia - Università per stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05601;Viterbo - Università della Tuscia;T1 ;Totale iscritti;8085;261;14;79
+2011-2012;05601;Viterbo - Università della Tuscia;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;153;;
+2011-2012;05601;Viterbo - Università della Tuscia;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05801;"Roma - Università degli studi ""La Sapienza""";T1 ;Totale iscritti;121943;3105;3431;2375
+2011-2012;05801;"Roma - Università degli studi ""La Sapienza""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;1945;;
+2011-2012;05801;"Roma - Università degli studi ""La Sapienza""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05802;"Roma - Università degli studi di ""Tor Vergata""";T1 ;Totale iscritti;33591;1655;1029;2205
+2011-2012;05802;"Roma - Università degli studi di ""Tor Vergata""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;765;;
+2011-2012;05802;"Roma - Università degli studi di ""Tor Vergata""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1 ;Totale iscritti;6824;63;52;464
+2011-2012;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;27;;
+2011-2012;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;350;0;3;17
+2011-2012;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1 ;Totale iscritti;7803;170;139;654
+2011-2012;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;96;;
+2011-2012;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;1;0;0;40
+2011-2012;05806;"Roma - Università degli studi del ""Foro Italico""";T1 ;Totale iscritti;1846;41;0;0
+2011-2012;05806;"Roma - Università degli studi del ""Foro Italico""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;22;;
+2011-2012;05806;"Roma - Università degli studi del ""Foro Italico""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05807;Roma - III Università degli studi;T1 ;Totale iscritti;35471;615;188;1277
+2011-2012;05807;Roma - III Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;401;;
+2011-2012;05807;Roma - III Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;88
+2011-2012;05808;"Roma - Università ""Campus Bio-Medico""";T1 ;Totale iscritti;1458;76;245;243
+2011-2012;05808;"Roma - Università ""Campus Bio-Medico""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;52;;
+2011-2012;05808;"Roma - Università ""Campus Bio-Medico""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;12;0;0
+2011-2012;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;T1 ;Totale iscritti;1226;2;0;1134
+2011-2012;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;1;;
+2011-2012;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1 ;Totale iscritti;7434;67;47;1875
+2011-2012;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;2;;
+2011-2012;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1 ;Totale iscritti;1609;0;0;1764
+2011-2012;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05812;Roma - Università Europea;T1 ;Totale iscritti;942;22;12;2436
+2011-2012;05812;Roma - Università Europea;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;12;;
+2011-2012;05812;Roma - Università Europea;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1 ;Totale iscritti;8966;0;0;40
+2011-2012;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05814;Roma - Universitas Mercatorum;T1 ;Totale iscritti;183;0;0;30
+2011-2012;05814;Roma - Universitas Mercatorum;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;05814;Roma - Universitas Mercatorum;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1 ;Totale iscritti;9854;8;0;2263
+2011-2012;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;1;;
+2011-2012;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1 ;Totale iscritti;438;0;0;587
+2011-2012;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06001;Cassino - Università degli studi;T1 ;Totale iscritti;10312;163;1;125
+2011-2012;06001;Cassino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;75;;
+2011-2012;06001;Cassino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06201;Benevento - Università degli studi del Sannio;T1 ;Totale iscritti;5764;143;0;0
+2011-2012;06201;Benevento - Università degli studi del Sannio;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;52;;
+2011-2012;06201;Benevento - Università degli studi del Sannio;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;32;0;0
+2011-2012;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1 ;Totale iscritti;449;0;0;167
+2011-2012;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06301;"Napoli - Università degli studi ""Federico II""";T1 ;Totale iscritti;86981;1503;1932;1155
+2011-2012;06301;"Napoli - Università degli studi ""Federico II""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;966;;
+2011-2012;06301;"Napoli - Università degli studi ""Federico II""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06302;"Napoli - Università degli studi ""Parthenope""";T1 ;Totale iscritti;16492;201;0;95
+2011-2012;06302;"Napoli - Università degli studi ""Parthenope""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;109;;
+2011-2012;06302;"Napoli - Università degli studi ""Parthenope""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06303;"Napoli - Università degli studi ""L' Orientale""";T1 ;Totale iscritti;9557;116;0;0
+2011-2012;06303;"Napoli - Università degli studi ""L' Orientale""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;57;;
+2011-2012;06303;"Napoli - Università degli studi ""L' Orientale""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1 ;Totale iscritti;9379;9;110;622
+2011-2012;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;4;;
+2011-2012;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06306;Napoli - Seconda Università degli studi;T1 ;Totale iscritti;29093;530;1113;87
+2011-2012;06306;Napoli - Seconda Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;302;;
+2011-2012;06306;Napoli - Seconda Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06307;"Napoli - Universita telematica ""Pegaso""";T1 ;Totale iscritti;3924;11;0;6806
+2011-2012;06307;"Napoli - Universita telematica ""Pegaso""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;3;;
+2011-2012;06307;"Napoli - Universita telematica ""Pegaso""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06501;Salerno - Università degli studi;T1 ;Totale iscritti;34424;457;234;209
+2011-2012;06501;Salerno - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;272;;
+2011-2012;06501;Salerno - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06601;L'Aquila - Università degli studi;T1 ;Totale iscritti;24597;360;411;503
+2011-2012;06601;L'Aquila - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;188;;
+2011-2012;06601;L'Aquila - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06701;Teramo - Università degli studi;T1 ;Totale iscritti;7640;116;199;343
+2011-2012;06701;Teramo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;73;;
+2011-2012;06701;Teramo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1 ;Totale iscritti;31757;468;649;797
+2011-2012;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;270;;
+2011-2012;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1 ;Totale iscritti;369;0;0;474
+2011-2012;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07001;Campobasso - Università degli studi del Molise;T1 ;Totale iscritti;8352;89;37;125
+2011-2012;07001;Campobasso - Università degli studi del Molise;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;57;;
+2011-2012;07001;Campobasso - Università degli studi del Molise;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07101;Foggia - Università degli studi;T1 ;Totale iscritti;10839;120;239;516
+2011-2012;07101;Foggia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;70;;
+2011-2012;07101;Foggia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;71
+2011-2012;07201;Bari - Università degli studi;T1 ;Totale iscritti;56425;785;1426;672
+2011-2012;07201;Bari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;423;;
+2011-2012;07201;Bari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07202;Bari - Politecnico;T1 ;Totale iscritti;11210;165;0;43
+2011-2012;07202;Bari - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;150;;
+2011-2012;07202;Bari - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;5;0;0
+2011-2012;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1 ;Totale iscritti;1469;52;157;380
+2011-2012;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;22;;
+2011-2012;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07501;Lecce - Università del Salento;T1 ;Totale iscritti;20081;346;173;201
+2011-2012;07501;Lecce - Università del Salento;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;201;;
+2011-2012;07501;Lecce - Università del Salento;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07601;Potenza - Università degli studi della Basilicata;T1 ;Totale iscritti;9183;181;36;4
+2011-2012;07601;Potenza - Università degli studi della Basilicata;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;112;;
+2011-2012;07601;Potenza - Università degli studi della Basilicata;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07801;Arcavacata di Rende - Università della Calabria;T1 ;Totale iscritti;33413;394;84;500
+2011-2012;07801;Arcavacata di Rende - Università della Calabria;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;225;;
+2011-2012;07801;Arcavacata di Rende - Università della Calabria;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1 ;Totale iscritti;10077;171;528;333
+2011-2012;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;127;;
+2011-2012;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;08001;Reggio Calabria - Università degli studi Mediterranea;T1 ;Totale iscritti;8961;191;124;108
+2011-2012;08001;Reggio Calabria - Università degli studi Mediterranea;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;108;;
+2011-2012;08001;Reggio Calabria - Università degli studi Mediterranea;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;3
+2011-2012;08003;Reggio Calabria - Università per Stranieri;T1 ;Totale iscritti;541;0;0;9474
+2011-2012;08003;Reggio Calabria - Università per Stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2011-2012;08003;Reggio Calabria - Università per Stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;08201;Palermo - Università degli studi;T1 ;Totale iscritti;52775;724;1120;842
+2011-2012;08201;Palermo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;397;;
+2011-2012;08201;Palermo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;08301;Messina - Università degli studi;T1 ;Totale iscritti;27986;588;970;850
+2011-2012;08301;Messina - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;327;;
+2011-2012;08301;Messina - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;216
+2011-2012;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1 ;Totale iscritti;6282;49;0;110
+2011-2012;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;22;;
+2011-2012;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;08701;Catania - Università degli studi;T1 ;Totale iscritti;52384;459;1798;394
+2011-2012;08701;Catania - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;318;;
+2011-2012;08701;Catania - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;09001;Sassari - Università degli studi;T1 ;Totale iscritti;15196;377;451;54
+2011-2012;09001;Sassari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;241;;
+2011-2012;09001;Sassari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2011-2012;09201;Cagliari - Università degli studi;T1 ;Totale iscritti;29205;486;936;303
+2011-2012;09201;Cagliari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;317;;
+2011-2012;09201;Cagliari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;184
+2012-2013;00101;Torino - Università degli studi;T1 ;Totale iscritti;64152;1037;1414;1621
+2012-2013;00101;Torino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;598;;
+2012-2013;00101;Torino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;00101;Torino - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;6147;;;
+2012-2013;00102;Torino - Politecnico;T1 ;Totale iscritti;29393;703;22;306
+2012-2013;00102;Torino - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;303;;
+2012-2013;00102;Torino - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;123;0;131
+2012-2013;00102;Torino - Politecnico;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;4298;;;
+2012-2013;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1 ;Totale iscritti;9686;166;263;193
+2012-2013;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;108;;
+2012-2013;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;582;;;
+2012-2013;00401;Bra (CN) - Università di Scienze Gastronomiche;T1 ;Totale iscritti;253;0;0;70
+2012-2013;00401;Bra (CN) - Università di Scienze Gastronomiche;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;00401;Bra (CN) - Università di Scienze Gastronomiche;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;00401;Bra (CN) - Università di Scienze Gastronomiche;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;00701;Aosta - Università degli studi;T1 ;Totale iscritti;1149;0;0;0
+2012-2013;00701;Aosta - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;00701;Aosta - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;00701;Aosta - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01001;Genova - Università degli studi;T1 ;Totale iscritti;32323;1095;998;915
+2012-2013;01001;Genova - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;635;;
+2012-2013;01001;Genova - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;25
+2012-2013;01001;Genova - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;1346;;;
+2012-2013;01201;"Castellanza - Università ""Carlo Cattaneo""";T1 ;Totale iscritti;1733;29;0;184
+2012-2013;01201;"Castellanza - Università ""Carlo Cattaneo""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;15;;
+2012-2013;01201;"Castellanza - Università ""Carlo Cattaneo""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;10
+2012-2013;01201;"Castellanza - Università ""Carlo Cattaneo""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01202;Varese - Università dell' Insubria;T1 ;Totale iscritti;8391;231;332;147
+2012-2013;01202;Varese - Università dell' Insubria;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;130;;
+2012-2013;01202;Varese - Università dell' Insubria;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01202;Varese - Università dell' Insubria;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;438;;;
+2012-2013;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1 ;Totale iscritti;6081;0;0;282
+2012-2013;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01301;"Novedrate (CO) - Università telematica ""e-Campus""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;370;;;
+2012-2013;01501;Milano - Università degli studi;T1 ;Totale iscritti;58865;1388;2628;1661
+2012-2013;01501;Milano - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;846;;
+2012-2013;01501;Milano - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01501;Milano - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;173;;;
+2012-2013;01502;Milano - Politecnico;T1 ;Totale iscritti;38807;1073;22;1459
+2012-2013;01502;Milano - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;647;;
+2012-2013;01502;Milano - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01502;Milano - Politecnico;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;5627;;;
+2012-2013;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1 ;Totale iscritti;13290;128;0;1113
+2012-2013;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;104;;
+2012-2013;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;62
+2012-2013;01503;"Milano - Università commerciale ""Luigi Bocconi""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1 ;Totale iscritti;39137;618;1300;2242
+2012-2013;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;389;;
+2012-2013;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;131
+2012-2013;01504;"Milano - Università Cattolica del ""Sacro Cuore""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1 ;Totale iscritti;4179;48;0;375
+2012-2013;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;31;;
+2012-2013;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;10
+2012-2013;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01508;Milano - Università Vita-Salute San Raffaele;T1 ;Totale iscritti;1986;156;331;14
+2012-2013;01508;Milano - Università Vita-Salute San Raffaele;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;61;;
+2012-2013;01508;Milano - Università Vita-Salute San Raffaele;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01508;Milano - Università Vita-Salute San Raffaele;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01509;Milano-Bicocca - Università degli studi;T1 ;Totale iscritti;32923;589;517;587
+2012-2013;01509;Milano-Bicocca - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;401;;
+2012-2013;01509;Milano-Bicocca - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01509;Milano-Bicocca - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;50;;;
+2012-2013;01601;Bergamo - Università degli studi;T1 ;Totale iscritti;14853;272;0;417
+2012-2013;01601;Bergamo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;164;;
+2012-2013;01601;Bergamo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;8
+2012-2013;01601;Bergamo - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;172;;;
+2012-2013;01701;Brescia - Università degli studi;T1 ;Totale iscritti;14209;226;633;292
+2012-2013;01701;Brescia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;148;;
+2012-2013;01701;Brescia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01701;Brescia - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;16;;;
+2012-2013;01801;Pavia - Università degli studi;T1 ;Totale iscritti;21496;603;1043;422
+2012-2013;01801;Pavia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;356;;
+2012-2013;01801;Pavia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;01801;Pavia - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;01802;Pavia - Istituto universitario di studi superiori;T1 ;Totale iscritti;0;76;0;84
+2012-2013;01802;Pavia - Istituto universitario di studi superiori;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;58;;
+2012-2013;01802;Pavia - Istituto universitario di studi superiori;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;13
+2012-2013;01802;Pavia - Istituto universitario di studi superiori;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;02101;Bolzano - Libera Università;T1 ;Totale iscritti;2821;112;159;81
+2012-2013;02101;Bolzano - Libera Università;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;87;;
+2012-2013;02101;Bolzano - Libera Università;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;02101;Bolzano - Libera Università;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;02201;Trento - Università degli studi;T1 ;Totale iscritti;16239;574;0;56
+2012-2013;02201;Trento - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;435;;
+2012-2013;02201;Trento - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;02201;Trento - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;242;;;
+2012-2013;02301;Verona - Università degli studi;T1 ;Totale iscritti;21250;584;1128;902
+2012-2013;02301;Verona - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;359;;
+2012-2013;02301;Verona - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;26
+2012-2013;02301;Verona - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;541;;;
+2012-2013;02701;"Venezia - Università degli studi ""Cà Foscari""";T1 ;Totale iscritti;18544;350;0;498
+2012-2013;02701;"Venezia - Università degli studi ""Cà Foscari""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;151;;
+2012-2013;02701;"Venezia - Università degli studi ""Cà Foscari""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;02701;"Venezia - Università degli studi ""Cà Foscari""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;771;;;
+2012-2013;02702;Venezia - Università IUAV;T1 ;Totale iscritti;5024;138;0;119
+2012-2013;02702;Venezia - Università IUAV;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;76;;
+2012-2013;02702;Venezia - Università IUAV;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;02702;Venezia - Università IUAV;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;02801;Padova - Università degli studi;T1 ;Totale iscritti;58906;1438;1427;1493
+2012-2013;02801;Padova - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;982;;
+2012-2013;02801;Padova - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;02801;Padova - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;394;;;
+2012-2013;03001;Udine - Università degli studi;T1 ;Totale iscritti;14973;377;334;245
+2012-2013;03001;Udine - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;216;;
+2012-2013;03001;Udine - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;03001;Udine - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;42;;;
+2012-2013;03201;Trieste - Università degli studi;T1 ;Totale iscritti;16887;378;428;309
+2012-2013;03201;Trieste - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;281;;
+2012-2013;03201;Trieste - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;03201;Trieste - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;12;;;
+2012-2013;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1 ;Totale iscritti;0;242;0;59
+2012-2013;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;239;;
+2012-2013;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;15
+2012-2013;03202;Trieste - Scuola internazionale superiore di studi avanzati;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;03401;Parma - Università degli studi;T1 ;Totale iscritti;27434;310;666;298
+2012-2013;03401;Parma - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;114;;
+2012-2013;03401;Parma - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;03401;Parma - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;95;;;
+2012-2013;03601;Modena e Reggio Emilia - Università degli studi;T1 ;Totale iscritti;18555;352;647;403
+2012-2013;03601;Modena e Reggio Emilia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;215;;
+2012-2013;03601;Modena e Reggio Emilia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;471;0;0;0
+2012-2013;03601;Modena e Reggio Emilia - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;220;;;
+2012-2013;03701;Bologna - Università degli studi;T1 ;Totale iscritti;78161;1601;1243;1673
+2012-2013;03701;Bologna - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;945;;
+2012-2013;03701;Bologna - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;03701;Bologna - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;76;;;
+2012-2013;03801;Ferrara - Università degli studi;T1 ;Totale iscritti;15980;390;390;305
+2012-2013;03801;Ferrara - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;190;;
+2012-2013;03801;Ferrara - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;03801;Ferrara - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;99;;;
+2012-2013;04101;"Urbino - Università degli studi ""Carlo Bo""";T1 ;Totale iscritti;13740;172;42;245
+2012-2013;04101;"Urbino - Università degli studi ""Carlo Bo""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;96;;
+2012-2013;04101;"Urbino - Università degli studi ""Carlo Bo""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04101;"Urbino - Università degli studi ""Carlo Bo""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;68;;;
+2012-2013;04201;Ancona - Università Politecnica delle Marche;T1 ;Totale iscritti;16268;353;459;244
+2012-2013;04201;Ancona - Università Politecnica delle Marche;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;237;;
+2012-2013;04201;Ancona - Università Politecnica delle Marche;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04201;Ancona - Università Politecnica delle Marche;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;04301;Macerata - Università degli studi;T1 ;Totale iscritti;10615;172;107;125
+2012-2013;04301;Macerata - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;101;;
+2012-2013;04301;Macerata - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04301;Macerata - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;1984;;;
+2012-2013;04302;Camerino - Università degli studi;T1 ;Totale iscritti;7341;202;160;235
+2012-2013;04302;Camerino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;137;;
+2012-2013;04302;Camerino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04302;Camerino - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;506;;;
+2012-2013;04601;Lucca - Scuola IMT Alti Studi;T1 ;Totale iscritti;0;109;0;0
+2012-2013;04601;Lucca - Scuola IMT Alti Studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;85;;
+2012-2013;04601;Lucca - Scuola IMT Alti Studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04601;Lucca - Scuola IMT Alti Studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;04801;Firenze - Università degli studi;T1 ;Totale iscritti;51646;960;1182;1823
+2012-2013;04801;Firenze - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;545;;
+2012-2013;04801;Firenze - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;330
+2012-2013;04801;Firenze - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;753;;;
+2012-2013;04803;Firenze - Istituto Italiano di Scienze Umane;T1 ;Totale iscritti;0;69;0;0
+2012-2013;04803;Firenze - Istituto Italiano di Scienze Umane;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;65;;
+2012-2013;04803;Firenze - Istituto Italiano di Scienze Umane;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04803;Firenze - Istituto Italiano di Scienze Umane;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;04804;"Firenze - Università telematica ""Italian University line""";T1 ;Totale iscritti;50;0;0;96
+2012-2013;04804;"Firenze - Università telematica ""Italian University line""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;04804;"Firenze - Università telematica ""Italian University line""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;04804;"Firenze - Università telematica ""Italian University line""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05001;Pisa - Università degli studi;T1 ;Totale iscritti;47204;698;1051;891
+2012-2013;05001;Pisa - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;399;;
+2012-2013;05001;Pisa - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05001;Pisa - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05002;Pisa - Scuola normale superiore;T1 ;Totale iscritti;276;188;0;0
+2012-2013;05002;Pisa - Scuola normale superiore;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;188;;
+2012-2013;05002;Pisa - Scuola normale superiore;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05002;Pisa - Scuola normale superiore;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1 ;Totale iscritti;282;339;0;134
+2012-2013;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;199;;
+2012-2013;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05201;Siena - Università degli studi;T1 ;Totale iscritti;16226;495;551;805
+2012-2013;05201;Siena - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;313;;
+2012-2013;05201;Siena - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05201;Siena - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05202;Siena - Università per stranieri;T1 ;Totale iscritti;926;25;39;84
+2012-2013;05202;Siena - Università per stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;6;;
+2012-2013;05202;Siena - Università per stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05202;Siena - Università per stranieri;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05401;Perugia - Università degli studi;T1 ;Totale iscritti;26576;362;612;48
+2012-2013;05401;Perugia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;208;;
+2012-2013;05401;Perugia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;24;0;0
+2012-2013;05401;Perugia - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;91;;;
+2012-2013;05403;Perugia - Università per stranieri;T1 ;Totale iscritti;1232;27;0;46
+2012-2013;05403;Perugia - Università per stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;16;;
+2012-2013;05403;Perugia - Università per stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05403;Perugia - Università per stranieri;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05601;Viterbo - Università della Tuscia;T1 ;Totale iscritti;7416;278;10;126
+2012-2013;05601;Viterbo - Università della Tuscia;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;166;;
+2012-2013;05601;Viterbo - Università della Tuscia;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;1
+2012-2013;05601;Viterbo - Università della Tuscia;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;4;;;
+2012-2013;05801;"Roma - Università degli studi ""La Sapienza""";T1 ;Totale iscritti;114565;3163;3659;2275
+2012-2013;05801;"Roma - Università degli studi ""La Sapienza""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;1828;;
+2012-2013;05801;"Roma - Università degli studi ""La Sapienza""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;1405;0;0;0
+2012-2013;05801;"Roma - Università degli studi ""La Sapienza""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;5340;;;
+2012-2013;05802;"Roma - Università degli studi di ""Tor Vergata""";T1 ;Totale iscritti;33145;1621;1075;2394
+2012-2013;05802;"Roma - Università degli studi di ""Tor Vergata""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;689;;
+2012-2013;05802;"Roma - Università degli studi di ""Tor Vergata""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;309
+2012-2013;05802;"Roma - Università degli studi di ""Tor Vergata""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;63;;;
+2012-2013;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1 ;Totale iscritti;6964;54;67;426
+2012-2013;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;27;;
+2012-2013;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;324;0;3;20
+2012-2013;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;31;;;
+2012-2013;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1 ;Totale iscritti;7712;136;146;653
+2012-2013;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;82;;
+2012-2013;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;24
+2012-2013;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05806;"Roma - Università degli studi del ""Foro Italico""";T1 ;Totale iscritti;2032;45;0;0
+2012-2013;05806;"Roma - Università degli studi del ""Foro Italico""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;25;;
+2012-2013;05806;"Roma - Università degli studi del ""Foro Italico""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05806;"Roma - Università degli studi del ""Foro Italico""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;13;;;
+2012-2013;05807;Roma - III Università degli studi;T1 ;Totale iscritti;34704;624;184;1205
+2012-2013;05807;Roma - III Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;410;;
+2012-2013;05807;Roma - III Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;14
+2012-2013;05807;Roma - III Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;155;;;
+2012-2013;05808;"Roma - Università ""Campus Bio-Medico""";T1 ;Totale iscritti;1541;92;276;167
+2012-2013;05808;"Roma - Università ""Campus Bio-Medico""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;53;;
+2012-2013;05808;"Roma - Università ""Campus Bio-Medico""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;7;0;0
+2012-2013;05808;"Roma - Università ""Campus Bio-Medico""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05809;Roma - Università degli Studi Internazionali  UNINT;T1 ;Totale iscritti;1204;5;0;58
+2012-2013;05809;Roma - Università degli Studi Internazionali  UNINT;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;2;;
+2012-2013;05809;Roma - Università degli Studi Internazionali  UNINT;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05809;Roma - Università degli Studi Internazionali  UNINT;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1 ;Totale iscritti;8457;67;242;343
+2012-2013;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;14;;
+2012-2013;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05810;"Roma - Università telematica ""Guglielmo Marconi""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;770;;;
+2012-2013;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1 ;Totale iscritti;1817;0;0;2682
+2012-2013;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05811;"Roma - Università telematica ""Unitelma Sapienza""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05812;Roma - Università Europea;T1 ;Totale iscritti;923;35;38;3055
+2012-2013;05812;Roma - Università Europea;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;15;;
+2012-2013;05812;Roma - Università Europea;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05812;Roma - Università Europea;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1 ;Totale iscritti;8245;0;0;683
+2012-2013;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05814;Roma - Universitas Mercatorum;T1 ;Totale iscritti;158;0;0;30
+2012-2013;05814;Roma - Universitas Mercatorum;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;05814;Roma - Universitas Mercatorum;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05814;Roma - Universitas Mercatorum;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;31;;;
+2012-2013;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1 ;Totale iscritti;12610;11;0;1181
+2012-2013;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05815;Roma - Università telematica Niccolò Cusano (già UNISU);T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1 ;Totale iscritti;859;7;0;48
+2012-2013;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;2;;
+2012-2013;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;05817;Roma - Link Campus University;T1 ;Totale iscritti;1403;0;0;78
+2012-2013;05817;Roma - Link Campus University;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;05817;Roma - Link Campus University;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;05817;Roma - Link Campus University;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06001;Cassino - Università degli studi;T1 ;Totale iscritti;9451;183;0;41
+2012-2013;06001;Cassino - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;87;;
+2012-2013;06001;Cassino - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;2
+2012-2013;06001;Cassino - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;1181;;;
+2012-2013;06201;Benevento - Università degli studi del Sannio;T1 ;Totale iscritti;4937;91;0;132
+2012-2013;06201;Benevento - Università degli studi del Sannio;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;53;;
+2012-2013;06201;Benevento - Università degli studi del Sannio;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;87
+2012-2013;06201;Benevento - Università degli studi del Sannio;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;9;;;
+2012-2013;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1 ;Totale iscritti;458;0;0;450
+2012-2013;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06202;"Benevento - Università telematica ""Giustino Fortunato""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06301;"Napoli - Università degli studi ""Federico II""";T1 ;Totale iscritti;82565;1438;1434;1067
+2012-2013;06301;"Napoli - Università degli studi ""Federico II""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;912;;
+2012-2013;06301;"Napoli - Università degli studi ""Federico II""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06301;"Napoli - Università degli studi ""Federico II""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;1033;;;
+2012-2013;06302;"Napoli - Università degli studi ""Parthenope""";T1 ;Totale iscritti;16364;195;0;59
+2012-2013;06302;"Napoli - Università degli studi ""Parthenope""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;111;;
+2012-2013;06302;"Napoli - Università degli studi ""Parthenope""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06302;"Napoli - Università degli studi ""Parthenope""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;68;;;
+2012-2013;06303;"Napoli - Università degli studi ""L' Orientale""";T1 ;Totale iscritti;9735;131;0;50
+2012-2013;06303;"Napoli - Università degli studi ""L' Orientale""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;69;;
+2012-2013;06303;"Napoli - Università degli studi ""L' Orientale""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06303;"Napoli - Università degli studi ""L' Orientale""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";T1 ;Totale iscritti;8679;25;100;622
+2012-2013;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;12;;
+2012-2013;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;213
+2012-2013;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06306;Napoli - Seconda Università degli studi;T1 ;Totale iscritti;28368;530;1107;99
+2012-2013;06306;Napoli - Seconda Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;298;;
+2012-2013;06306;Napoli - Seconda Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06306;Napoli - Seconda Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06307;"Napoli - Universita telematica ""Pegaso""";T1 ;Totale iscritti;6247;11;0;9110
+2012-2013;06307;"Napoli - Universita telematica ""Pegaso""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;3;;
+2012-2013;06307;"Napoli - Universita telematica ""Pegaso""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06307;"Napoli - Universita telematica ""Pegaso""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06501;Salerno - Università degli studi;T1 ;Totale iscritti;34158;438;236;547
+2012-2013;06501;Salerno - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;264;;
+2012-2013;06501;Salerno - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;5;0;80
+2012-2013;06501;Salerno - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;460;;;
+2012-2013;06601;L'Aquila - Università degli studi;T1 ;Totale iscritti;24832;356;417;307
+2012-2013;06601;L'Aquila - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;177;;
+2012-2013;06601;L'Aquila - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06601;L'Aquila - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;8;;;
+2012-2013;06701;Teramo - Università degli studi;T1 ;Totale iscritti;6917;67;169;340
+2012-2013;06701;Teramo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;38;;
+2012-2013;06701;Teramo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06701;Teramo - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;299;;;
+2012-2013;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1 ;Totale iscritti;30202;430;709;585
+2012-2013;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;261;;
+2012-2013;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1 ;Totale iscritti;350;0;0;457
+2012-2013;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;07001;Campobasso - Università degli studi del Molise;T1 ;Totale iscritti;7811;100;44;56
+2012-2013;07001;Campobasso - Università degli studi del Molise;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;66;;
+2012-2013;07001;Campobasso - Università degli studi del Molise;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07001;Campobasso - Università degli studi del Molise;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;5;;;
+2012-2013;07101;Foggia - Università degli studi;T1 ;Totale iscritti;10579;125;256;440
+2012-2013;07101;Foggia - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;78;;
+2012-2013;07101;Foggia - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07101;Foggia - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;189;;;
+2012-2013;07201;Bari - Università degli studi;T1 ;Totale iscritti;53301;644;1504;708
+2012-2013;07201;Bari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;363;;
+2012-2013;07201;Bari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07201;Bari - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;156;;;
+2012-2013;07202;Bari - Politecnico;T1 ;Totale iscritti;9578;104;0;13
+2012-2013;07202;Bari - Politecnico;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;103;;
+2012-2013;07202;Bari - Politecnico;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;3;0;0;0
+2012-2013;07202;Bari - Politecnico;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;112;;;
+2012-2013;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1 ;Totale iscritti;1328;47;229;872
+2012-2013;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;22;;
+2012-2013;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;07501;Lecce - Università del Salento;T1 ;Totale iscritti;19490;324;162;182
+2012-2013;07501;Lecce - Università del Salento;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;165;;
+2012-2013;07501;Lecce - Università del Salento;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;3
+2012-2013;07501;Lecce - Università del Salento;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;4;;;
+2012-2013;07601;Potenza - Università degli studi della Basilicata;T1 ;Totale iscritti;8361;174;32;0
+2012-2013;07601;Potenza - Università degli studi della Basilicata;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;108;;
+2012-2013;07601;Potenza - Università degli studi della Basilicata;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07601;Potenza - Università degli studi della Basilicata;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;07801;Arcavacata di Rende - Università della Calabria;T1 ;Totale iscritti;31646;373;558;734
+2012-2013;07801;Arcavacata di Rende - Università della Calabria;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;212;;
+2012-2013;07801;Arcavacata di Rende - Università della Calabria;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;07801;Arcavacata di Rende - Università della Calabria;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;4;;;
+2012-2013;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1 ;Totale iscritti;10425;185;536;178
+2012-2013;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;135;;
+2012-2013;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;6
+2012-2013;07901;"Catanzaro - Università degli studi ""Magna Grecia""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;08001;Reggio Calabria - Università degli studi Mediterranea;T1 ;Totale iscritti;7849;156;121;0
+2012-2013;08001;Reggio Calabria - Università degli studi Mediterranea;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;87;;
+2012-2013;08001;Reggio Calabria - Università degli studi Mediterranea;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;08001;Reggio Calabria - Università degli studi Mediterranea;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;08003;Reggio Calabria - Università per Stranieri;T1 ;Totale iscritti;702;0;0;10446
+2012-2013;08003;Reggio Calabria - Università per Stranieri;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;0;;
+2012-2013;08003;Reggio Calabria - Università per Stranieri;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;08003;Reggio Calabria - Università per Stranieri;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;08201;Palermo - Università degli studi;T1 ;Totale iscritti;48931;921;1201;401
+2012-2013;08201;Palermo - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;541;;
+2012-2013;08201;Palermo - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;08201;Palermo - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;2333;;;
+2012-2013;08301;Messina - Università degli studi;T1 ;Totale iscritti;26978;462;1035;452
+2012-2013;08301;Messina - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;270;;
+2012-2013;08301;Messina - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;73
+2012-2013;08301;Messina - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;52;;;
+2012-2013;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1 ;Totale iscritti;5974;53;0;68
+2012-2013;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;18;;
+2012-2013;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;08701;Catania - Università degli studi;T1 ;Totale iscritti;49387;370;1412;467
+2012-2013;08701;Catania - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;267;;
+2012-2013;08701;Catania - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;08701;Catania - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;0;;;
+2012-2013;09001;Sassari - Università degli studi;T1 ;Totale iscritti;13760;433;559;149
+2012-2013;09001;Sassari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;275;;
+2012-2013;09001;Sassari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;127
+2012-2013;09001;Sassari - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;939;;;
+2012-2013;09201;Cagliari - Università degli studi;T1 ;Totale iscritti;29400;633;1017;132
+2012-2013;09201;Cagliari - Università degli studi;T1a;Totale iscritti - di cui assegnatari di borsa di studio di dottorato di ricerca (DM 30/4/99 n. 224, art 7);;398;;
+2012-2013;09201;Cagliari - Università degli studi;T1b;Totale iscritti - di cui studenti con parziale copertura delle tasse da enti esterni;0;0;0;0
+2012-2013;09201;Cagliari - Università degli studi;T1c;Totale iscritti - di cui studenti iscritti a tempo parziale;4204;;;
