@@ -3,9 +3,13 @@
 Quattro video, **52 minuti in tutto**. Si guardano **prima** della lezione in
 aula, e per l'esercitazione servono soprattutto il terzo e il quarto.
 
-I video stanno nella cartella **Videolezioni** su Google Drive: il link è
-nella sezione di questa lezione sulla pagina Moodle, e la cartella si apre con
-l'**account campus**.
+I video stanno nella cartella **Videolezioni** su Google Drive, in
+`L02_InformazioneECalcolatore/`:
+
+<https://drive.google.com/drive/folders/1V1L8G9y0Rp7lQDawD49cLpxYVbG995hD>
+
+Si apre con l'**account campus**: è condivisa con i soli account d'Ateneo, e il
+link è anche sulla pagina Moodle nella sezione di questa lezione.
 
 | Video | Durata | Di cosa parla |
 |:---|:---:|:---|
