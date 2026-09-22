@@ -2,8 +2,8 @@
 
 **Lezione coperta:** `L02` — informazione, calcolatore, SO, file system, shell
 
-Si avvia in aula al termine di `F02` e si finisce a casa. **Senza soluzioni** e
-**senza consegna**: per parlarne, la lezione dopo o il ricevimento.
+Si svolge in aula al termine di `F02`. **Senza soluzioni** e **senza
+consegna**: per parlarne, la lezione dopo o il ricevimento.
 
 ---
 
