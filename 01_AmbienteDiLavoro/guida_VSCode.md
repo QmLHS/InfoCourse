@@ -164,6 +164,25 @@ converti in `LF` e salvi.
 
 ---
 
+## Due cose da non fare
+
+**Non spuntare `trim trailing whitespace`.** Sembra una pulizia utile — toglie
+gli spazi in fondo alle righe quando salvi — ma su un file di dati cancella
+informazione: nel file degli iscritti il codice `T1 ` ha uno spazio che fa parte
+del dato, e salvando lo perderesti senza accorgertene. Le impostazioni del punto
+precedente **mostrano** i caratteri invisibili, non li toccano: è la differenza
+che conta.
+
+**Non aprire i dati con Excel o Word.** Un `.csv` è un file di testo, ma quei
+programmi non lo mostrano: mostrano la loro interpretazione, e se salvi la
+scrivono sul file. Gli zeri iniziali dei codici spariscono (`00101` diventa
+`101`), le date vengono riscritte secondo la lingua del sistema, il separatore
+cambia. Per **guardare** i dati si usa l'editor o la shell (`head`, `cut`); per
+**modificarli** si scrive un programma che legge un file e ne scrive un altro,
+lasciando l'originale dov'è.
+
+---
+
 ## Se qualcosa non funziona
 
 | Problema | Cosa fare |
