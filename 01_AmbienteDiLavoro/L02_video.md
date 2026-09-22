@@ -44,19 +44,3 @@ buona — 52 minuti su quattro argomenti — ma dalla lezione sui file in poi il
 materiale scritto è l'unico che precede l'aula. Prenderci l'abitudine da qui è
 un vantaggio.
 
-## Riferimento interno
-
-I file stanno in `Videolezioni/L02_InformazioneECalcolatore/`, rinominati il
-21/09/2026; questi erano i nomi con cui sono stati registrati:
-
-| Nome nuovo | Nome originale |
-|:---|:---|
-| `L02_p1_Intro.mp4` | `L06_OS/L06_OS01_Intro.mp4` |
-| `L02_p2_FileSystem.mp4` | `L06_OS/L06_OS02_FileSystem_.mp4` |
-| `L02_p3_Shell.mp4` | `L06_OS/L06_OS03_Shell.mp4` |
-| `L02_p4_PythonEShell.mp4` | `L06_OS/L06_OS04_Python_and_Shell.mp4` |
-
-La vecchia sigla `L06` veniva dalla numerazione dei video, che non coincideva né
-con quella dei lucidi né con quella dell'agenda: è la ragione per cui il corso è
-stato rinumerato per argomento. La corrispondenza completa è in
-`~/Corsi/Informatica/MAPPA_RINOMINI.md`.
