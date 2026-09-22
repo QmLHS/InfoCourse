@@ -1,4 +1,4 @@
-# Videolezioni — L02: architettura, sistema operativo, shell
+# Videolezioni — L02: Informazione, calcolatore, SO, file system, shell
 
 Quattro video, **52 minuti in tutto**. Si guardano **prima** della lezione in
 aula, e per l'esercitazione servono soprattutto il terzo e il quarto.
@@ -32,15 +32,9 @@ L'ordine consigliato: `p1` e `p2` per primi, poi `p3` **con il terminale aperto
 accanto** — la dispensa è scritta per essere seguita digitando, non leggendo — e
 `p4` alla fine, che è corto e serve da ponte verso la lezione successiva.
 
-## Due avvertenze
+## Un'avvertenza
 
 **Le slide che vedi nei video non sono i lucidi che ti ho dato.** I video sono
 registrati nel dicembre 2018 e mostrano la versione dei lucidi di allora: i
 contenuti sono gli stessi, la numerazione delle slide e alcune figure no. Dove le
 due cose divergono, **valgono i lucidi e la dispensa**, che sono aggiornati.
-
-**Non ci sono altri video, né ce ne saranno.** Per questa lezione la copertura è
-buona — 52 minuti su quattro argomenti — ma dalla lezione sui file in poi il
-materiale scritto è l'unico che precede l'aula. Prenderci l'abitudine da qui è
-un vantaggio.
-
