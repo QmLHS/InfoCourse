@@ -110,7 +110,7 @@ puoi anche cambiarle.
 |:---|:---|:---|
 | Salva | `Ctrl + S` | `Cmd + S` |
 | Annulla / ripeti | `Ctrl + Z` / `Ctrl + Shift + Z` | `Cmd + Z` / `Cmd + Shift + Z` |
-| Commenta o decommenta le righe selezionate | `Ctrl + ù` (o `Ctrl + /`) | `Cmd + /` |
+| Commenta o decommenta le righe selezionate | `Ctrl + /` | `Cmd + /` |
 | Duplica la riga | `Shift + Alt + Giù` | `Shift + Option + Giù` |
 | Sposta la riga su o giù | `Alt + Su` / `Alt + Giù` | `Option + Su` / `Option + Giù` |
 | Cancella la riga | `Ctrl + Shift + K` | `Cmd + Shift + K` |
