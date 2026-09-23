@@ -6,7 +6,7 @@
 > corso l'editor è **Visual Studio Code** (VS Code).
 >
 > **Non è materia d'esame.** È lo strumento con cui scriverai tutto il resto:
-> gli script della shell adesso, i programmi Python da `L04` in poi.
+> gli script della shell adesso, i programmi Python da `L03` in poi.
 >
 > Vale anche sul tuo computer, se ce l'hai installato: cambia solo il tasto
 > `Ctrl`, che su Mac diventa `Cmd`.

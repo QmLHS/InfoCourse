@@ -30,18 +30,18 @@ Se serve chiederlo, prima lo si insegna e lo si aggiunge qui.
 ## Indice
 
 0. [Vincoli del modulo PYT](#0-vincoli-del-modulo-pyt)
-1. [Input, output e conversioni (L05)](#1-input-output-e-conversioni-l05)
-2. [Operatori ed espressioni (L05)](#2-operatori-ed-espressioni-l05)
-3. [Logica booleana (L05_f)](#3-logica-booleana-l05_f)
-4. [Selezione (L06)](#4-selezione-l06)
-5. [Iterazione (L07)](#5-iterazione-l07)
-6. [Stringhe (L08_b)](#6-stringhe-l08_b)
-7. [Liste e tuple (L08_c, L08_d)](#7-liste-e-tuple-l08_c-l08_d)
-8. [Dizionari e iteratori (L08_e, L08_f)](#8-dizionari-e-iteratori-l08_e-l08_f)
-9. [Funzioni e moduli (L09)](#9-funzioni-e-moduli-l09)
-10. [File (L10)](#10-file-l10)
-11. [Pandas (L11)](#11-pandas-l11)
-12. [Matplotlib (L12)](#12-matplotlib-l12)
+1. [Input, output e conversioni (L04)](#1-input-output-e-conversioni-l04)
+2. [Operatori ed espressioni (L04)](#2-operatori-ed-espressioni-l04)
+3. [Logica booleana (L04_f)](#3-logica-booleana-l04_f)
+4. [Selezione (L05)](#4-selezione-l05)
+5. [Iterazione (L06)](#5-iterazione-l06)
+6. [Stringhe (L07_b)](#6-stringhe-l07_b)
+7. [Liste e tuple (L07_c, L07_d)](#7-liste-e-tuple-l07_c-l07_d)
+8. [Dizionari e iteratori (L07_e, L07_f)](#8-dizionari-e-iteratori-l07_e-l07_f)
+9. [Funzioni e moduli (L08)](#9-funzioni-e-moduli-l08)
+10. [File (L09)](#10-file-l09)
+11. [Pandas (L10)](#11-pandas-l10)
+12. [Matplotlib (L11)](#12-matplotlib-l11)
 13. [Divergenze da sanare](#13-divergenze-da-sanare)
 
 ---
@@ -65,7 +65,7 @@ Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
 
 ---
 
-## 1. Input, output e conversioni (L05)
+## 1. Input, output e conversioni (L04)
 
 | Funzione | Scopo | Note |
 |:---|:---|:---|
@@ -80,7 +80,7 @@ Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
 > `input()` restituisce **sempre** una stringa: `int(input(...))` è il pattern per
 > leggere un numero. È l'errore più frequente nei primi esercizi.
 
-## 2. Operatori ed espressioni (L05)
+## 2. Operatori ed espressioni (L04)
 
 | Operatore | Scopo |
 |:---|:---|
@@ -101,10 +101,10 @@ Tutti **PYT** e **FOD**.
 | `sum(seq)` | Somma degli elementi | **PYT** |
 | `len(x)` | Lunghezza di stringa, lista, tupla, dizionario | **PYT** **FOD** |
 
-> **La precedenza degli operatori** è materia di `L05_d`: `2 + 3 * 4` fa 14, non 20.
+> **La precedenza degli operatori** è materia di `L04_d`: `2 + 3 * 4` fa 14, non 20.
 > In caso di dubbio, parentesi.
 
-## 3. Logica booleana (L05_f)
+## 3. Logica booleana (L04_f)
 
 | Operatore | Vero quando |
 |:---|:---|
@@ -121,9 +121,9 @@ Tutti **PYT**.
 | qualsiasi altro | vero |
 
 > Le condizioni si possono comporre: `if eta >= 18 and residenza == "Milano":`.
-> `not (a and b)` equivale a `(not a) or (not b)` — De Morgan, materia di `L05_f`.
+> `not (a and b)` equivale a `(not a) or (not b)` — De Morgan, materia di `L04_f`.
 
-## 4. Selezione (L06)
+## 4. Selezione (L05)
 
 | Costrutto | Scopo |
 |:---|:---|
@@ -141,7 +141,7 @@ Tutti **PYT**.
 > Le condizioni si annidano (`if` dentro `if`), ma un `elif` è quasi sempre più
 > leggibile di un `else` che contiene un altro `if`.
 
-## 5. Iterazione (L07)
+## 5. Iterazione (L06)
 
 | Costrutto | Scopo |
 |:---|:---|
@@ -157,15 +157,15 @@ Tutti **PYT**.
 
 > **Il contatore.** Un `while` che deve girare *n* volte ha tre pezzi che devono
 > esserci tutti: inizializzazione prima del ciclo, condizione, incremento dentro il
-> corpo. Se manca l'incremento il ciclo è infinito — è l'errore di `L07`.
+> corpo. Se manca l'incremento il ciclo è infinito — è l'errore di `L06`.
 >
 > **La sentinella.** Un ciclo che legge finché non arriva un valore d'arresto:
 > si legge una prima volta prima del `while`, e si rilegge in fondo al corpo.
 >
 > **La trace table** — variabile per variabile, giro per giro — è lo strumento per
-> capire un ciclo che non fa quello che dovrebbe. Materia di `L07`, e vale l'esame.
+> capire un ciclo che non fa quello che dovrebbe. Materia di `L06`, e vale l'esame.
 
-## 6. Stringhe (L08_b)
+## 6. Stringhe (L07_b)
 
 | Metodo | Scopo |
 |:---|:---|
@@ -190,7 +190,7 @@ Tutti **PYT**.
 > **Le stringhe sono immutabili.** `s.upper()` non modifica `s`, restituisce una
 > stringa nuova: va assegnata. Vale per tutti i metodi di questa tabella.
 
-## 7. Liste e tuple (L08_c, L08_d)
+## 7. Liste e tuple (L07_c, L07_d)
 
 | Metodo | Scopo |
 |:---|:---|
@@ -222,10 +222,10 @@ Tutti **PYT**.
 >
 > **Copia e riferimento.** `l2 = l1` non copia: dà un secondo nome alla stessa
 > lista, e modificarla attraverso l'uno si vede anche dall'altro. Per una copia
-> vera, `l1.copy()`. È materia di `L05_e` ed è il concetto che gli studenti
+> vera, `l1.copy()`. È materia di `L04_e` ed è il concetto che gli studenti
 > sbagliano più a lungo.
 
-## 8. Dizionari e iteratori (L08_e, L08_f)
+## 8. Dizionari e iteratori (L07_e, L07_f)
 
 | Costrutto | Scopo |
 |:---|:---|
@@ -256,11 +256,11 @@ Tutti **PYT**.
 > ```
 > Da sapere a memoria. `d.get(elemento, 0) + 1` lo abbrevia.
 >
-> **Strutture annidate** (`L08_g`): liste di liste, dizionari di liste, liste di
+> **Strutture annidate** (`L07_g`): liste di liste, dizionari di liste, liste di
 > dizionari. `dati[i][j]` e `d[chiave][indice]`. È la forma in cui arrivano i dati
 > caricati da file, quindi è materia d'esame.
 
-## 9. Funzioni e moduli (L09)
+## 9. Funzioni e moduli (L08)
 
 | Costrutto | Scopo |
 |:---|:---|
@@ -290,13 +290,13 @@ Tutti **PYT**.
 > **Variabili locali.** Una variabile assegnata dentro una funzione vive solo lì.
 > Modificare un parametro dentro la funzione non cambia la variabile del chiamante —
 > **ma se il parametro è una lista, modificarne il contenuto sì**. È materia di
-> `L09_b` ed è il punto più sottile del modulo.
+> `L08_b` ed è il punto più sottile del modulo.
 >
-> **Moduli e package** (`L09_a`): un modulo è un file `.py`, un package una cartella
+> **Moduli e package** (`L08_a`): un modulo è un file `.py`, un package una cartella
 > di moduli, il package manager (`pip`, `conda`) è ciò che li installa. Concetti,
 > non esercizi.
 
-## 10. File (L10)
+## 10. File (L09)
 
 | Costrutto | Scopo |
 |:---|:---|
@@ -331,7 +331,7 @@ Tutti **PYT**.
 > ```
 > Saltare righe vuote e commenti, dividere, convertire i tipi, accumulare.
 
-## 11. Pandas (L11)
+## 11. Pandas (L10)
 
 Import convenzionale: `import pandas as pd`.
 
@@ -433,7 +433,7 @@ Tutti **FOD**.
 `melt`, `stack`/`unstack`, `.diff()`, `.div(axis=)`. Servono a capire cosa sa fare
 la libreria; non compaiono nei temi.
 
-## 12. Matplotlib (L12)
+## 12. Matplotlib (L11)
 
 Import convenzionale: `import matplotlib.pyplot as plt`.
 
@@ -472,17 +472,17 @@ erano mai guardati in faccia. Non coincidono.
 ### Chiesto all'esame, mai insegnato
 
 Ricerca su tutto il materiale didattico FOD — i quattro notebook «Lezione11a–d», il
-deck `L11a`, `Lezione12Matplotlib`, le esercitazioni E05 ed E06 — contro le
+deck `L10a`, `Lezione12Matplotlib`, le esercitazioni E05 ed E06 — contro le
 soluzioni d'esame:
 
 | Costrutto | Temi che lo usano | Insegnato prima | Ora coperto da |
 |:---|:--:|:---|:---|
-| `.info()` | **15** | da nessuna parte | `L11_a_PandasLetturaDati.md` |
-| `.sort_values()` | **10** | da nessuna parte | `L11_c_PandasUnDataFrame.md` §1 |
-| `.std()` | **9** | solo come riga di `describe()` | `L11_c_PandasUnDataFrame.md` §4 |
-| `.drop()` | **6** | solo in `Esercitazioni/` | `L11_c_PandasUnDataFrame.md` §3 |
-| `.isin()` | **5** | da nessuna parte | `L11_c_PandasUnDataFrame.md` §2 |
-| `plt.tight_layout()` | **3** | da nessuna parte | `L12_a_Matplotlib.md` |
+| `.info()` | **15** | da nessuna parte | `L10_a_PandasLetturaDati.md` |
+| `.sort_values()` | **10** | da nessuna parte | `L10_c_PandasUnDataFrame.md` §1 |
+| `.std()` | **9** | solo come riga di `describe()` | `L10_c_PandasUnDataFrame.md` §4 |
+| `.drop()` | **6** | solo in `Esercitazioni/` | `L10_c_PandasUnDataFrame.md` §3 |
+| `.isin()` | **5** | da nessuna parte | `L10_c_PandasUnDataFrame.md` §2 |
+| `plt.tight_layout()` | **3** | da nessuna parte | `L11_a_Matplotlib.md` |
 
 **Colmato il 07/09/2026.** I sei costrutti hanno ora una sezione ciascuno nel
 markdown pre-lezione della loro lezione, con esempi che girano su
@@ -490,8 +490,8 @@ markdown pre-lezione della loro lezione, con esempi che girano su
 esistenti, così il materiale nuovo si innesta su quello vecchio invece di
 affiancarlo. Ogni blocco di codice è stato eseguito prima di essere scritto qui.
 
-Restano file **parziali**: coprono il buco, non l'intera lezione. Il resto di `L11`
-e `L12` va ancora riportato dai notebook del 2023.
+Restano file **parziali**: coprono il buco, non l'intera lezione. Il resto di `L10`
+e `L11` va ancora riportato dai notebook del 2023.
 
 `.info()` era il caso più serio: la progressione tipica delle domande FOD descritta
 in `temiEsame/CLAUDE.md` la mette al primo quesito — *"display `.head()`,

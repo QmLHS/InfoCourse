@@ -1,4 +1,4 @@
-# L11_a — Leggere i dati con pandas
+# L10_a — Leggere i dati con pandas
 
 > **Materiale pre-lezione.** Da leggere prima di venire in aula. Questa lezione non
 > ha videolezione: il materiale scritto è l'unico che precede l'incontro.
@@ -145,6 +145,6 @@ for c in meteo.columns:
 
 ## Da completare
 
-Il resto di `L11_a` — i parametri di `read_csv()`, i separatori, gli encoding, il
+Il resto di `L10_a` — i parametri di `read_csv()`, i separatori, gli encoding, il
 riconoscimento del formato — va riportato qui dai notebook
 `Lezione11aProgPythonPandasIntroLetturaDati` in `LezioniLucidi/Pandas/`.

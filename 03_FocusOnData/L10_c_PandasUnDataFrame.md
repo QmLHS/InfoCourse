@@ -1,4 +1,4 @@
-# L11_c — Lavorare su un DataFrame
+# L10_c — Lavorare su un DataFrame
 
 > **Materiale pre-lezione.** Da leggere prima di venire in aula. Questa lezione non
 > ha videolezione: il materiale scritto è l'unico che precede l'incontro.
@@ -18,7 +18,7 @@ meteo = pd.read_csv("data/MeteoMilano2011.csv")
 ```
 
 > Alcune colonne del file hanno uno **spazio iniziale** nel nome: si scrive
-> `meteo[" Eventi"]`, non `meteo["Eventi"]`. Vedi `L11_a`.
+> `meteo[" Eventi"]`, non `meteo["Eventi"]`. Vedi `L10_a`.
 
 ---
 
@@ -145,7 +145,7 @@ prima: (365, 23)  dopo: (365, 21)
 ```
 
 Due colonne tolte: quella con il frammento HTML nel nome, e quella con 341 valori
-mancanti su 365 vista in `L11_a`. Le righe restano 365.
+mancanti su 365 vista in `L10_a`. Le righe restano 365.
 
 ### Eliminare righe
 
@@ -234,6 +234,6 @@ La riga `std` di `describe()` e il risultato di `.std()` sono lo stesso valore.
 
 ## Da completare
 
-Il resto di `L11_c` — selezione con `loc`/`iloc`, creazione di colonne, gestione dei
+Il resto di `L10_c` — selezione con `loc`/`iloc`, creazione di colonne, gestione dei
 mancanti, raggruppamenti — va riportato qui dal notebook
 `Lezione11cProgPythonPandasIntroLavorareSuUnDataFrame` in `LezioniLucidi/Pandas/`.

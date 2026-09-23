@@ -1,4 +1,4 @@
-# L12_a — Rappresentare i dati con matplotlib
+# L11_a — Rappresentare i dati con matplotlib
 
 > **Materiale pre-lezione.** Da leggere prima di venire in aula. Questa lezione non
 > ha videolezione: il materiale scritto è l'unico che precede l'incontro.
@@ -43,7 +43,7 @@ plt.savefig("meteoMensile.pdf")
 Il grafico esce **con i nomi dei mesi tagliati**: ruotandole, le etichette escono
 dal bordo inferiore della figura, e matplotlib non allarga i margini da solo.
 
-![Lo stesso grafico senza e con tight_layout](images/L12_tight_layout.png)
+![Lo stesso grafico senza e con tight_layout](images/L11_tight_layout.png)
 
 Sopra, i mesi si leggono `nnaio`, `braio`, `mbre`. Sotto, si leggono per intero.
 L'unica differenza è una riga.
@@ -91,6 +91,6 @@ con etichette leggibili, conviene metterla sempre.
 
 ## Da completare
 
-Il resto di `L12_a` — i tipi di grafico, colori e stili, assi e legende, figure con
+Il resto di `L11_a` — i tipi di grafico, colori e stili, assi e legende, figure con
 più riquadri — va riportato qui dal notebook `Lezione12Matplotlib` in
 `LezioniLucidi/IntroDataVisualization/`.
