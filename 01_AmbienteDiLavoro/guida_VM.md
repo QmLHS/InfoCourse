@@ -141,6 +141,7 @@ corso: `guida_GitHub.md`, due comandi.
 | la macchina del corso non è nell'elenco | l'icona comincia con l'**ID del laboratorio**, che cambia ogni anno: **3573** per il 2026/27. Se ne vedi una sola, è quella |
 | le credenziali non vengono accettate | serve l'account d'Ateneo `nomeUtente@campus.unimib.it`, non un indirizzo personale |
 | il Drive non compare fra le risorse | rifai il punto 3: la connessione dell'account non è stata completata |
+| **niente di tutto questo, e la macchina resta irraggiungibile** | apri un **ticket** al service desk d'Ateneo: <https://servicedesk.unimib.it/servicedesk/customer/portal/31/create/307>. Scrivi cosa hai fatto, cosa ti aspettavi e cosa è successo, con il messaggio d'errore copiato per intero |
 
 Quello che cambia ogni anno è poco e sempre lo stesso: **il link di iscrizione,
 l'indirizzo di accesso e il nome della macchina**. Tutto il resto della
