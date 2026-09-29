@@ -80,6 +80,24 @@ Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
 > `input()` restituisce **sempre** una stringa: `int(input(...))` è il pattern per
 > leggere un numero. È l'errore più frequente nei primi esercizi.
 
+**Due modi di formattare, entrambi ammessi** (aggiornato il 28/09/2026).
+
+| forma | esempio | dove si insegna |
+|:---|:---|:---|
+| f-string | `print(f"media: {media:.2f}")` | `L04_c`, in coda — **non è nel video** |
+| con `%` | `print("media: %f" % media)` | `L04_c`, e il video la mostra |
+
+Della forma con `%`: `%d` intero, `%f` float, `%s` stringa, `%r` contenuto raw,
+e `\t` `\n` per tabulazione e a capo. Delle f-string serve la sola
+interpolazione `{nome}` e lo specificatore `{nome:.2f}`.
+
+> **`.format()` resta fuori**: è una terza forma che non aggiunge niente alle
+> due, e non si chiede.
+
+> `eval(input(...))` compare in coda a `L04_c` perché è nel video, ma **non è
+> il pattern del corso**: la conversione si scrive esplicita, `int(input(...))`
+> o `float(input(...))`. Il frame che segue lo dice. Aggiunto il 28/09/2026.
+
 ## 2. Operatori ed espressioni (L04)
 
 | Operatore | Scopo |
