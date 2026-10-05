@@ -6,6 +6,11 @@ che usiamo nel corso: `man <comando>` ha tutte le altre.
 Vale per **Unix** — Linux e macOS, quindi la VM del corso. I comandi Windows
 corrispondenti sono nella tabella dei lucidi.
 
+> Questi comandi servono **a lavorare**, non all'esame: la prova è in Python, e
+> quello che vi si può chiedere sta in `riepilogo_funzioni_python.md`. Qui
+> trovate gli strumenti per guardare un file prima di aprirlo, che è un gesto
+> che farete tutte le volte e che nessuna prova vi chiederà.
+
 ---
 
 ## Orientarsi
@@ -78,6 +83,42 @@ quali colonne ha un file prima di aprirlo con pandas.
 | `comando > file` | scrive l'output nel file, **sovrascrivendolo** |
 | `comando >> file` | aggiunge l'output in fondo al file |
 | `comando1 \| comando2` | manda l'output del primo nell'input del secondo (*pipe*) |
+
+---
+
+## Tagliare, ordinare, contare
+
+I comandi che si mettono **dentro una pipe**: ciascuno fa una cosa sola, e si
+combinano.
+
+| Comando | Cosa fa | Opzioni utili |
+|:---|:---|:---|
+| `cut -d'<sep>' -f<n>` | tiene solo la colonna `n` | `-f1,6` più colonne · il separatore va fra apici |
+| `sort` | ordina le righe, alfabeticamente | `-u` toglie i doppioni · `-n` ordina da numero · `-r` al contrario |
+| `sort -t'<sep>' -k<n>` | ordina su una colonna precisa | si combina con `-n` e `-r` |
+| `uniq` | schiaccia righe **uguali e adiacenti** | `-c` le conta · `-d` mostra solo i doppioni |
+| `tr '<a>' '<b>'` | sostituisce caratteri, uno a uno | `tr ';' '\n'` mette ogni campo su una riga |
+| `nl` | numera le righe | utile dopo `tr`, per sapere il numero di una colonna |
+| `cat -A <file>` | mostra i caratteri **invisibili** | `$` è il fine riga: rivela gli spazi in coda |
+
+**`uniq` vuole l'ordinamento prima.** Schiaccia solo righe uguali *e vicine*,
+quindi la tabella di frequenza è sempre `sort | uniq -c`, mai `uniq -c` da solo.
+
+Due esempi, sul file degli iscritti che ha il punto e virgola come separatore:
+
+```
+head -1 dati.csv | tr ';' '\n' | nl
+```
+
+numera le colonne, così sapete che numero dare a `cut`.
+
+```
+tail -n +2 dati.csv | cut -d';' -f1 | sort | uniq -c
+```
+
+conta quante righe ci sono per ciascun valore della prima colonna: è la tabella
+di frequenza, e `tail -n +2` serve a lasciare fuori l'intestazione, che
+altrimenti `cut` conta come un valore.
 
 ---
 
