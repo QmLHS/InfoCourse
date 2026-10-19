@@ -1,15 +1,10 @@
 # Riepilogo dei comandi — L02: shell e file system
 
-Tutti i comandi della lezione, in un posto solo. Le opzioni elencate sono quelle
-che usiamo nel corso: `man <comando>` ha tutte le altre.
+Tutti i comandi della lezione, in un posto solo. Le opzioni elencate sono quelle che usiamo nel corso: `man <comando>` ha tutte le altre.
 
-Vale per **Unix** — Linux e macOS, quindi la VM del corso. I comandi Windows
-corrispondenti sono nella tabella dei lucidi.
+Vale per **Unix** — Linux e macOS, quindi la VM del corso. I comandi Windows corrispondenti sono nella tabella dei lucidi.
 
-> Questi comandi servono **a lavorare**, non all'esame: la prova è in Python, e
-> quello che vi si può chiedere sta in `riepilogo_funzioni_python.md`. Qui
-> trovate gli strumenti per guardare un file prima di aprirlo, che è un gesto
-> che farete tutte le volte e che nessuna prova vi chiederà.
+> Questi comandi servono **a lavorare**, non all'esame: la prova è in Python, e quello che vi si può chiedere sta in `riepilogo_funzioni_python.md`. Qui trovate gli strumenti per guardare un file prima di aprirlo, che è un gesto che farete tutte le volte e che nessuna prova vi chiederà.
 
 ---
 
@@ -32,8 +27,7 @@ corrispondenti sono nella tabella dei lucidi.
 | `-` | con `cd`: la directory precedente |
 | `*` | qualunque sequenza di caratteri (*globbing*) |
 
-Un percorso **assoluto** inizia con `/` o `~` e vale da qualunque punto; uno
-**relativo** parte dalla directory corrente e cambia significato se ti sposti.
+Un percorso **assoluto** inizia con `/` o `~` e vale da qualunque punto; uno **relativo** parte dalla directory corrente e cambia significato se ti sposti.
 
 ## Chiedere aiuto, e scrivere meno
 
@@ -58,8 +52,7 @@ Un percorso **assoluto** inizia con `/` o `~` e vale da qualunque punto; uno
 | `rm <file>` | cancella un file, **senza conferma e senza cestino** | `-r` per le directory · `-i` chiede conferma |
 | `rmdir <dir>` | cancella una directory **solo se vuota** | — |
 
-> `rmdir` che protesta non è un ostacolo: è l'avviso che la directory contiene
-> qualcosa che non hai guardato.
+> `rmdir` che protesta non è un ostacolo: è l'avviso che la directory contiene qualcosa che non hai guardato.
 
 ## Guardare dentro un file
 
@@ -71,8 +64,7 @@ Un percorso **assoluto** inizia con `/` o `~` e vale da qualunque punto; uno
 | `tail <file>` | le ultime 10 righe | `-n <N>` le ultime N |
 | `wc <file>` | conta righe, parole, caratteri | `-l` solo le righe |
 
-`head -n 1` su un `.csv` mostra l'intestazione: è il modo più rapido di sapere
-quali colonne ha un file prima di aprirlo con pandas.
+`head -n 1` su un `.csv` mostra l'intestazione: è il modo più rapido di sapere quali colonne ha un file prima di aprirlo con pandas.
 
 ## Produrre testo, e incanalarlo
 
@@ -88,8 +80,7 @@ quali colonne ha un file prima di aprirlo con pandas.
 
 ## Tagliare, ordinare, contare
 
-I comandi che si mettono **dentro una pipe**: ciascuno fa una cosa sola, e si
-combinano.
+I comandi che si mettono **dentro una pipe**: ciascuno fa una cosa sola, e si combinano.
 
 | Comando | Cosa fa | Opzioni utili |
 |:---|:---|:---|
@@ -101,8 +92,7 @@ combinano.
 | `nl` | numera le righe | utile dopo `tr`, per sapere il numero di una colonna |
 | `cat -A <file>` | mostra i caratteri **invisibili** | `$` è il fine riga: rivela gli spazi in coda |
 
-**`uniq` vuole l'ordinamento prima.** Schiaccia solo righe uguali *e vicine*,
-quindi la tabella di frequenza è sempre `sort | uniq -c`, mai `uniq -c` da solo.
+**`uniq` vuole l'ordinamento prima.** Schiaccia solo righe uguali *e vicine*, quindi la tabella di frequenza è sempre `sort | uniq -c`, mai `uniq -c` da solo.
 
 Due esempi, sul file degli iscritti che ha il punto e virgola come separatore:
 
@@ -116,9 +106,7 @@ numera le colonne, così sapete che numero dare a `cut`.
 tail -n +2 dati.csv | cut -d';' -f1 | sort | uniq -c
 ```
 
-conta quante righe ci sono per ciascun valore della prima colonna: è la tabella
-di frequenza, e `tail -n +2` serve a lasciare fuori l'intestazione, che
-altrimenti `cut` conta come un valore.
+conta quante righe ci sono per ciascun valore della prima colonna: è la tabella di frequenza, e `tail -n +2` serve a lasciare fuori l'intestazione, che altrimenti `cut` conta come un valore.
 
 ---
 
@@ -152,9 +140,7 @@ altrimenti `cut` conta come un valore.
 | `python <file>.py` | esegue lo script |
 | `python` | apre l'interprete interattivo (`exit()` o `ctrl-d` per uscire) |
 
-> Il percorso in `pd.read_csv("data/meteo.csv")` è relativo alla directory da cui
-> hai lanciato Python, non a quella dove sta lo script. Il `FileNotFoundError`
-> più comune del corso è un `pwd` sbagliato.
+> Il percorso in `pd.read_csv("data/meteo.csv")` è relativo alla directory da cui hai lanciato Python, non a quella dove sta lo script. Il `FileNotFoundError` più comune del corso è un `pwd` sbagliato.
 
 ---
 
@@ -166,6 +152,4 @@ altrimenti `cut` conta come un valore.
 4. **`>` sovrascrive** — per aggiungere serve `>>`.
 5. **I percorsi relativi dipendono da dove sei** — in caso di dubbio, `pwd`.
 
-Gli strumenti moderni che sostituiscono alcuni di questi comandi (`rg` per
-`grep`, `fd` per `find`, …) sono in `focus_ShellModerna.md`: materiale
-facoltativo, per chi finisce prima.
+Gli strumenti moderni che sostituiscono alcuni di questi comandi (`rg` per `grep`, `fd` per `find`, …) sono in `focus_ShellModerna.md`: materiale facoltativo, per chi finisce prima.

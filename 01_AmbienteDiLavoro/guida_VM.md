@@ -1,22 +1,14 @@
 # La macchina virtuale del corso: iscrizione e accesso
 
-> **Da fare subito, non il giorno dell'esercitazione.** L'iscrizione al
-> laboratorio può richiedere **fino a 12 ore** per diventare attiva: se ti
-> iscrivi il martedì, il venerdì la macchina è pronta.
+> **Da fare subito, non il giorno dell'esercitazione.** L'iscrizione al laboratorio può richiedere **fino a 12 ore** per diventare attiva: se ti iscrivi il martedì, il venerdì la macchina è pronta.
 >
-> **Non è materia d'esame.** È la procedura per avere davanti il computer su cui
-> lavoreremo tutto l'anno. Si fa una volta e non si ripensa più.
+> **Non è materia d'esame.** È la procedura per avere davanti il computer su cui lavoreremo tutto l'anno. Si fa una volta e non si ripensa più.
 >
-> **Link e nome della macchina cambiano ogni anno.** Se quelli qui sotto non
-> funzionano, chiedi: non stai sbagliando tu.
+> **Link e nome della macchina cambiano ogni anno.** Se quelli qui sotto non funzionano, chiedi: non stai sbagliando tu.
 
-Il corso si svolge su una macchina virtuale (VM) fornita dall'Ateneo attraverso
-il servizio **LIBaaS**. È un computer Linux che gira su un server dell'Università
-e che tu vedi dentro una finestra: ha Python già installato, gli stessi
-programmi per tutti, e non dipende da com'è configurato il tuo portatile.
+Il corso si svolge su una macchina virtuale (VM) fornita dall'Ateneo attraverso il servizio **LIBaaS**. È un computer Linux che gira su un server dell'Università e che tu vedi dentro una finestra: ha Python già installato, gli stessi programmi per tutti, e non dipende da com'è configurato il tuo portatile.
 
-Puoi lavorare anche sul tuo computer, ma le istruzioni, gli esempi e l'aiuto in
-aula sono per la VM.
+Puoi lavorare anche sul tuo computer, ma le istruzioni, gli esempi e l'aiuto in aula sono per la VM.
 
 ---
 
@@ -28,8 +20,7 @@ aula sono per la VM.
 
 2. Spunta la presa visione e conferma.
 
-Da questo momento possono servire **fino a 12 ore** perché l'accesso diventi
-attivo. Non c'è modo di accelerare, quindi fallo appena te lo dico a lezione.
+Da questo momento possono servire **fino a 12 ore** perché l'accesso diventi attivo. Non c'è modo di accelerare, quindi fallo appena te lo dico a lezione.
 
 ---
 
@@ -39,19 +30,14 @@ attivo. Non c'è modo di accelerare, quindi fallo appena te lo dico a lezione.
 
    ![Scelta della modalità di accesso](images/vmInfo_SGI_LIBasS_01_SceltaModalita.png){width=75%}
 
-   - **`Horizon Client`** — usa il client installato sul tuo computer. È il
-     metodo da preferire: più veloce, e gestisce meglio tastiera e schermo.
-   - **`HTML Access`** — usa il browser, senza installare niente. Comodo per la
-     prima volta o da un computer che non è tuo.
+   - **`Horizon Client`** — usa il client installato sul tuo computer. È il metodo da preferire: più veloce, e gestisce meglio tastiera e schermo.
+   - **`HTML Access`** — usa il browser, senza installare niente. Comodo per la prima volta o da un computer che non è tuo.
 
-2. Autenticati con le credenziali **CAS** d'Ateneo, cioè il tuo account
-   `nomeUtente@campus.unimib.it`:
+2. Autenticati con le credenziali **CAS** d'Ateneo, cioè il tuo account `nomeUtente@campus.unimib.it`:
 
    ![Autenticazione](images/vmInfo_SGI_LIBasS_02_Autenticazione.png){width=75%}
 
-3. Scegli la macchina del corso: l'icona porta davanti l'**ID del laboratorio**,
-   che quest'anno è **3573**, e il nome che segue è troncato — cerca
-   «**3573** Laboratorio virtuale del corso…». Clicca sulla sua icona:
+3. Scegli la macchina del corso: l'icona porta davanti l'**ID del laboratorio**, che quest'anno è **3573**, e il nome che segue è troncato — cerca «**3573** Laboratorio virtuale del corso…». Clicca sulla sua icona:
 
    ![Scelta della macchina](images/vmInfo_SGI_LIBasS_03_SceltaVM.png){width=75%}
 
@@ -59,8 +45,7 @@ attivo. Non c'è modo di accelerare, quindi fallo appena te lo dico a lezione.
 
    ![La macchina in esecuzione](images/vmInfo_SGI_LIBasS_04_RemoteDesktop.png){width=75%}
 
-> **Disconnettiti sempre quando hai finito.** Le macchine sono un numero finito
-> e condiviso: una sessione lasciata aperta occupa un posto.
+> **Disconnettiti sempre quando hai finito.** Le macchine sono un numero finito e condiviso: una sessione lasciata aperta occupa un posto.
 
 Le guide ufficiali dell'Ateneo, più dettagliate sulla parte di connessione:
 
@@ -71,9 +56,7 @@ Le guide ufficiali dell'Ateneo, più dettagliate sulla parte di connessione:
 
 ## 3. Portare i tuoi file dentro e fuori dalla VM
 
-La VM non è il tuo computer: quello che salvi lì non è automaticamente sul tuo
-portatile. Il modo più semplice per avere gli stessi file da entrambe le parti è
-collegare il tuo Google Drive d'Ateneo.
+La VM non è il tuo computer: quello che salvi lì non è automaticamente sul tuo portatile. Il modo più semplice per avere gli stessi file da entrambe le parti è collegare il tuo Google Drive d'Ateneo.
 
 Dalle **Impostazioni** del sistema:
 
@@ -103,8 +86,7 @@ Da qui in avanti il tuo Drive compare fra le risorse del gestore di file:
 
 ![Verificare la connessione](images/libaasVMConnectGDrive07.png){width=55%}
 
-> **Tieni i file del corso nel Drive, non solo sulla VM.** Se la macchina viene
-> reinizializzata, quello che stava soltanto lì non c'è più.
+> **Tieni i file del corso nel Drive, non solo sulla VM.** Se la macchina viene reinizializzata, quello che stava soltanto lì non c'è più.
 
 ---
 
@@ -124,11 +106,9 @@ E hai il terminale davanti:
 
 ![Il terminale](images/infoStatVMterminale.png){width=70%}
 
-Quello che vedi in quella finestra — il prompt, il cursore, come si scrive un
-comando — è spiegato in `L02_shell.md`. Tienilo aperto: da lì si comincia.
+Quello che vedi in quella finestra — il prompt, il cursore, come si scrive un comando — è spiegato in `L02_shell.md`. Tienilo aperto: da lì si comincia.
 
-Il passo successivo, appena il terminale funziona, è prendere il materiale del
-corso: `guida_GitHub.md`, due comandi.
+Il passo successivo, appena il terminale funziona, è prendere il materiale del corso: `guida_GitHub.md`, due comandi.
 
 ---
 
@@ -143,6 +123,4 @@ corso: `guida_GitHub.md`, due comandi.
 | il Drive non compare fra le risorse | rifai il punto 3: la connessione dell'account non è stata completata |
 | **niente di tutto questo, e la macchina resta irraggiungibile** | apri un **ticket** al service desk d'Ateneo: <https://servicedesk.unimib.it/servicedesk/customer/portal/31/create/307>. Scrivi cosa hai fatto, cosa ti aspettavi e cosa è successo, con il messaggio d'errore copiato per intero |
 
-Quello che cambia ogni anno è poco e sempre lo stesso: **il link di iscrizione,
-l'indirizzo di accesso e il nome della macchina**. Tutto il resto della
-procedura è identico da diversi anni.
+Quello che cambia ogni anno è poco e sempre lo stesso: **il link di iscrizione, l'indirizzo di accesso e il nome della macchina**. Tutto il resto della procedura è identico da diversi anni.

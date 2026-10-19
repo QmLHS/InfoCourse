@@ -1,10 +1,8 @@
 # Challenge — una giornata a Milano
 
-**Lezioni coperte:** `L04` — variabili, istruzioni, espressioni, logica
-booleana · `L05` — selezione
+**Lezioni coperte:** `L04` — variabili, istruzioni, espressioni, logica booleana · `L05` — selezione
 
-Si svolge in aula al termine di `A01`. **Senza soluzioni** e **senza
-consegna**: per parlarne, la lezione dopo o il ricevimento.
+Si svolge in aula al termine di `A01`. **Senza soluzioni** e **senza consegna**: per parlarne, la lezione dopo o il ricevimento.
 
 ---
 
@@ -17,10 +15,8 @@ consegna**: per parlarne, la lezione dopo o il ricevimento.
 | **il repository** | `~/InfoCourse`, aggiornato con `git pull` (`guida_GitHub.md`) |
 | **le tracce** | la cartella `02_ProgrammareInPython/L05_challenge/`, dieci file da `ch_01.py` a `ch_10.py` |
 
-**I dati.** Vengono tutti da `MeteoMilano2011.csv` (`03_FocusOnData/data/`,
-separatore `,`, codifica UTF-8), le misure meteo giornaliere di Milano nel
-2011. **Non devi aprirlo**: le righe che servono sono già nelle tracce,
-trascritte in variabili. Leggere un file con Python è l'argomento di `L09`.
+**I dati.** Vengono tutti da `MeteoMilano2011.csv` (`03_FocusOnData/data/`, separatore `,`, codifica UTF-8), le misure meteo giornaliere di Milano nel
+2011. **Non devi aprirlo**: le righe che servono sono già nelle tracce, trascritte in variabili. Leggere un file con Python è l'argomento di `L09`.
 
 ---
 
@@ -32,8 +28,7 @@ trascritte in variabili. Leggere un file con Python è l'argomento di `L09`.
 cp -r ~/InfoCourse/02_ProgrammareInPython/L05_challenge ~/challenge_L05
 ```
 
-Se lavori dentro `~/InfoCourse`, al prossimo `git pull` le tue modifiche vanno
-in conflitto con le tracce.
+Se lavori dentro `~/InfoCourse`, al prossimo `git pull` le tue modifiche vanno in conflitto con le tracce.
 
 Ogni traccia ha tre parti:
 
@@ -52,22 +47,13 @@ direzione = 225
 # a.
 ```
 
-L'**enunciato** sta in testa, in commento, e c'è solo lì: questo file è
-l'indice. I **dati** sono già pronti. Il **codice** lo scrivi tu, e le
-**risposte** alle domande vanno nei commenti in fondo.
+L'**enunciato** sta in testa, in commento, e c'è solo lì: questo file è l'indice. I **dati** sono già pronti. Il **codice** lo scrivi tu, e le **risposte** alle domande vanno nei commenti in fondo.
 
-Quasi tutte le tracce hanno più blocchi di dati, quelli in più commentati:
-prova il programma su **tutti**, ricommentando il blocco attivo e togliendo il
-commento al successivo. Un programma provato su un caso solo non è provato.
+Quasi tutte le tracce hanno più blocchi di dati, quelli in più commentati: prova il programma su **tutti**, ricommentando il blocco attivo e togliendo il commento al successivo. Un programma provato su un caso solo non è provato.
 
-Alla fine `python ch_N.py`, da un terminale appena aperto, non deve dare
-errori. Dalla 2 in poi, se lo script chiede dati con `input()`, aspetta che
-tu li scriva: è normale.
+Alla fine `python ch_N.py`, da un terminale appena aperto, non deve dare errori. Dalla 2 in poi, se lo script chiede dati con `input()`, aspetta che tu li scriva: è normale.
 
-**Le challenge si concatenano**: la 2 riparte dai dati della 1, la 9 riusa la
-4, la 10 riusa la 6 e verifica la 7. Non avendo ancora le funzioni, «riusare»
-qui vuol dire ricopiare il tuo codice da un file all'altro. Se ti sembra
-scomodo hai ragione: è il problema che risolve `L08`.
+**Le challenge si concatenano**: la 2 riparte dai dati della 1, la 9 riusa la 4, la 10 riusa la 6 e verifica la 7. Non avendo ancora le funzioni, «riusare» qui vuol dire ricopiare il tuo codice da un file all'altro. Se ti sembra scomodo hai ragione: è il problema che risolve `L08`.
 
 **Converti con `int()` e `float()`.**
 
@@ -88,14 +74,10 @@ scomodo hai ragione: è il problema che risolve `L08`.
 | 9 | `ch_09.py` — Il dato sporco | ••• | testo, campi vuoti, segnalare tutto e non solo il primo errore |
 | 10 | `ch_10.py` — Quanto distano | ••• | contare i giorni senza cicli |
 
-La difficoltà sale **in fretta**. Le prime cinque si fanno con quello che
-hai visto a lezione e negli esercizi; le ultime quattro chiedono di ragionare
-su un calendario più di quanto chiedano Python.
+La difficoltà sale **in fretta**. Le prime cinque si fanno con quello che hai visto a lezione e negli esercizi; le ultime quattro chiedono di ragionare su un calendario più di quanto chiedano Python.
 
 ---
 
 ## Riferimenti
 
-`riepilogo_funzioni_python.md` per la sintassi, `L04_esercizi.md` e
-`L05_esercizi.md` per gli esempi svolti — l'anno bisestile è l'esercizio 12 di
-`L04`, il wind chill l'abbiamo visto in aula a `F04`.
+`riepilogo_funzioni_python.md` per la sintassi, `L04_esercizi.md` e `L05_esercizi.md` per gli esempi svolti — l'anno bisestile è l'esercizio 12 di `L04`, il wind chill l'abbiamo visto in aula a `F04`.

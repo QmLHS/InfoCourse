@@ -1,15 +1,10 @@
 # Riepilogo generale delle funzioni Python — Informatica@SGI
 
-Riferimento unico per il corso: **quello che si insegna e quello che si può
-chiedere all'esame sono questo documento**, non due elenchi separati.
+Riferimento unico per il corso: **quello che si insegna e quello che si può chiedere all'esame sono questo documento**, non due elenchi separati.
 
-Prima di oggi erano due: la progressione delle lezioni da una parte, e gli elenchi
-«Allowed — pandas» / «Allowed — matplotlib» dentro `temiEsame/CLAUDE.md` dall'altra.
-Due liste che possono divergere in silenzio — e in effetti erano divergenti, vedi
-[§13 Divergenze](#13-divergenze-da-sanare).
+Prima di oggi erano due: la progressione delle lezioni da una parte, e gli elenchi «Allowed — pandas» / «Allowed — matplotlib» dentro `temiEsame/CLAUDE.md` dall'altra. Due liste che possono divergere in silenzio — e in effetti erano divergenti, vedi [§13 Divergenze](#13-divergenze-da-sanare).
 
-Organizzato secondo la progressione delle lezioni, con la numerazione di
-`MAPPA_RINOMINI.md`.
+Organizzato secondo la progressione delle lezioni, con la numerazione di `MAPPA_RINOMINI.md`.
 
 ## Come si legge
 
@@ -19,11 +14,9 @@ Organizzato secondo la progressione delle lezioni, con la numerazione di
 | **FOD** | può comparire in un tema d'esame Focus on Data |
 | — | si insegna, ma **non** si chiede all'esame |
 
-Una funzione senza marca non è meno importante: è materiale che serve a capire, non
-a essere interrogati. `pivot_table` e `apply` stanno qui.
+Una funzione senza marca non è meno importante: è materiale che serve a capire, non a essere interrogati. `pivot_table` e `apply` stanno qui.
 
-**Regola d'oro per chi scrive i temi:** se non è in questo documento, non si chiede.
-Se serve chiederlo, prima lo si insegna e lo si aggiunge qui.
+**Regola d'oro per chi scrive i temi:** se non è in questo documento, non si chiede. Se serve chiederlo, prima lo si insegna e lo si aggiunge qui.
 
 ---
 
@@ -48,20 +41,16 @@ Se serve chiederlo, prima lo si insegna e lo si aggiunge qui.
 
 ## 0. Vincoli del modulo PYT
 
-Il modulo Python si esamina con la sola logica di programmazione espressa nei
-costrutti di base. **Non ammessi in un tema d'esame PYT**, né nelle soluzioni:
+Il modulo Python si esamina con la sola logica di programmazione espressa nei costrutti di base. **Non ammessi in un tema d'esame PYT**, né nelle soluzioni:
 
 - classi e programmazione a oggetti
 - espressioni `lambda`
 - list, dict e set comprehension
 - `map`, `filter`, `zip` come costrutti portanti
 
-Non è un'imposizione arbitraria: è quello che i materiali fanno già. Su **124 script
-di esempio e 5010 righe** di codice del corso, le comprehension trovate sono
-**zero**.
+Non è un'imposizione arbitraria: è quello che i materiali fanno già. Su **124 script di esempio e 5010 righe** di codice del corso, le comprehension trovate sono **zero**.
 
-Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
-`pass`, e i built-in elencati sotto.
+Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `pass`, e i built-in elencati sotto. **`break` e `continue` esistono, ma nel corso non si usano**: un ciclo finisce quando la sua condizione diventa falsa, e chi legge il codice deve trovare il motivo dell'uscita lì, non in mezzo al corpo.
 
 ---
 
@@ -77,8 +66,7 @@ Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
 | `type(x)` | Tipo dell'oggetto | **PYT** |
 | `id(x)` | Identità dell'oggetto in memoria | — serve a spiegare l'assegnamento, non si chiede |
 
-> `input()` restituisce **sempre** una stringa: `int(input(...))` è il pattern per
-> leggere un numero. È l'errore più frequente nei primi esercizi.
+> `input()` restituisce **sempre** una stringa: `int(input(...))` è il pattern per leggere un numero. È l'errore più frequente nei primi esercizi.
 
 **Due modi di formattare, entrambi ammessi** (aggiornato il 28/09/2026).
 
@@ -87,16 +75,11 @@ Ammessi: `for`, `while`, `if/elif/else`, `def`, `return`, `break`, `continue`,
 | f-string | `print(f"media: {media:.2f}")` | `L04_c`, in coda — **non è nel video** |
 | con `%` | `print("media: %f" % media)` | `L04_c`, e il video la mostra |
 
-Della forma con `%`: `%d` intero, `%f` float, `%s` stringa, `%r` contenuto raw,
-e `\t` `\n` per tabulazione e a capo. Delle f-string serve la sola
-interpolazione `{nome}` e lo specificatore `{nome:.2f}`.
+Della forma con `%`: `%d` intero, `%f` float, `%s` stringa, `%r` contenuto raw, e `\t` `\n` per tabulazione e a capo. Delle f-string serve la sola interpolazione `{nome}` e lo specificatore `{nome:.2f}`.
 
-> **`.format()` resta fuori**: è una terza forma che non aggiunge niente alle
-> due, e non si chiede.
+> **`.format()` resta fuori**: è una terza forma che non aggiunge niente alle due, e non si chiede.
 
-> `eval(input(...))` compare in coda a `L04_c` perché è nel video, ma **non è
-> il pattern del corso**: la conversione si scrive esplicita, `int(input(...))`
-> o `float(input(...))`. Il frame che segue lo dice. Aggiunto il 28/09/2026.
+> `eval(input(...))` compare in coda a `L04_c` perché è nel video, ma **non è il pattern del corso**: la conversione si scrive esplicita, `int(input(...))` o `float(input(...))`. Il frame che segue lo dice. Aggiunto il 28/09/2026.
 
 ## 2. Operatori ed espressioni (L04)
 
@@ -119,8 +102,7 @@ Tutti **PYT** e **FOD**.
 | `sum(seq)` | Somma degli elementi | **PYT** |
 | `len(x)` | Lunghezza di stringa, lista, tupla, dizionario | **PYT** **FOD** |
 
-> **La precedenza degli operatori** è materia di `L04_d`: `2 + 3 * 4` fa 14, non 20.
-> In caso di dubbio, parentesi.
+> **La precedenza degli operatori** è materia di `L04_d`: `2 + 3 * 4` fa 14, non 20. In caso di dubbio, parentesi.
 
 ## 3. Logica booleana (L04_f)
 
@@ -138,8 +120,7 @@ Tutti **PYT**.
 | `0`, `""`, `[]`, `{}`, `None` | falsi in una condizione |
 | qualsiasi altro | vero |
 
-> Le condizioni si possono comporre: `if eta >= 18 and residenza == "Milano":`.
-> `not (a and b)` equivale a `(not a) or (not b)` — De Morgan, materia di `L04_f`.
+> Le condizioni si possono comporre: `if eta >= 18 and residenza == "Milano":`. `not (a and b)` equivale a `(not a) or (not b)` — De Morgan, materia di `L04_f`.
 
 ## 4. Selezione (L05)
 
@@ -152,12 +133,9 @@ Tutti **PYT**.
 
 Tutti **PYT**.
 
-> **L'indentazione è sintassi**, non stile: definisce quali istruzioni stanno dentro
-> il blocco. Un'indentazione sbagliata è un programma diverso, non un programma
-> brutto.
+> **L'indentazione è sintassi**, non stile: definisce quali istruzioni stanno dentro il blocco. Un'indentazione sbagliata è un programma diverso, non un programma brutto.
 >
-> Le condizioni si annidano (`if` dentro `if`), ma un `elif` è quasi sempre più
-> leggibile di un `else` che contiene un altro `if`.
+> Le condizioni si annidano (`if` dentro `if`), ma un `elif` è quasi sempre più leggibile di un `else` che contiene un altro `if`.
 
 ## 5. Iterazione (L06)
 
@@ -168,20 +146,25 @@ Tutti **PYT**.
 | `range(fine)` | Sequenza «0 … fine-1» |
 | `range(inizio, fine)` | Da `inizio` a `fine-1` |
 | `range(inizio, fine, passo)` | Con incremento `passo`, anche negativo |
-| `break` | Esce immediatamente dal ciclo |
-| `continue` | Salta al giro successivo |
 
 Tutti **PYT**.
 
-> **Il contatore.** Un `while` che deve girare *n* volte ha tre pezzi che devono
-> esserci tutti: inizializzazione prima del ciclo, condizione, incremento dentro il
-> corpo. Se manca l'incremento il ciclo è infinito — è l'errore di `L06`.
+> **Uscire prima dal ciclo, senza `break`.** Il motivo dell'uscita va nella condizione, con una variabile di controllo:
+> ```python
+> trovato = False
+> i = 0
+> while i < len(lista) and not trovato:
+>     if lista[i] == cercato:
+>         trovato = True
+>     i = i + 1
+> ```
+> E invece di `continue` si mette dentro un `if` la parte del corpo che va eseguita.
 >
-> **La sentinella.** Un ciclo che legge finché non arriva un valore d'arresto:
-> si legge una prima volta prima del `while`, e si rilegge in fondo al corpo.
+> **Il contatore.** Un `while` che deve girare *n* volte ha tre pezzi che devono esserci tutti: inizializzazione prima del ciclo, condizione, incremento dentro il corpo. Se manca l'incremento il ciclo è infinito — è l'errore di `L06`.
 >
-> **La trace table** — variabile per variabile, giro per giro — è lo strumento per
-> capire un ciclo che non fa quello che dovrebbe. Materia di `L06`, e vale l'esame.
+> **La sentinella.** Un ciclo che legge finché non arriva un valore d'arresto: si legge una prima volta prima del `while`, e si rilegge in fondo al corpo.
+>
+> **La trace table** — variabile per variabile, giro per giro — è lo strumento per capire un ciclo che non fa quello che dovrebbe. Materia di `L06`, e vale l'esame.
 
 ## 6. Stringhe (L07_b)
 
@@ -205,8 +188,7 @@ Tutti **PYT**.
 | `s1 + s2` | Concatenazione |
 | `sub in s` | `True` se `sub` compare in `s` |
 
-> **Le stringhe sono immutabili.** `s.upper()` non modifica `s`, restituisce una
-> stringa nuova: va assegnata. Vale per tutti i metodi di questa tabella.
+> **Le stringhe sono immutabili.** `s.upper()` non modifica `s`, restituisce una stringa nuova: va assegnata. Vale per tutti i metodi di questa tabella.
 
 ## 7. Liste e tuple (L07_c, L07_d)
 
@@ -230,18 +212,11 @@ Tutti **PYT**.
 | `sorted(seq)` | Restituisce una **nuova** lista ordinata, `reverse=True` per decrescente |
 | `len(l)` | Numero di elementi |
 
-> **`l.sort()` contro `sorted(l)`.** Il primo ordina la lista e restituisce `None`;
-> il secondo lascia stare l'originale e restituisce una lista nuova.
-> `l = l.sort()` è l'errore classico: assegna `None`.
+> **`l.sort()` contro `sorted(l)`.** Il primo ordina la lista e restituisce `None`; il secondo lascia stare l'originale e restituisce una lista nuova. `l = l.sort()` è l'errore classico: assegna `None`.
 >
-> **Le tuple sono liste immutabili**: stessa indicizzazione e stesso `len()`, ma
-> niente `append` né assegnamento a un elemento. Si usano quando i dati non devono
-> cambiare, e come chiavi di dizionario.
+> **Le tuple sono liste immutabili**: stessa indicizzazione e stesso `len()`, ma niente `append` né assegnamento a un elemento. Si usano quando i dati non devono cambiare, e come chiavi di dizionario.
 >
-> **Copia e riferimento.** `l2 = l1` non copia: dà un secondo nome alla stessa
-> lista, e modificarla attraverso l'uno si vede anche dall'altro. Per una copia
-> vera, `l1.copy()`. È materia di `L04_e` ed è il concetto che gli studenti
-> sbagliano più a lungo.
+> **Copia e riferimento.** `l2 = l1` non copia: dà un secondo nome alla stessa lista, e modificarla attraverso l'uno si vede anche dall'altro. Per una copia vera, `l1.copy()`. È materia di `L04_e` ed è il concetto che gli studenti sbagliano più a lungo.
 
 ## 8. Dizionari e iteratori (L07_e, L07_f)
 
@@ -258,10 +233,7 @@ Tutti **PYT**.
 
 Tutti **PYT**.
 
-> **Iterare su un dizionario.** `for k in d:` scorre le **chiavi**;
-> `for k, v in d.items():` scorre le coppie. Il secondo è il pattern per
-> aggregare — contare, sommare per categoria — che è il cuore di metà degli
-> esercizi PYT.
+> **Iterare su un dizionario.** `for k in d:` scorre le **chiavi**; `for k, v in d.items():` scorre le coppie. Il secondo è il pattern per aggregare — contare, sommare per categoria — che è il cuore di metà degli esercizi PYT.
 >
 > **Il pattern dell'accumulatore:**
 > ```python
@@ -274,9 +246,7 @@ Tutti **PYT**.
 > ```
 > Da sapere a memoria. `d.get(elemento, 0) + 1` lo abbrevia.
 >
-> **Strutture annidate** (`L07_g`): liste di liste, dizionari di liste, liste di
-> dizionari. `dati[i][j]` e `d[chiave][indice]`. È la forma in cui arrivano i dati
-> caricati da file, quindi è materia d'esame.
+> **Strutture annidate** (`L07_g`): liste di liste, dizionari di liste, liste di dizionari. `dati[i][j]` e `d[chiave][indice]`. È la forma in cui arrivano i dati caricati da file, quindi è materia d'esame.
 
 ## 9. Funzioni e moduli (L08)
 
@@ -302,17 +272,11 @@ Tutti **PYT**.
 | `random` | `random()`, `randint(a, b)`, `choice(seq)`, `seed(n)` |
 | `sys` | `argv`, `exit()` — solo accennato |
 
-> **Parametri formali e attuali.** I nomi nella `def` sono formali, i valori nella
-> chiamata sono attuali: sono cose diverse e la corrispondenza è posizionale.
+> **Parametri formali e attuali.** I nomi nella `def` sono formali, i valori nella chiamata sono attuali: sono cose diverse e la corrispondenza è posizionale.
 >
-> **Variabili locali.** Una variabile assegnata dentro una funzione vive solo lì.
-> Modificare un parametro dentro la funzione non cambia la variabile del chiamante —
-> **ma se il parametro è una lista, modificarne il contenuto sì**. È materia di
-> `L08_b` ed è il punto più sottile del modulo.
+> **Variabili locali.** Una variabile assegnata dentro una funzione vive solo lì. Modificare un parametro dentro la funzione non cambia la variabile del chiamante — **ma se il parametro è una lista, modificarne il contenuto sì**. È materia di `L08_b` ed è il punto più sottile del modulo.
 >
-> **Moduli e package** (`L08_a`): un modulo è un file `.py`, un package una cartella
-> di moduli, il package manager (`pip`, `conda`) è ciò che li installa. Concetti,
-> non esercizi.
+> **Moduli e package** (`L08_a`): un modulo è un file `.py`, un package una cartella di moduli, il package manager (`pip`, `conda`) è ciò che li installa. Concetti, non esercizi.
 
 ## 10. File (L09)
 
@@ -330,8 +294,7 @@ Tutti **PYT**.
 
 Tutti **PYT**.
 
-> **Ogni riga letta finisce con `\n`**: `riga.strip()` prima di elaborarla, sempre.
-> È l'errore numero uno negli esercizi sui file.
+> **Ogni riga letta finisce con `\n`**: `riga.strip()` prima di elaborarla, sempre. È l'errore numero uno negli esercizi sui file.
 >
 > **Il pattern di caricamento**, che è la domanda finale di quasi ogni tema PYT:
 > ```python
@@ -340,10 +303,9 @@ Tutti **PYT**.
 >     f = open(fNameIn, "r")
 >     for riga in f:
 >         riga = riga.strip()
->         if riga == "" or riga[0] == "#":
->             continue
->         lCampi = riga.split(";")
->         lDati.append([lCampi[0], int(lCampi[1])])
+>         if riga != "" and riga[0] != "#":
+>             lCampi = riga.split(";")
+>             lDati.append([lCampi[0], int(lCampi[1])])
 >     f.close()
 >     return lDati
 > ```
@@ -364,9 +326,7 @@ Import convenzionale: `import pandas as pd`.
 
 `read_csv` e `read_excel` sono **FOD**.
 
-> Il separatore non è sempre `,`: i file italiani usano spesso `;` con `,` come
-> decimale, e allora servono `sep=";"` e `decimal=","`. Riconoscere il formato
-> guardando il file **fa parte dell'esercizio** e non viene detto nel testo d'esame.
+> Il separatore non è sempre `,`: i file italiani usano spesso `;` con `,` come decimale, e allora servono `sep=";"` e `decimal=","`. Riconoscere il formato guardando il file **fa parte dell'esercizio** e non viene detto nel testo d'esame.
 
 ### Ispezionare
 
@@ -395,8 +355,7 @@ Tutti **FOD**.
 
 Tutti **FOD**.
 
-> **Le condizioni si compongono con `&`, `|`, `~`**, non con `and`/`or`/`not`, e
-> ogni pezzo va fra parentesi: `df[(df['a'] > 1) & (df['b'] == "x")]`.
+> **Le condizioni si compongono con `&`, `|`, `~`**, non con `and`/`or`/`not`, e ogni pezzo va fra parentesi: `df[(df['a'] > 1) & (df['b'] == "x")]`.
 
 ### Colonne, valori mancanti, ordinamento
 
@@ -431,8 +390,7 @@ Tutti **FOD**.
 
 Tutti **FOD**.
 
-> `.idxmax()` dà **l'etichetta**, non il valore: `df['col'].max()` dà quanto,
-> `df['col'].idxmax()` dà chi. Le domande d'esame chiedono quasi sempre il secondo.
+> `.idxmax()` dà **l'etichetta**, non il valore: `df['col'].max()` dà quanto, `df['col'].idxmax()` dà chi. Le domande d'esame chiedono quasi sempre il secondo.
 
 ### Combinare più DataFrame
 
@@ -447,9 +405,7 @@ Tutti **FOD**.
 
 ### Insegnato ma non chiesto all'esame
 
-`pivot_table`, `apply`, `pd.Series(...)` e `pd.DataFrame(...)` come costruttori,
-`melt`, `stack`/`unstack`, `.diff()`, `.div(axis=)`. Servono a capire cosa sa fare
-la libreria; non compaiono nei temi.
+`pivot_table`, `apply`, `pd.Series(...)` e `pd.DataFrame(...)` come costruttori, `melt`, `stack`/`unstack`, `.diff()`, `.div(axis=)`. Servono a capire cosa sa fare la libreria; non compaiono nei temi.
 
 ## 12. Matplotlib (L11)
 
@@ -474,24 +430,19 @@ Import convenzionale: `import matplotlib.pyplot as plt`.
 
 Tutti **FOD**.
 
-> **Un grafico d'esame senza titolo ed etichette degli assi è incompleto**, anche
-> se i dati sono giusti.
+> **Un grafico d'esame senza titolo ed etichette degli assi è incompleto**, anche se i dati sono giusti.
 >
-> Insegnati ma non richiesti: `ax.violinplot`, `ax.pie`, `ax.errorbar`,
-> `ax.fill_between`, `fig.add_axes`, la manipolazione delle `spines`.
+> Insegnati ma non richiesti: `ax.violinplot`, `ax.pie`, `ax.errorbar`, `ax.fill_between`, `fig.add_axes`, la manipolazione delle `spines`.
 
 ---
 
 ## 13. Divergenze da sanare
 
-Costruire questo documento significava mettere a confronto due elenchi che non si
-erano mai guardati in faccia. Non coincidono.
+Costruire questo documento significava mettere a confronto due elenchi che non si erano mai guardati in faccia. Non coincidono.
 
 ### Chiesto all'esame, mai insegnato
 
-Ricerca su tutto il materiale didattico FOD — i quattro notebook «Lezione11a–d», il
-deck `L10a`, `Lezione12Matplotlib`, le esercitazioni E05 ed E06 — contro le
-soluzioni d'esame:
+Ricerca su tutto il materiale didattico FOD — i quattro notebook «Lezione11a–d», il deck `L10a`, `Lezione12Matplotlib`, le esercitazioni E05 ed E06 — contro le soluzioni d'esame:
 
 | Costrutto | Temi che lo usano | Insegnato prima | Ora coperto da |
 |:---|:--:|:---|:---|
@@ -502,41 +453,23 @@ soluzioni d'esame:
 | `.isin()` | **5** | da nessuna parte | `L10_c_PandasUnDataFrame.md` §2 |
 | `plt.tight_layout()` | **3** | da nessuna parte | `L11_a_Matplotlib.md` |
 
-**Colmato il 07/09/2026.** I sei costrutti hanno ora una sezione ciascuno nel
-markdown pre-lezione della loro lezione, con esempi che girano su
-`03_FocusOnData/data/MeteoMilano2011.csv` — lo stesso dataset dei notebook
-esistenti, così il materiale nuovo si innesta su quello vecchio invece di
-affiancarlo. Ogni blocco di codice è stato eseguito prima di essere scritto qui.
+**Colmato il 07/09/2026.** I sei costrutti hanno ora una sezione ciascuno nel markdown pre-lezione della loro lezione, con esempi che girano su `03_FocusOnData/data/MeteoMilano2011.csv` — lo stesso dataset dei notebook esistenti, così il materiale nuovo si innesta su quello vecchio invece di affiancarlo. Ogni blocco di codice è stato eseguito prima di essere scritto qui.
 
-Restano file **parziali**: coprono il buco, non l'intera lezione. Il resto di `L10`
-e `L11` va ancora riportato dai notebook del 2023.
+Restano file **parziali**: coprono il buco, non l'intera lezione. Il resto di `L10` e `L11` va ancora riportato dai notebook del 2023.
 
-`.info()` era il caso più serio: la progressione tipica delle domande FOD descritta
-in `temiEsame/CLAUDE.md` la mette al primo quesito — *"display `.head()`,
-`.info()`, `.shape`"* — e quindici temi la usano, ma nessuna lezione la mostrava.
+`.info()` era il caso più serio: la progressione tipica delle domande FOD descritta in `temiEsame/CLAUDE.md` la mette al primo quesito — *"display `.head()`, `.info()`, `.shape`"* — e quindici temi la usano, ma nessuna lezione la mostrava.
 
-Sono elencate come materia d'esame perché è la situazione di fatto e i temi
-esistenti non si riscrivono. Il debito stava dalla parte delle lezioni, ed è lì che
-è stato pagato.
+Sono elencate come materia d'esame perché è la situazione di fatto e i temi esistenti non si riscrivono. Il debito stava dalla parte delle lezioni, ed è lì che è stato pagato.
 
 ### Ammesso all'esame ma mai usato
 
-`.notna()`, `.median()`, `.var()` sono nell'elenco delle API ammesse di
-`temiEsame/CLAUDE.md` e non compaiono in nessuna soluzione. Innocuo: restano
-ammesse, e ora sono anche documentate qui.
+`.notna()`, `.median()`, `.var()` sono nell'elenco delle API ammesse di `temiEsame/CLAUDE.md` e non compaiono in nessuna soluzione. Innocuo: restano ammesse, e ora sono anche documentate qui.
 
 ### Insegnato e mai chiesto
 
-`read_json`, `pivot_table`, `apply`, i costruttori `pd.Series`/`pd.DataFrame`,
-`fill_between`, `violinplot`, `pie`, `errorbar`, `add_axes`, `unique`,
-`intersection`, `to_csv`. Nessun problema — è la categoria "si insegna per capire",
-purché resti dichiarata.
+`read_json`, `pivot_table`, `apply`, i costruttori `pd.Series`/`pd.DataFrame`, `fill_between`, `violinplot`, `pie`, `errorbar`, `add_axes`, `unique`, `intersection`, `to_csv`. Nessun problema — è la categoria "si insegna per capire", purché resti dichiarata.
 
 ### Da aggiornare di conseguenza
 
-- **`temiEsame/CLAUDE.md`** — le sezioni «Allowed — pandas» e «Allowed — matplotlib»
-  vanno sostituite da un rimando a questo file, così la lista è una sola. Il
-  riferimento "derivato da Lezione11a–d e Lezione12" va riscritto: con la
-  numerazione nuova quei numeri esistono ancora ma indicano file diversi.
-- **`info@Stat202526.md`** — descrive FOD in tre parti includendo `sys`/`os`, che non
-  è mai stato materia d'esame in 113 temi.
+- **`temiEsame/CLAUDE.md`** — le sezioni «Allowed — pandas» e «Allowed — matplotlib» vanno sostituite da un rimando a questo file, così la lista è una sola. Il riferimento "derivato da Lezione11a–d e Lezione12" va riscritto: con la numerazione nuova quei numeri esistono ancora ma indicano file diversi.
+- **`info@Stat202526.md`** — descrive FOD in tre parti includendo `sys`/`os`, che non è mai stato materia d'esame in 113 temi.

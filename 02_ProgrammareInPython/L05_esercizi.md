@@ -1,17 +1,12 @@
 # Esercizi — selezione
 
-**Lezione coperta:** `L05` — selezione: `if`, `if ... else`, `if ... elif ... else`,
-condizioni annidate, `pass`
+**Lezione coperta:** `L05` — selezione: `if`, `if ... else`, `if ... elif ... else`, condizioni annidate, `pass`
 
-Variabili, operatori ed espressioni hanno una scheda loro, `L04_esercizi.md`.
-Qui si dà per saputo tutto quello: il nuovo è **scegliere**.
+Variabili, operatori ed espressioni hanno una scheda loro, `L04_esercizi.md`. Qui si dà per saputo tutto quello: il nuovo è **scegliere**.
 
-**Come si lavora.** Tre gradini: prima **seguire** un codice e dire quale ramo
-scatta, poi **trovare** l'errore, infine **scriverne** uno. Le soluzioni sono
-sotto ogni esercizio: aprile dopo aver provato.
+**Come si lavora.** Tre gradini: prima **seguire** un codice e dire quale ramo scatta, poi **trovare** l'errore, infine **scriverne** uno. Le soluzioni sono sotto ogni esercizio: aprile dopo aver provato.
 
-**Il primo gradino si fa senza calcolatore.** Prevedere quale ramo verrà
-eseguito è l'unica cosa che questa lezione chieda davvero di imparare.
+**Il primo gradino si fa senza calcolatore.** Prevedere quale ramo verrà eseguito è l'unica cosa che questa lezione chieda davvero di imparare.
 
 ---
 
@@ -44,12 +39,9 @@ Coppie: `a=7 b=7`, poi `a=9 b=2`, poi `a=2 b=9`.
 | 9 | 2 | il maggiore è a |
 | 2 | 9 | il maggiore è b |
 
-**Il caso interessante è il primo.** Quando i due valori sono uguali il
-programma dice che il maggiore è `b`, che è falso: non c'è un maggiore.
+**Il caso interessante è il primo.** Quando i due valori sono uguali il programma dice che il maggiore è `b`, che è falso: non c'è un maggiore.
 
-Non è un errore di Python, è un buco nel ragionamento. `else` non significa «`b`
-è più grande», significa «tutto ciò che non è `a > b`» — e lì dentro ci sta
-anche il caso in cui sono uguali. Per coprirlo servono tre rami, non due.
+Non è un errore di Python, è un buco nel ragionamento. `else` non significa «`b` è più grande», significa «tutto ciò che non è `a > b`» — e lì dentro ci sta anche il caso in cui sono uguali. Per coprirlo servono tre rami, non due.
 
 </details>
 
@@ -84,13 +76,9 @@ Che cosa stampa per `t` uguale a 35, 25, 15, 5 — e poi per **30** e **20**?
 | **30** | **caldo** |
 | **20** | **mite** |
 
-I primi quattro sono quelli che ti aspetti. **Gli ultimi due sono il punto
-dell'esercizio**: 30 non è «molto caldo» perché `30 > 30` è falso, e 20 non è
-«caldo» per la stessa ragione.
+I primi quattro sono quelli che ti aspetti. **Gli ultimi due sono il punto dell'esercizio**: 30 non è «molto caldo» perché `30 > 30` è falso, e 20 non è «caldo» per la stessa ragione.
 
-I valori esatti ai confini sono dove si annidano gli errori, e non si vedono
-provando a caso: bisogna provarli apposta. Se volevi includerli servirebbe
-`>=`.
+I valori esatti ai confini sono dove si annidano gli errori, e non si vedono provando a caso: bisogna provarli apposta. Se volevi includerli servirebbe `>=`.
 
 </details>
 
@@ -98,8 +86,7 @@ provando a caso: bisogna provarli apposta. Se volevi includerli servirebbe
 
 ## Esercizio 3 — L'indentazione decide (difficoltà: •)
 
-Due programmi che differiscono per **quattro spazi**. Che cosa stampa ciascuno
-per `voto = 10`?
+Due programmi che differiscono per **quattro spazi**. Che cosa stampa ciascuno per `voto = 10`?
 
 ```python
 # versione A
@@ -125,16 +112,11 @@ Con `voto = 10`:
 - **versione A** stampa `fine`
 - **versione B** non stampa **niente**
 
-In A la riga `print("fine")` è fuori dal blocco, quindi si esegue sempre. In B è
-dentro, quindi si esegue solo quando la condizione è vera.
+In A la riga `print("fine")` è fuori dal blocco, quindi si esegue sempre. In B è dentro, quindi si esegue solo quando la condizione è vera.
 
-In Python l'indentazione **non è formattazione**: è la sintassi che dice dove
-comincia e dove finisce un blocco. In altri linguaggi quel compito ce l'hanno le
-parentesi graffe, e l'indentazione è solo cortesia verso chi legge. Qui no.
+In Python l'indentazione **non è formattazione**: è la sintassi che dice dove comincia e dove finisce un blocco. In altri linguaggi quel compito ce l'hanno le parentesi graffe, e l'indentazione è solo cortesia verso chi legge. Qui no.
 
-Nota che con `voto = 30` le due versioni stampano la stessa cosa: l'errore si
-manifesta **solo su un ramo**, ed è il motivo per cui va provato anche il caso
-che non ti interessa.
+Nota che con `voto = 30` le due versioni stampano la stessa cosa: l'errore si manifesta **solo su un ramo**, ed è il motivo per cui va provato anche il caso che non ti interessa.
 
 </details>
 
@@ -168,13 +150,9 @@ elif n % 5 == 0:
 - **A** stampa **due righe**: `multiplo di tre` e `multiplo di cinque`
 - **B** stampa **una riga sola**: `multiplo di tre`
 
-`elif` vuol dire «**altrimenti**, se»: viene esaminato solo quando le condizioni
-precedenti sono risultate false. Due `if` separati sono invece due domande
-indipendenti, e possono essere vere entrambe.
+`elif` vuol dire «**altrimenti**, se»: viene esaminato solo quando le condizioni precedenti sono risultate false. Due `if` separati sono invece due domande indipendenti, e possono essere vere entrambe.
 
-La scelta non è stilistica, dipende da che cosa stai chiedendo. «In quale fascia
-cade questo valore?» ha una risposta sola, e vuole `elif`. «Quali di queste
-proprietà ha?» può averne più d'una, e vuole `if` separati.
+La scelta non è stilistica, dipende da che cosa stai chiedendo. «In quale fascia cade questo valore?» ha una risposta sola, e vuole `elif`. «Quali di queste proprietà ha?» può averne più d'una, e vuole `if` separati.
 
 </details>
 
@@ -201,12 +179,9 @@ if voto = 18:
 SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
 ```
 
-`=` **assegna**, `==` **chiede**. Dentro un `if` serve una domanda, non
-un'istruzione.
+`=` **assegna**, `==` **chiede**. Dentro un `if` serve una domanda, non un'istruzione.
 
-È l'errore più comune di chi arriva dalla matematica, dove il simbolo è uno
-solo. Python in questo caso aiuta: il messaggio dice esattamente che cosa
-hai sbagliato, e vale la pena leggerlo invece di fissare il codice.
+È l'errore più comune di chi arriva dalla matematica, dove il simbolo è uno solo. Python in questo caso aiuta: il messaggio dice esattamente che cosa hai sbagliato, e vale la pena leggerlo invece di fissare il codice.
 
 </details>
 
@@ -214,8 +189,7 @@ hai sbagliato, e vale la pena leggerlo invece di fissare il codice.
 
 ## Esercizio 6 — Un ramo che non scatta mai (difficoltà: ••)
 
-Questo programma non dà errori, ma è sbagliato. Provalo con `t = 35` e con
-`t = 25`, poi spiega.
+Questo programma non dà errori, ma è sbagliato. Provalo con `t = 35` e con `t = 25`, poi spiega.
 
 ```python
 if t > 10:
@@ -233,18 +207,13 @@ else:
 <details>
 <summary>Mostra la soluzione</summary>
 
-Stampa **`mite`** per 35, per 25 e per 15. I rami `caldo` e `molto caldo` **non
-si eseguono mai**, qualunque sia `t`.
+Stampa **`mite`** per 35, per 25 e per 15. I rami `caldo` e `molto caldo` **non si eseguono mai**, qualunque sia `t`.
 
-La catena si ferma al primo ramo vero, e `t > 10` è vera per ogni valore che
-soddisferebbe anche gli altri due. Quelle due righe sono codice morto: ci sono,
-si leggono, e non servono a niente.
+La catena si ferma al primo ramo vero, e `t > 10` è vera per ogni valore che soddisferebbe anche gli altri due. Quelle due righe sono codice morto: ci sono, si leggono, e non servono a niente.
 
-**Nessun errore, nessun avviso.** Il programma gira e risponde, e la risposta è
-sbagliata per tutti i valori sopra 10.
+**Nessun errore, nessun avviso.** Il programma gira e risponde, e la risposta è sbagliata per tutti i valori sopra 10.
 
-La regola: in una catena di `elif` le condizioni vanno dalla **più stretta alla
-più larga**. Se le scrivi al contrario, la più larga mangia tutte le altre.
+La regola: in una catena di `elif` le condizioni vanno dalla **più stretta alla più larga**. Se le scrivi al contrario, la più larga mangia tutte le altre.
 
 </details>
 
@@ -252,9 +221,7 @@ più larga**. Se le scrivi al contrario, la più larga mangia tutte le altre.
 
 ## Esercizio 7 — Lo script del 2009 (difficoltà: ••)
 
-Questo programma viene da una vecchia raccolta di esercizi. Doveva chiedere due
-numeri e dire se la loro somma supera 100. Eseguilo: non funziona. Trova i
-**due** problemi e correggilo.
+Questo programma viene da una vecchia raccolta di esercizi. Doveva chiedere due numeri e dire se la loro somma supera 100. Eseguilo: non funziona. Trova i **due** problemi e correggilo.
 
 ```python
 a = input("inserisci un numero da 0 a 100 ")
@@ -277,14 +244,11 @@ Battendo `40` e `50`:
 TypeError: '>' not supported between instances of 'str' and 'int'
 ```
 
-**Primo problema:** `input()` restituisce sempre stringhe, quindi `a + b` non
-somma, concatena: `somma` vale `'4050'`.
+**Primo problema:** `input()` restituisce sempre stringhe, quindi `a + b` non somma, concatena: `somma` vale `'4050'`.
 
-**Secondo problema:** l'errore arriva una riga dopo, quando si prova a
-confrontare quella stringa con `100`.
+**Secondo problema:** l'errore arriva una riga dopo, quando si prova a confrontare quella stringa con `100`.
 
-I due problemi sono in realtà **lo stesso**, visto due volte, e si correggono
-in un punto solo — convertendo appena si legge:
+I due problemi sono in realtà **lo stesso**, visto due volte, e si correggono in un punto solo — convertendo appena si legge:
 
 ```python
 a = int(input("inserisci un numero da 0 a 100 "))
@@ -296,9 +260,7 @@ else:
     print("Numero corretto")
 ```
 
-Da notare: con `40` e `50` il programma sbagliato si **ferma** con un errore. Se
-il confronto fosse stato fra due stringhe non si sarebbe fermato affatto, e
-avrebbe risposto confrontando parole invece di numeri.
+Da notare: con `40` e `50` il programma sbagliato si **ferma** con un errore. Se il confronto fosse stato fra due stringhe non si sarebbe fermato affatto, e avrebbe risposto confrontando parole invece di numeri.
 
 </details>
 
@@ -319,11 +281,9 @@ else:
 <details>
 <summary>Mostra la soluzione</summary>
 
-Python si aspetta un blocco indentato dopo i due punti, e non lo trova:
-`IndentationError: expected an indented block`.
+Python si aspetta un blocco indentato dopo i due punti, e non lo trova: `IndentationError: expected an indented block`.
 
-Un blocco non può essere vuoto. Se davvero non deve succedere niente esiste
-`pass`, che è un segnaposto:
+Un blocco non può essere vuoto. Se davvero non deve succedere niente esiste `pass`, che è un segnaposto:
 
 ```python
 if x >= 0:
@@ -332,17 +292,14 @@ else:
     print("negativo")
 ```
 
-**Ma qui non è la soluzione giusta**, è solo quella che fa partire il programma.
-Un `if` con il ramo vero vuoto è una condizione scritta al contrario: si gira.
+**Ma qui non è la soluzione giusta**, è solo quella che fa partire il programma. Un `if` con il ramo vero vuoto è una condizione scritta al contrario: si gira.
 
 ```python
 if x < 0:
     print("negativo")
 ```
 
-`pass` serve mentre stai scrivendo, quando il codice di un ramo non c'è ancora e
-vuoi provare il resto. Lasciarlo nella versione finale è un segnale che qualcosa
-non è stato finito o non è stato ripensato.
+`pass` serve mentre stai scrivendo, quando il codice di un ramo non c'è ancora e vuoi provare il resto. Lasciarlo nella versione finale è un segnale che qualcosa non è stato finito o non è stato ripensato.
 
 </details>
 
@@ -352,8 +309,7 @@ non è stato finito o non è stato ripensato.
 
 ## Esercizio 9 — Il maggiore, per davvero (difficoltà: •••)
 
-Riprendi l'esercizio 1 e scrivilo in modo che risponda correttamente anche
-quando i due numeri sono uguali.
+Riprendi l'esercizio 1 e scrivilo in modo che risponda correttamente anche quando i due numeri sono uguali.
 
 ### Soluzione
 
@@ -369,13 +325,9 @@ else:
     print("sono uguali")
 ```
 
-Tre casi, tre rami. L'`else` finale copre esattamente quello che resta: non
-«sono uguali» perché l'hai scritto tu, ma perché è l'unica possibilità rimasta
-dopo aver escluso le altre due.
+Tre casi, tre rami. L'`else` finale copre esattamente quello che resta: non «sono uguali» perché l'hai scritto tu, ma perché è l'unica possibilità rimasta dopo aver escluso le altre due.
 
-Si poteva anche scrivere `elif a == b` al posto dell'`else`, ma allora
-servirebbe un quarto ramo per un caso che non esiste — e chi legge si
-chiederebbe quale sia.
+Si poteva anche scrivere `elif a == b` al posto dell'`else`, ma allora servirebbe un quarto ramo per un caso che non esiste — e chi legge si chiederebbe quale sia.
 
 </details>
 
@@ -412,13 +364,9 @@ else:
     print("freddo")
 ```
 
-Rispetto all'esercizio 2 cambia una cosa sola: `>=` invece di `>`. È quello che
-sposta 30 e 20 nella fascia giusta.
+Rispetto all'esercizio 2 cambia una cosa sola: `>=` invece di `>`. È quello che sposta 30 e 20 nella fascia giusta.
 
-Due cose che rendono il programma più semplice di quanto sembri. Le condizioni
-sono dalla **più stretta alla più larga**, quindi la catena funziona; e nessun
-ramo deve dire «fra 20 e 29», perché arrivarci significa già che `t` è minore
-di 30 — lo ha stabilito il ramo precedente.
+Due cose che rendono il programma più semplice di quanto sembri. Le condizioni sono dalla **più stretta alla più larga**, quindi la catena funziona; e nessun ramo deve dire «fra 20 e 29», perché arrivarci significa già che `t` è minore di 30 — lo ha stabilito il ramo precedente.
 
 </details>
 
@@ -426,9 +374,7 @@ di 30 — lo ha stabilito il ramo precedente.
 
 ## Esercizio 11 — Tre lati (difficoltà: •••)
 
-Scrivi un programma che legge tre numeri e dice se possono essere i lati di un
-triangolo. La regola: **ciascun lato deve essere minore della somma degli altri
-due**.
+Scrivi un programma che legge tre numeri e dice se possono essere i lati di un triangolo. La regola: **ciascun lato deve essere minore della somma degli altri due**.
 
 Verificalo su `3 4 5`, `1 2 10`, `2 2 4` e `5 5 5`.
 
@@ -455,9 +401,7 @@ else:
 | **2 2 4** | **no** | 2 + 2 fa esattamente 4, e serve **maggiore** |
 | 5 5 5 | sì | equilatero |
 
-Il caso `2 2 4` è quello che distingue chi ha capito: la somma è uguale, non
-minore, e un «triangolo» con quei lati sarebbe un segmento. Se avessi scritto
-`>=` l'avresti accettato.
+Il caso `2 2 4` è quello che distingue chi ha capito: la somma è uguale, non minore, e un «triangolo» con quei lati sarebbe un segmento. Se avessi scritto `>=` l'avresti accettato.
 
 **Servono tutte e tre le condizioni**: controllarne una sola non basta.
 
@@ -467,8 +411,7 @@ minore, e un «triangolo» con quei lati sarebbe un segmento. Se avessi scritto
 
 ## Esercizio 12 — Da annidato a concatenato (difficoltà: •••)
 
-Questo programma funziona. Riscrivilo usando `elif`, senza annidare, e verifica
-su tre coppie che le due versioni rispondano allo stesso modo.
+Questo programma funziona. Riscrivilo usando `elif`, senza annidare, e verifica su tre coppie che le due versioni rispondano allo stesso modo.
 
 ```python
 if x == y:
@@ -494,16 +437,10 @@ else:
     print("x è maggiore")
 ```
 
-Verificato su `(3,3)`, `(2,5)` e `(7,1)`: le due versioni danno la stessa
-risposta in tutti e tre i casi, e la darebbero per qualunque coppia.
+Verificato su `(3,3)`, `(2,5)` e `(7,1)`: le due versioni danno la stessa risposta in tutti e tre i casi, e la darebbero per qualunque coppia.
 
-`elif` **è** esattamente questo: un `else` che contiene un solo `if`, scritto in
-modo che non si allontani dal bordo. Con tre rami la differenza è piccola; con
-sei, la versione annidata arriva a sei livelli di indentazione e diventa
-illeggibile.
+`elif` **è** esattamente questo: un `else` che contiene un solo `if`, scritto in modo che non si allontani dal bordo. Con tre rami la differenza è piccola; con sei, la versione annidata arriva a sei livelli di indentazione e diventa illeggibile.
 
-Il contrario non vale sempre: se dentro l'`else` ci fosse **altro** oltre
-all'`if` — un'istruzione prima o dopo — la riscrittura con `elif` non sarebbe
-possibile.
+Il contrario non vale sempre: se dentro l'`else` ci fosse **altro** oltre all'`if` — un'istruzione prima o dopo — la riscrittura con `elif` non sarebbe possibile.
 
 </details>
