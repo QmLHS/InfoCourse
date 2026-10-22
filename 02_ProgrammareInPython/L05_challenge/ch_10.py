@@ -1,7 +1,7 @@
 # Challenge 10 - Quanto distano (difficoltà: 3/3)
 #
 # Quanti giorni sono passati dal primo giorno del dataset, il 1° gennaio
-# 2011, a oggi, 20 ottobre 2026?
+# 2011, al 20 ottobre 2026?
 #
 # Niente cicli. La strada è contare, per ciascuna delle due date, i giorni
 # trascorsi da un'origine fissa, e poi fare la differenza. Ti serve la

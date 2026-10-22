@@ -17,8 +17,8 @@
 #
 # Stampa il nome del giorno, in italiano.
 #
-# Verifiche: il 1° gennaio 2011 era un sabato. Il 20 ottobre 2026, il giorno
-# di questa sessione, è un martedì.
+# Verifiche: il 1° gennaio 2011 era un sabato, il 20 ottobre 2026 è un
+# martedì.
 #
 # Rispondi nei commenti in fondo:
 #
