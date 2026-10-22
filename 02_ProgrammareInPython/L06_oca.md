@@ -3,6 +3,8 @@ title: "Il gioco dell'oca, da soli"
 subtitle: "Informatica@SGI — L06, cicli: scomporre un problema"
 ---
 
+![Il tabellone: 63 caselle, si parte dalla 0 e si sale a serpentina. Le caselle colorate sono quelle della tabella delle regole.](images/ocaTabellone.svg)
+
 Si simula una partita al gioco dell'oca con **un giocatore solo**. Il programma è troppo grande per scriverlo di getto: va **scomposto** in pezzi più piccoli, ciascuno dei quali si scrive e si prova da solo. È lo stesso lavoro fatto con l'area sotto la parabola, su un problema diverso.
 
 La traccia da completare è `L06_oca.py`.

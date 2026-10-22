@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1006 616" width="1006" height="616">
+<style>text{font-family:Roboto,"Helvetica Neue",Arial,sans-serif;}</style>
+<rect width="1006" height="616" fill="#FFFFFF"/>
+<clipPath id="bordo"><rect x="128.0" y="14.0" width="864" height="588" rx="18"/></clipPath><g clip-path="url(#bordo)">
+<text x="176.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">1</text>
+<text x="272.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">2</text>
+<text x="368.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">3</text>
+<text x="464.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">4</text>
+<text x="560.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">5</text>
+<rect x="608.0" y="14.0" width="96" height="84" fill="#C9F5EC"/>
+<text x="614.0" y="32.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">6</text>
+<svg x="637.0" y="24.0" width="38" height="38" viewBox="0 0 640 640" preserveAspectRatio="xMidYMid meet" fill="#1F8A76" color="#1F8A76"><path d="M64 128L576 128L576 240C538.4 249.4 512 283.2 512 322L512 398.4C491 388.7 468.5 383.9 446 384C436 384.1 425.9 385.1 416 387.1L416 352C416 299 373 256 320 256C267 256 224 299 224 352L224 384.7C218.7 384.2 213.3 383.9 208 384C180.3 384.2 152.6 391.8 128 407L128 322C128 283.2 101.6 249.4 64 240L64 128zM403.4 508.1C379.1 526.3 351.1 544 320 544C288.9 544 260.9 526.3 236.6 508.1C215.3 492 186.7 492 165.4 508.1C141.6 526 111.3 543.6 77.3 543.4C56.9 543.3 36.6 536.7 17.5 522.3C6.9 514.3 4.8 499.3 12.8 488.7C20.8 478.1 35.8 476 46.4 484C57.7 492.5 68 495.4 77.6 495.5C95.2 495.6 114.9 486.1 136.5 469.8C174.9 440.8 227 440.8 265.5 469.8C289.5 487.9 306.2 496.1 320 496.1C333.8 496.1 350.5 487.9 374.5 469.8C412.9 440.8 465 440.8 503.5 469.8C520.4 482.5 536.4 491.3 551.3 494.4C565 497.2 578.7 495.3 593.6 484.1C604.2 476.1 619.2 478.2 627.2 488.8C635.2 499.4 633.1 514.4 622.5 522.4C596.1 542.3 568.3 546.8 541.8 541.5C516.5 536.4 493.7 522.6 474.6 508.2C453.3 492.1 424.7 492.1 403.4 508.2z"/></svg>
+<text x="656.0" y="78.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#1F8A76">ponte</text>
+<text x="656.0" y="92.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">come l'oca</text>
+<text x="752.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">7</text>
+<text x="848.0" y="65.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">8</text>
+<rect x="896.0" y="14.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="902.0" y="32.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">9</text>
+<svg x="925.0" y="24.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="944.0" y="78.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="944.0" y="92.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<text x="944.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">10</text>
+<text x="944.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">11</text>
+<text x="944.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">12</text>
+<text x="944.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">13</text>
+<text x="944.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">14</text>
+<text x="944.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">15</text>
+<text x="848.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">16</text>
+<text x="752.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">17</text>
+<rect x="608.0" y="518.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="614.0" y="536.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">18</text>
+<svg x="637.0" y="528.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="656.0" y="582.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="656.0" y="596.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<rect x="512.0" y="518.0" width="96" height="84" fill="#FCD5D0"/>
+<text x="518.0" y="536.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">19</text>
+<svg x="541.0" y="528.0" width="38" height="38" viewBox="0 0 576 512" preserveAspectRatio="xMidYMid meet" fill="#C0392B" color="#C0392B"><path fill="currentColor" d="M32 32c17.7 0 32 14.3 32 32l0 224 224 0 0-128c0-17.7 14.3-32 32-32l160 0c53 0 96 43 96 96l0 224c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-64-448 0 0 64c0 17.7-14.3 32-32 32S0 465.7 0 448L0 64C0 46.3 14.3 32 32 32zm80 160a64 64 0 1 1 128 0 64 64 0 1 1 -128 0z"/></svg>
+<text x="560.0" y="582.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C0392B">locanda</text>
+<text x="560.0" y="596.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">fermo 3 turni</text>
+<text x="464.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">20</text>
+<text x="368.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">21</text>
+<text x="272.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">22</text>
+<text x="176.0" y="569.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">23</text>
+<text x="176.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">24</text>
+<text x="176.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">25</text>
+<text x="176.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">26</text>
+<rect x="128.0" y="182.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="134.0" y="200.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">27</text>
+<svg x="157.0" y="192.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="176.0" y="246.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="176.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<text x="176.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">28</text>
+<text x="272.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">29</text>
+<text x="368.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">30</text>
+<rect x="416.0" y="98.0" width="96" height="84" fill="#FCD5D0"/>
+<text x="422.0" y="116.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">31</text>
+<svg x="445.0" y="108.0" width="38" height="38" viewBox="0 0 448 512" preserveAspectRatio="xMidYMid meet" fill="#C0392B" color="#C0392B"><path fill="currentColor" d="M443.7 208c2.7 4.7 4.3 10.2 4.3 16 0 17.7-14.3 32-32 32l-5.1 0-22.4 213c-2.6 24.4-23.2 43-47.8 43l-233.6 0c-24.6 0-45.2-18.5-47.8-43L37.1 256 32 256c-17.7 0-32-14.3-32-32 0-5.8 1.6-11.3 4.3-16l439.4 0zM224-16c79.5 0 144 64.5 144 144l0 32-48 0 0-32c0-53-43-96-96-96s-96 43-96 96l0 32-48 0 0-32C80 48.5 144.5-16 224-16z"/></svg>
+<text x="464.0" y="162.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C0392B">pozzo</text>
+<text x="560.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">32</text>
+<text x="656.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">33</text>
+<text x="752.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">34</text>
+<text x="848.0" y="149.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">35</text>
+<rect x="800.0" y="182.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="806.0" y="200.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">36</text>
+<svg x="829.0" y="192.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="848.0" y="246.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="848.0" y="260.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<text x="848.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">37</text>
+<text x="848.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">38</text>
+<text x="848.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">39</text>
+<text x="752.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">40</text>
+<text x="656.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">41</text>
+<rect x="512.0" y="434.0" width="96" height="84" fill="#FCD5D0"/>
+<text x="518.0" y="452.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">42</text>
+<svg x="541.0" y="444.0" width="38" height="38" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" fill="#C0392B" color="#C0392B"><path fill="currentColor" d="M403.8 34.4c12-5 25.7-2.2 34.9 6.9l64 64c6 6 9.4 14.1 9.4 22.6s-3.4 16.6-9.4 22.6l-64 64c-9.2 9.2-22.9 11.9-34.9 6.9S384 204.9 384 192l0-32-32 0c-10.1 0-19.6 4.7-25.6 12.8l-32.4 43.2-40-53.3 21.2-28.3C293.3 110.2 321.8 96 352 96l32 0 0-32c0-12.9 7.8-24.6 19.8-29.6zM154 296l40 53.3-21.2 28.3C154.7 401.8 126.2 416 96 416l-64 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l64 0c10.1 0 19.6-4.7 25.6-12.8L154 296zM438.6 470.6c-9.2 9.2-22.9 11.9-34.9 6.9S384 460.9 384 448l0-32-32 0c-30.2 0-58.7-14.2-76.8-38.4L121.6 172.8c-6-8.1-15.5-12.8-25.6-12.8l-64 0c-17.7 0-32-14.3-32-32S14.3 96 32 96l64 0c30.2 0 58.7 14.2 76.8 38.4L326.4 339.2c6 8.1 15.5 12.8 25.6 12.8l32 0 0-32c0-12.9 7.8-24.6 19.8-29.6s25.7-2.2 34.9 6.9l64 64c6 6 9.4 14.1 9.4 22.6s-3.4 16.6-9.4 22.6l-64 64z"/></svg>
+<text x="560.0" y="498.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C0392B">labirinto</text>
+<text x="560.0" y="512.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">torna al 33</text>
+<text x="464.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">43</text>
+<text x="368.0" y="485.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">44</text>
+<rect x="224.0" y="434.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="230.0" y="452.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">45</text>
+<svg x="253.0" y="444.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="272.0" y="498.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="272.0" y="512.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<text x="272.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">46</text>
+<text x="272.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">47</text>
+<text x="272.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">48</text>
+<text x="368.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">49</text>
+<text x="464.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">50</text>
+<text x="560.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">51</text>
+<rect x="608.0" y="182.0" width="96" height="84" fill="#FCD5D0"/>
+<text x="614.0" y="200.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">52</text>
+<svg x="637.0" y="192.0" width="38" height="38" viewBox="0 0 640 640" preserveAspectRatio="xMidYMid meet" fill="#C0392B" color="#C0392B"><path d="M352 32C352 14.3 337.7 0 320 0C302.3 0 288 14.3 288 32C288 49.7 302.3 64 320 64C337.7 64 352 49.7 352 32zM224 128C241.7 128 256 113.7 256 96C256 78.3 241.7 64 224 64C206.3 64 192 78.3 192 96C192 113.7 206.3 128 224 128zM184 160C170.7 160 160 170.7 160 184L160 200C160 201 160.1 201.9 160.2 202.9C85.5 229.2 32 300.4 32 384C32 490 118 576 224 576C330 576 416 490 416 384C416 300.3 362.5 229.2 287.8 202.9C287.9 202 288 201 288 200L288 184C288 170.7 277.3 160 264 160L184 160zM96 384C96 313.3 153.3 256 224 256C294.7 256 352 313.3 352 384C352 454.7 294.7 512 224 512C153.3 512 96 454.7 96 384zM544 384C544 450.9 492.7 505.8 427.4 511.5C413.1 534.3 395 554.6 374 571.4C387.5 574.4 401.6 576 416 576C522 576 608 490 608 384C608 300.3 554.5 229.2 479.8 202.9C479.9 202 480 201 480 200L480 184C480 170.7 469.3 160 456 160L376 160C363.7 160 353.6 169.2 352.2 181.1C382.5 200.3 408.3 226.1 427.4 256.5C492.8 262.3 544 317.1 544 384zM416 128C433.7 128 448 113.7 448 96C448 78.3 433.7 64 416 64C398.3 64 384 78.3 384 96C384 113.7 398.3 128 416 128z"/></svg>
+<text x="656.0" y="246.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C0392B">prigione</text>
+<text x="752.0" y="233.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">53</text>
+<rect x="704.0" y="266.0" width="96" height="84" fill="#FFF3B0"/>
+<text x="710.0" y="284.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">54</text>
+<svg x="733.0" y="276.0" width="38" height="38" viewBox="48 40 210 182" preserveAspectRatio="xMidYMid meet" fill="#C79A00" color="#C79A00"><g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 158 121 L 72 138 Q 56 141 63 160 Q 78 207 125 207 L 168 207 Q 214 205 214 162 Q 214 138 200 123 A 38 38 0 1 0 158 121 Z"/>
+<path d="M 216 80 L 243 80 Q 238 105 213 112"/>
+<path d="M 106 175 Q 152 194 172 152"/>
+</g>
+<circle cx="182" cy="89" r="8" fill="currentColor"/></svg>
+<text x="752.0" y="330.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C79A00">oca</text>
+<text x="752.0" y="344.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">ancora</text>
+<text x="752.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">55</text>
+<text x="656.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">56</text>
+<text x="560.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">57</text>
+<rect x="416.0" y="350.0" width="96" height="84" fill="#FCD5D0"/>
+<text x="422.0" y="368.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">58</text>
+<svg x="445.0" y="360.0" width="38" height="38" viewBox="0 0 448 512" preserveAspectRatio="xMidYMid meet" fill="#C0392B" color="#C0392B"><path d="M368 128C368 172.4 342.6 211.5 304 234.4V256C304 273.7 289.7 288 272 288H176C158.3 288 144 273.7 144 256V234.4C105.4 211.5 80 172.4 80 128C80 57.31 144.5 0 224 0C303.5 0 368 57.31 368 128V128zM168 176C185.7 176 200 161.7 200 144C200 126.3 185.7 112 168 112C150.3 112 136 126.3 136 144C136 161.7 150.3 176 168 176zM280 112C262.3 112 248 126.3 248 144C248 161.7 262.3 176 280 176C297.7 176 312 161.7 312 144C312 126.3 297.7 112 280 112zM3.379 273.7C11.28 257.9 30.5 251.5 46.31 259.4L224 348.2L401.7 259.4C417.5 251.5 436.7 257.9 444.6 273.7C452.5 289.5 446.1 308.7 430.3 316.6L295.6 384L430.3 451.4C446.1 459.3 452.5 478.5 444.6 494.3C436.7 510.1 417.5 516.5 401.7 508.6L224 419.8L46.31 508.6C30.5 516.5 11.28 510.1 3.379 494.3C-4.525 478.5 1.882 459.3 17.69 451.4L152.4 384L17.69 316.6C1.882 308.7-4.525 289.5 3.379 273.7V273.7z"/></svg>
+<text x="464.0" y="414.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#C0392B">scheletro</text>
+<text x="464.0" y="428.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">torna all'1</text>
+<text x="368.0" y="401.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">59</text>
+<text x="368.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">60</text>
+<text x="464.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">61</text>
+<text x="560.0" y="317.0" text-anchor="middle" font-size="26" font-weight="normal" fill="#263238">62</text>
+<rect x="608.0" y="266.0" width="96" height="84" fill="#CDF5B0"/>
+<text x="614.0" y="284.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">63</text>
+<svg x="637.0" y="276.0" width="38" height="38" viewBox="0 0 448 512" preserveAspectRatio="xMidYMid meet" fill="#3C8D0D" color="#3C8D0D"><path fill="currentColor" d="M32 0C49.7 0 64 14.3 64 32l0 16 69-17.2c38.1-9.5 78.3-5.1 113.5 12.5 46.3 23.2 100.8 23.2 147.1 0l9.6-4.8C423.8 28.1 448 43.1 448 66.1l0 279.7c0 13.3-8.3 25.3-20.8 30l-34.7 13c-46.2 17.3-97.6 14.6-141.7-7.4-37.9-19-81.4-23.7-122.5-13.4L64 384 64 480c0 17.7-14.3 32-32 32S0 497.7 0 480L0 32C0 14.3 14.3 0 32 0zM64 187.1l64-13.9 0 65.5-64 13.9 0 65.5 48.8-12.2c5.1-1.3 10.1-2.4 15.2-3.3l0-63.9 38.9-8.4c8.3-1.8 16.7-2.5 25.1-2.1l0-64c13.6 .4 27.2 2.6 40.4 6.4l23.6 6.9 0 66.7-41.7-12.3c-7.3-2.1-14.8-3.4-22.3-3.8l0 71.4c21.8 1.9 43.3 6.7 64 14.4l0-69.8 22.7 6.7c13.5 4 27.3 6.4 41.3 7.4l0-64.2c-7.8-.8-15.6-2.3-23.2-4.5l-40.8-12 0-62c-13-3.8-25.8-8.8-38.2-15-8.2-4.1-16.9-7-25.8-8.8l0 72.4c-13-.4-26 .8-38.7 3.6l-25.3 5.5 0-75.2-64 16 0 73.1zM320 335.7c16.8 1.5 33.9-.7 50-6.8l14-5.2 0-71.7-7.9 1.8c-18.4 4.3-37.3 5.7-56.1 4.5l0 77.4zm64-149.4l0-70.8c-20.9 6.1-42.4 9.1-64 9.1l0 69.4c13.9 1.4 28 .5 41.7-2.6l22.3-5.2z"/></svg>
+<text x="656.0" y="330.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#3C8D0D">arrivo</text>
+<text x="656.0" y="344.0" text-anchor="middle" font-size="11" font-weight="normal" fill="#263238">esatto</text>
+<line x1="224.0" y1="14.0" x2="224.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="14.0" x2="320.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="14.0" x2="416.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="14.0" x2="512.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="14.0" x2="608.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="14.0" x2="704.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="14.0" x2="800.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="14.0" x2="896.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="98.0" x2="992.0" y2="98.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="182.0" x2="992.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="266.0" x2="992.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="350.0" x2="992.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="434.0" x2="992.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="518.0" x2="992.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="896.0" y1="518.0" x2="896.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="518.0" x2="800.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="518.0" x2="704.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="518.0" x2="608.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="518.0" x2="512.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="518.0" x2="416.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="518.0" x2="320.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="224.0" y1="518.0" x2="224.0" y2="602.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="128.0" y1="518.0" x2="224.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="128.0" y1="434.0" x2="224.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="128.0" y1="350.0" x2="224.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="128.0" y1="266.0" x2="224.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="224.0" y1="98.0" x2="224.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="128.0" y1="182.0" x2="224.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="98.0" x2="320.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="98.0" x2="416.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="98.0" x2="512.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="98.0" x2="608.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="98.0" x2="704.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="98.0" x2="800.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="182.0" x2="896.0" y2="182.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="266.0" x2="896.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="350.0" x2="896.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="434.0" x2="896.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="800.0" y1="434.0" x2="800.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="434.0" x2="704.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="434.0" x2="608.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="434.0" x2="512.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="434.0" x2="416.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="434.0" x2="320.0" y2="518.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="224.0" y1="434.0" x2="320.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="224.0" y1="350.0" x2="320.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="182.0" x2="320.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="224.0" y1="266.0" x2="320.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="182.0" x2="416.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="182.0" x2="512.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="182.0" x2="608.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="182.0" x2="704.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="266.0" x2="800.0" y2="266.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="350.0" x2="800.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="704.0" y1="350.0" x2="704.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="350.0" x2="608.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="350.0" x2="512.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="350.0" x2="416.0" y2="434.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="416.0" y1="266.0" x2="416.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="320.0" y1="350.0" x2="416.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="512.0" y1="266.0" x2="512.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+<line x1="608.0" y1="266.0" x2="608.0" y2="350.0" stroke="#263238" stroke-width="1.2"/>
+</g>
+<path d="M 416.0 350.0 L 686.0 350.0 A 18.0 18.0 0 0 0 704.0 332.0 L 704.0 284.0 A 18.0 18.0 0 0 0 686.0 266.0 L 338.0 266.0 A 18.0 18.0 0 0 0 320.0 284.0 L 320.0 416.0 A 18.0 18.0 0 0 0 338.0 434.0 L 782.0 434.0 A 18.0 18.0 0 0 0 800.0 416.0 L 800.0 200.0 A 18.0 18.0 0 0 0 782.0 182.0 L 242.0 182.0 A 18.0 18.0 0 0 0 224.0 200.0 L 224.0 500.0 A 18.0 18.0 0 0 0 242.0 518.0 L 878.0 518.0 A 18.0 18.0 0 0 0 896.0 500.0 L 896.0 116.0 A 18.0 18.0 0 0 0 878.0 98.0 L 128.0 98.0" fill="none" stroke="#263238" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 146.0 14.0 L 974.0 14.0 A 18.0 18.0 0 0 1 992.0 32.0 L 992.0 584.0 A 18.0 18.0 0 0 1 974.0 602.0 L 146.0 602.0 A 18.0 18.0 0 0 1 128.0 584.0 L 128.0 32.0 A 18.0 18.0 0 0 1 146.0 14.0 Z" fill="none" stroke="#263238" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.0" y="14.0" width="96" height="84" rx="18" fill="#E6E8E1" stroke="#263238" stroke-width="5"/>
+<text x="20.0" y="32.0" text-anchor="start" font-size="16" font-weight="bold" fill="#263238">0</text>
+<svg x="43.0" y="24.0" width="38" height="38" viewBox="0 0 384 512" preserveAspectRatio="xMidYMid meet" fill="#263238" color="#263238"><path d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z"/></svg>
+<text x="62.0" y="78.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#263238">partenza</text>
+<line x1="110.0" y1="56.0" x2="128.0" y2="56.0" stroke="#263238" stroke-width="5"/>
+</svg>
