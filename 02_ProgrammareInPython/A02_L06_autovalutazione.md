@@ -196,7 +196,7 @@ print(d)
 - *`7`* — quando `d` vale 7 il resto è zero e `trovato` diventa `True`, ma la riga dopo l'`if` **si esegue comunque**: `d` passa a 8. Il ciclo si ferma al controllo successivo;
 - *`91`* — no: il ciclo si ferma prima, appena `trovato` è vero.
 
-Uscire con la condizione, senza `break`, vuol dire che **il giro in corso finisce**. Per stampare il divisore bisogna stampare `d - 1`, oppure salvare il divisore in un'altra variabile quando lo si trova.
+Uscire con la condizione, senza `break`, vuol dire che **il giro in corso finisce**. Stampare `d - 1` non basta: con `n = 97`, che è primo, nessun resto è zero, il ciclo esce per **l'altra** condizione, `d < n`, e `d - 1` vale `96`. La correzione è far avanzare `d` solo finché non ha trovato, con `d = d + 1` in un `else`: allora stampa `7` con `91` e `97` con `97`. Quando un `while` ha due condizioni, dopo il ciclo chiediti **quale delle due lo ha fermato**.
 
 </details>
 
@@ -399,7 +399,7 @@ print("passi:", passi, "massimo:", massimo)
 
 Tre punti dove si sbaglia:
 
-- **il massimo parte dal primo valore**, `massimo = n`, non da 0: con 0 funziona per caso, perché i valori sono positivi, ma è l'abitudine sbagliata;
+- **il massimo parte dal primo valore**, `massimo = n`, non da 0: con 0 il valore di partenza non viene mai confrontato, perché il confronto sta dopo il passo. Con `n = 27` non si vede, perché il massimo arriva dopo; con `n = 16` il percorso è 16, 8, 4, 2, 1 e il programma stampa massimo `8`;
 - **`//` e non `/`**: con `/` i passi tornano lo stesso, perché si divide solo un numero pari, ma `n` diventa un float e il massimo esce `9232.0`. Per dividere un intero e restare negli interi si usa `//`;
 - **contare i passi, non i numeri**: il percorso da 6 tocca 9 numeri ma fa 8 passi. Se il contatore parte da 1, la risposta è 112.
 
