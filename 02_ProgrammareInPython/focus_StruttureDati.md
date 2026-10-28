@@ -458,6 +458,43 @@ Questa è anche la forma del **JSON**, il formato con cui si scambiano dati sul 
 
 ---
 
+## Per approfondire
+
+Le fonti sono quasi tutte la **documentazione ufficiale di Python**, in inglese. Il tutorial ha una traduzione italiana, ma è parziale: nella stessa pagina si alternano frasi tradotte e frasi in inglese. Le **PEP** (*Python Enhancement Proposal*) sono le proposte con cui ogni novità è entrata nel linguaggio: oltre a che cosa fa, spiegano **perché** è stata introdotta e quali alternative sono state scartate.
+
+**Per cominciare**
+
+- Il tutorial ufficiale, capitolo *Strutture dati*: liste, tuple, insiemi, dizionari, comprehension e tecniche per scorrerli. In inglese, <https://docs.python.org/3/tutorial/datastructures.html>, e in italiano, <https://docs.python.org/it/3/tutorial/datastructures.html>.
+- La descrizione completa dei tipi predefiniti, con tutti i metodi: le sequenze, <https://docs.python.org/3/library/stdtypes.html#typesseq>; gli insiemi, <https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset>; i dizionari, <https://docs.python.org/3/library/stdtypes.html#typesmapping>.
+
+**Parte I — dentro le strutture**
+
+- Che cos'è un iteratore: il glossario, <https://docs.python.org/3/glossary.html#term-iterator>, e la sezione *Iterators* della guida alla programmazione funzionale, <https://docs.python.org/3/howto/functional.html#iterators>.
+- Quanto costa ogni operazione: la tabella ufficiale dei costi, per liste, insiemi e dizionari, <https://docs.python.org/3/builtins/time-complexity.html>.
+- Perché liste e dizionari costano così: le FAQ sul progetto del linguaggio, *How are lists implemented*, <https://docs.python.org/3/faq/design.html#how-are-lists-implemented-in-cpython>, *How are dictionaries implemented*, <https://docs.python.org/3/faq/design.html#how-are-dictionaries-implemented-in-cpython>, e *Why must dictionary keys be immutable?*, <https://docs.python.org/3/faq/design.html#why-must-dictionary-keys-be-immutable>.
+- Che cosa vuol dire *hashable*: <https://docs.python.org/3/glossary.html#term-hashable>.
+- Riferimenti, nomi e copie: *Facts and myths about Python names and values* di Ned Batchelder, il testo di riferimento su questo argomento, da cui l'autore ha tratto un intervento alla PyCon 2015, <https://nedbatchelder.com/text/names.html>. E le FAQ ufficiali: *Why did changing list 'y' also change list 'x'?*, <https://docs.python.org/3/faq/programming.html#why-did-changing-list-y-also-change-list-x>, e *How do I copy an object?*, <https://docs.python.org/3/faq/programming.html#how-do-i-copy-an-object-in-python>, con il modulo `copy`, <https://docs.python.org/3/library/copy.html>.
+
+**Parte II — strumenti in più**
+
+- `get` e `setdefault`: <https://docs.python.org/3/library/stdtypes.html#dict.get>, <https://docs.python.org/3/library/stdtypes.html#dict.setdefault>.
+- Quali valori valgono `False`: <https://docs.python.org/3/library/stdtypes.html#truth-value-testing>.
+- Gli insiemi, nel tutorial: <https://docs.python.org/3/tutorial/datastructures.html#sets>.
+- `Counter` e `defaultdict`: <https://docs.python.org/3/library/collections.html#collections.Counter>, <https://docs.python.org/3/library/collections.html#collections.defaultdict>.
+- Le viste di un dizionario: <https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects>, e la PEP 3106, che in Python 3 ha trasformato `keys()`, `values()` e `items()` da liste in viste, <https://peps.python.org/pep-3106/>.
+- Unire dizionari con `|`: la PEP 584, <https://peps.python.org/pep-0584/>.
+- Le comprehension: il tutorial, <https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions>; le PEP che le hanno introdotte, per le liste, <https://peps.python.org/pep-0202/>, e per i dizionari, <https://peps.python.org/pep-0274/>.
+- Le espressioni generatrici: il glossario, <https://docs.python.org/3/glossary.html#term-generator-expression>, la guida alla programmazione funzionale, <https://docs.python.org/3/howto/functional.html#generator-expressions-and-list-comprehensions>, e la PEP 289, <https://peps.python.org/pep-0289/>.
+- `any` e `all`: <https://docs.python.org/3/library/functions.html#any>, <https://docs.python.org/3/library/functions.html#all>.
+- `zip` e `strict=True`: <https://docs.python.org/3/library/functions.html#zip>, e la PEP 618, <https://peps.python.org/pep-0618/>.
+- Lo spacchettamento con l'asterisco: la PEP 3132, <https://peps.python.org/pep-3132/>.
+
+**Parte III — dati veri**
+
+- Il formato JSON e il modulo che lo legge e lo scrive: <https://docs.python.org/3/library/json.html>.
+
+---
+
 ## Che cosa resta fuori
 
 Alcuni strumenti vicini a questi richiedono di saper scrivere una **funzione**, e arrivano dopo `L08`: le funzioni senza nome (`lambda`), l'argomento `key=` per ordinare in base a un criterio scelto da noi, le funzioni che producono valori uno alla volta (`yield`), e le annotazioni di tipo.
