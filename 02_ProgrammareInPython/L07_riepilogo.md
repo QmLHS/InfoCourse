@@ -91,7 +91,7 @@ Una tupla può fare da **chiave di un dizionario**, una lista no: `pedine[(0, 3)
 | `l.pop(i)` | toglie l'elemento in **posizione** `i`, e lo **restituisce** | `l.pop(0)` | `[1, 2]`, restituisce `3` |
 | `l.pop()` | senza argomento, toglie e restituisce l'**ultimo** | `l.pop()` | `[3, 1]`, restituisce `2` |
 | `del l[i]` | toglie l'elemento in posizione `i`. È un'istruzione, non un metodo | `del l[0]` | `[1, 2]` |
-| `del l[i:j]` | toglie una fetta | `del l[0:2]` | `[2]` |
+| `del l[i:j]` | toglie una sottolista | `del l[0:2]` | `[2]` |
 | `l[i] = x` | sostituisce l'elemento in posizione `i` | `l[0] = 7` | `[7, 1, 2]` |
 | `l.sort()` | ordina, dal più piccolo | `l.sort()` | `[1, 2, 3]` |
 | `l.sort(reverse=True)` | ordina, dal più grande | `l.sort(reverse=True)` | `[3, 2, 1]` |
