@@ -1,0 +1,1385 @@
+        400 stile libero  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   BAIGUERA  MARTA ISIDE          1994   Verolanuoto                 4'49"74  0,00
+       2   FERRARI  ALICE                 1997   Coopernuoto                 4'55"15  0,00
+
+        400 stile libero  femminile  -  Categoria  Master 25      Tempo Base :  4'23"38
+----------------------------------------------------------------------------------------------
+       1   GUARESCHI  MARTINA             1990   Coopernuoto                 4'33"59  962,68
+       2   FE`  ELEONORA                  1989   Prosport Acqua ssd          4'52"72  899,77
+       3   PASTORE  GIULIA                1991   Effetto Sport - Barzano`    4'56"77  887,49
+       4   MOTTADELLI  ANNA               1992   Nord Padania Nuoto - Vare   5'03"97  866,47
+       5   LOPPI  LAURA                   1989   Amici Nuoto Firenze         5'06"75  858,61
+       6   BIGIOGGERO GIORGIA             1993   NUOTO ALTO MILANESE         5'19"51  824,32
+       7   RICCARDI  FIORELLA             1989   Amici Nuoto Firenze         5'39"61  775,54
+
+        400 stile libero  femminile  -  Categoria  Master 30      Tempo Base :  4'22"11
+----------------------------------------------------------------------------------------------
+       1   LUGANO  DILETTA                1984   Derthona Nuoto              4'51"39  899,52
+       2   TAINI  RAFFAELLA               1984   Nuoto Master Brescia asd    5'05"49  858,00
+       3   COGO  MARTINA GAIA             1985   Effetto Sport - Barzano`    5'08"50  849,63
+       4   PELIZZARI  VALENTINA           1987   Aquatic Center ssd          5'26"82  802,00
+       5   LEONI  SARA                    1985   Prosport Acqua ssd          5'49"83  749,25
+       6   LEONARDI  CHIARA               1985   ASA asd - Cinisello Balsa   6'07"73  712,78
+       7   MAZZOLENI  ELISA               1987   Canottieri Baldesio         6'31"91  668,80
+
+        400 stile libero  femminile  -  Categoria  Master 35      Tempo Base :  4'27"39
+----------------------------------------------------------------------------------------------
+       1   BATTISTONI  ELISA              1981   Aquatic Center ssd          4'44"10  941,18
+       2   LUGANO  VALENTINA              1980   Derthona Nuoto              4'55"73  904,17
+       3   RAMPINI  ROSSANA               1982   Verolanuoto                 5'15"58  847,30
+       4   FANTECHI  CLAUDIA              1981   FIRENZE NUOTA EXTREMO       5'19"34  837,32
+
+        400 stile libero  femminile  -  Categoria  Master 40      Tempo Base :  4'29"60
+----------------------------------------------------------------------------------------------
+       1   CIOCILTEU  FLORENTINA          1976   Nuoto Master Brescia asd    4'57"86  905,12
+       2   BORRELLO  CLIZIA               1976   ASA asd - Cinisello Balsa   5'03"10  889,48
+       3   CICERI  LARA                   1976   ASA asd - Cinisello Balsa   5'13"74  859,31
+       4   ZURLINI  CHIARA                1976   Villa Bonelli Nuoto asd     5'21"22  839,30
+       5   FASOLINI  DIANA                1977   Prosport Acqua ssd          5'34"41  806,20
+       6   VINCENZI GIULIA                1976   Lecco Olimpica Nuoto        6'16"58  715,92
+       7   MOLINARICH  NORMA              1974   Coopernuoto                 6'50"62  656,57
+       8   SORRENTINO  ANNA               1975   Il Delfino Napoli asd       8'31"19  527,40
+
+        400 stile libero  femminile  -  Categoria  Master 45      Tempo Base :  4'37"85
+----------------------------------------------------------------------------------------------
+       1   FERRANDO  ELEONORA             1969   Genova Nuoto My Sport ssd   4'59"29  928,36
+       2   ROBBIATI  ALESSANDRA           1973   Rari Nantes Legnano         5'20"35  867,33
+       3   PIATTI  SUSANNA                1970   Nord Padania Nuoto - Vare   5'21"41  864,47
+       4   SANTINI  NADIA                 1969   ASA asd - Cinisello Balsa   5'40"91  815,02
+       5   FUMASOLI  ALESSIA              1973   Settefrati Libertas MN 33   5'45"10  805,13
+       6   DEDOLA  BARBARA                1970   Leaena ssd                  5'57"69  776,79
+       7   DELLE PIANE  RAFFAELLA         1972   Genova Nuoto My Sport ssd   6'32"08  708,66
+
+        400 stile libero  femminile  -  Categoria  Master 50      Tempo Base :  4'42"86
+----------------------------------------------------------------------------------------------
+       1   DE PONTI  DANIELA              1965   Nuoto Master Brescia asd    4'56"59  953,71
+       2   OUSPENKINA  LARISSA            1967   Canottieri Baldesio         5'24"18  872,54
+       3   FORNI  ELISABETTA              1967   Como Nuoto                  5'49"98  808,22
+       4   DELLA CASA MONGIARDINO  ANTON  1967   Genova Nuoto My Sport ssd   5'51"17  805,48
+       5   MASPER  MARCELLA               1967   Bergamo Nuoto               6'24"93  734,83
+       6   VANERIO  SIMONA                1964   Natatio Master Team asd     6'40"52  706,23
+       7   CONTI  MARIA PAOLA             1965   Verolanuoto                 6'58"07  676,59
+       8   ZANGA  DANIELA                 1967   Bergamo Nuoto               8'05"29  582,87
+
+        400 stile libero  femminile  -  Categoria  Master 55      Tempo Base :  4'55"36
+----------------------------------------------------------------------------------------------
+       1   ROVIDA  MARIA CRISTINA         1960   Master Melzo Nuoto          6'16"09  785,34
+       2   DI BERNARDO  FULVIA            1959   Master Melzo Nuoto          7'20"52  670,48
+       3   BALZARETTI  CRISTINA           1963   Nuoto Club Seregno          8'02"67  611,93
+
+        400 stile libero  femminile  -  Categoria  Master 65      Tempo Base :  5'38"62
+----------------------------------------------------------------------------------------------
+       1   LUCCHETTI  OLIVIA              1952   Bergamo Nuoto               8'34"21  658,52
+       2   REBOLINI  ANTONIETTA           1951   B.Fit Legnano Nuoto         9'06"79  619,29
+
+        400 stile libero  femminile  -  Categoria  Master 70      Tempo Base :  6'10"35
+----------------------------------------------------------------------------------------------
+       1   CASTIGLIONI ISABELLA           1947   SWIM PRO LOMBARDIA ASD      8'11"93  752,85
+
+        400 stile libero  maschile   -  Categoria  Master 25      Tempo Base :  3'57"47
+----------------------------------------------------------------------------------------------
+       1   BIGI  LORENZO                  1991   Nuoto Club Sassuolo         4'37"94  854,39
+       2   FACCHINETTI  ROBERTO ARISTIDE  1989   Nuoto Master Brescia asd    4'38"46  852,80
+       3   BALLADORE  MARCO               1992   Derthona Nuoto              4'49"54  820,16
+       4   PETROVICH  DAVIDE              1993   Leaena ssd                  4'50"08  818,64
+       5   BERTONI  STEFANO               1991   Verolanuoto                 4'56"10  801,99
+       6   BROCCOLINO  FILIPPO MARIA      1989   Master Melzo Nuoto          4'56"56  800,75
+       7   CIVETTINI  ANDREA              1992   G.A.M. Team ssd - Brescia   5'05"94  776,20
+       8   GOZZI  FABIO                   1990   Coopernuoto                 5'10"88  763,86
+       9   ZANETTI  ALBERTO               1992   G.A.M. Team ssd - Brescia   5'18"10  746,53
+      10   FOLINI  FRANCESCO              1993   Amici Nuoto Firenze         5'35"88  707,01
+      11   PINTON  MICHELE                1989   Verolanuoto                 5'50"78  676,98
+      12   MOTTA  ALESSANDRO              1991   Prosport Acqua ssd          5'52"41  673,85
+      13   BORDIN  MASSIMO                1990   Verolanuoto                 6'19"84  625,18
+
+        400 stile libero  maschile   -  Categoria  Master 30      Tempo Base :  4'00"64
+----------------------------------------------------------------------------------------------
+       1   GIOVANNINI  LORENZO            1986   Nuoto Club Firenze          4'07"11  973,82
+       2   CALEFFI  DAVIDE                1984   Circolo Canottieri Aniene   4'33"92  878,50
+       3   FUMAGALLI  SIMONE              1985   Effetto Sport - Barzano`    4'44"72  845,18
+       4   ALBINI  BENEDETTO              1985   Verolanuoto                 4'50"54  828,25
+       5   OPICI  MORENO MARIO            1986   Master Melzo Nuoto          4'53"98  818,56
+       6   SCIOLA  STEFANO                1985   Esc ssd - Brescia           4'58"22  806,92
+       7   GUATTERI  RICCARDO             1985   Villa Bonelli Nuoto asd     5'04"24  790,95
+       8   FRANCHI  DANIELE               1987   Amici Nuoto Firenze         5'19"48  753,22
+       9   ALBERTI  DANIELE               1985   Tibidabo ssd - Concesio     5'25"21  739,95
+      10   GATELLI  FILIPPO               1986   Tibidabo ssd - Concesio     6'30"25  616,63
+
+        400 stile libero  maschile   -  Categoria  Master 35      Tempo Base :  4'02"18
+----------------------------------------------------------------------------------------------
+       1   GOTTI  YURI                    1982   Nuoto Master Brescia asd    4'11"50  962,94
+       2   VENTURINI  MICHELE             1982   Amici Nuoto Firenze         4'47"29  842,98
+       3   GABRIELI  SIMONE               1979   Esc ssd - Brescia           4'47"83  841,40
+       4   LAI  GIAN MICHELE              1982   La Wellness ssd - Milano    4'48"38  839,79
+       5   MONTANUCCI  ROBERTO            1979   Il Cigno Coop.Sport Dil.    4'55"37  819,92
+       6   BETTINAZZI  MORENO             1982   Aquatic Center ssd          5'02"98  799,33
+       7   DE MARINIS GALLO  GIANLUIGI    1981   Villa Bonelli Nuoto asd     5'05"61  792,45
+       8   CANFAROTTA  ANTONINO           1979   Aquatic Center ssd          5'12"64  774,63
+       9   GEMELLI  FABRIZIO              1982   Gestisport Coop ssd - Car   5'18"32  760,81
+      10   GAVIOLA  SIMONE                1982   Acqua 1 Village asd - C.P   5'26"34  742,11
+      11   BEDOCCHI  DAVIDE               1981   Esc ssd - Brescia           5'39"88  712,55
+      12   MAZZULLO  LORIS                1983   Canottieri Flora            5'40"19  711,90
+      13   VALSECCHI  LUIGI               1982   Effetto Sport - Barzano`    5'57"51  677,41
+
+        400 stile libero  maschile   -  Categoria  Master 40      Tempo Base :  4'03"72
+----------------------------------------------------------------------------------------------
+       1   PEDRAZZOLI  ANDREA             1974   Nuoto Master Brescia asd    4'23"35  925,46
+       2   BLANDA  FABIO                  1978   ASA asd - Cinisello Balsa   4'37"22  879,16
+       3   COSCIA  CHRISTIAN              1976   Derthona Nuoto              4'47"67  847,22
+       4   SACCHI  MARCO                  1978   Verolanuoto                 4'50"17  839,92
+       5   ROSSO  ALESSANDRO              1978   Verolanuoto                 4'57"90  818,13
+       6   GIAVARDI  ANDREA               1978   CANOTTIERI BISSOLATI        5'05"62  797,46
+       7   CATTANEO  MATTEO               1975   Verolanuoto                 5'11"11  783,39
+       8   CLEMENCIGH MATTEO              1977   Team Insubrika asd          5'14"56  774,80
+       9   PERFETTI  PAOLO                1978   Aquatic Center ssd          5'20"95  759,37
+      10   GALIERO  ROBERTO PIETRO        1977   Gestisport Coop ssd - Car   5'22"88  754,83
+      11   LANATA  PAOLO                  1977   Genova Nuoto My Sport ssd   5'25"94  747,74
+      12   BURASCHI  FABIO                1978   Aquatic Center ssd          5'28"09  742,84
+      13   RUSSO  GIUSEPPE                1977   Gestisport Coop ssd - Car   5'28"58  741,74
+      14   BERTAIOLA  ANDREA              1976   asd Tennis Club Peschiera   5'33"14  731,58
+      15   COSTANTINI  FRANCESCO          1977   ASA asd - Cinisello Balsa   5'36"00  725,36
+      16   MORATTI  PIERLUIGI             1974   Aquatic Center ssd          5'39"39  718,11
+      17   FURLOTTI  CHRISTIAN            1975   Coopernuoto                 5'44"29  707,89
+      18   AZZALI PAOLO                   1978   Canottieri Baldesio         5'45"77  704,86
+      19   SCOTUZZI  ALESSANDRO           1975   Esc ssd - Brescia           5'53"44  689,57
+      20   MIOT  FEDERICO                 1977   Derthona Nuoto              6'01"81  673,61
+
+        400 stile libero  maschile   -  Categoria  Master 45      Tempo Base :  4'09"47
+----------------------------------------------------------------------------------------------
+       1   ASSANDRI  EMILIANO             1973   Derthona Nuoto              4'42"00  884,65
+       2   STOPPANI  MAURO                1971   Gonzaga Sport Club ssd      4'48"62  864,35
+       3   PERNUMIAN  MARCO               1971   Nuoto Club Milano           4'58"93  834,54
+       4   SABADINI  MASSIMILIANO         1970   Polisp San Giuliano ssd     5'01"69  826,91
+       5   COSTANZO  DANIELE              1972   Genova Nuoto My Sport ssd   5'03"79  821,19
+       6   GARRAPA  MARCELLO              1971   ASA asd - Cinisello Balsa   5'04"57  819,09
+       7   FIGAROLI  MASSIMO              1971   ASA asd - Cinisello Balsa   5'14"06  794,34
+       8   GRAMEGNA  FABIO                1971   Forum ssd - Assago          5'15"57  790,54
+       9   METELLI  ANTHONY               1973   G.A.M. Team ssd - Brescia   5'19"44  780,96
+      10   BIFULCO  OTTAVIO               1971   Nuoto Club Firenze          5'22"26  774,13
+      11   LOCATI  ANDREA                 1969   Verolanuoto                 5'23"94  770,11
+      12   SCORDAMAGLIA  OLIVIERO         1969   Rari Nantes Legnano         5'29"24  757,71
+      13   GEREVINI  MAURO                1970   Canottieri Flora            5'35"92  742,65
+      14   MASINA  CESARE                 1969   Nuoto Club Seregno          5'39"47  734,88
+      15   BELUSSI  CRISTIANO             1970   Nuoto Master Brescia asd    5'40"55  732,55
+      16   BIANCHI  PIERLUIGI             1969   Canottieri Baldesio         5'42"36  728,68
+      17   VOLPI  PIERLUIGI               1970   Aquatic Center ssd          5'52"26  708,20
+      18   VITI  PIERLUIGI                1971   Nuoto Club Sassuolo         6'07"94  678,02
+      19   SANTORO  GIUSEPPE              1971   Aquatic Center ssd          6'14"63  665,91
+      20   SANNINO  LUIGI                 1970   Nord Padania Nuoto - Vare   6'37"46  627,66
+      21   LUPI  GIANCARLO                1972   Canottieri Baldesio         6'40"86  622,34
+      22   SOFIA  MASSIMILIANO            1970   Canottieri Baldesio         7'31"62  552,39
+
+        400 stile libero  maschile   -  Categoria  Master 50      Tempo Base :  4'18"13
+----------------------------------------------------------------------------------------------
+       1   CALMASINI  FABIO               1968   Nuoto Master Brescia asd    4'13"20 1019,47
+       2   GIALDI  MASSIMILIANO           1968   Nuoto Master Brescia asd    4'29"08  959,31
+       3   BRUNORI  ROBERTO               1964   Nuoto Master Brescia asd    4'32"83  946,12
+       4   MARTINELLI  ROBERTO            1967   Verolanuoto                 5'01"20  857,01
+       5   CAPPELLETTI  MAURO             1965   ASA asd - Cinisello Balsa   5'01"68  855,64
+       6   BO  ROBERTO                    1966   Rari Nantes Gerbido         5'04"93  846,52
+       7   RIZZUTO  PIETRO                1967   Forum ssd - Assago          5'08"98  835,43
+       8   MELLI  DAVIDE                  1968   Nuoto Master Brescia asd    5'09"33  834,48
+       9   FANTONI  PAOLO                 1965   Leaena ssd                  5'15"13  819,12
+      10   PASSIGATTI  GINO               1967   Villa Bonelli Nuoto asd     5'16"90  814,55
+      11   VIVANTI  MASSIMO               1968   ASA asd - Cinisello Balsa   5'19"66  807,51
+      12   SILVANI  LORENZO               1965   Leaena ssd                  5'34"10  772,61
+      13   LORINI  ANDREA                 1968   Amici Nuoto Firenze         5'36"42  767,28
+      14   BRIVIO  FRANCO                 1968   Effetto Sport - Barzano`    5'40"03  759,14
+      15   LANCETTI  ALBERTO              1968   Canottieri Baldesio         5'40"94  757,11
+      16   MARSALA  ADRIANO               1965   La Wellness ssd - Milano    5'43"20  752,13
+      17   TAGARIELLO  FILIPPO            1965   Gestisport Coop ssd - Car   5'51"53  734,30
+      18   BOCCHI  MASSIMO                1967   Canottieri Flora            5'58"69  719,65
+      19   CAVALCA  MARCO                 1968   Villa Bonelli Nuoto asd     6'01"96  713,15
+      20   MARICONDA  GIUSEPPE            1968   Canottieri Flora            8'03"40  533,99
+      21   GHIDETTI  MARCO                1965   Canottieri Flora            8'21"89  514,32
+
+        400 stile libero  maschile   -  Categoria  Master 55      Tempo Base :  4'30"63
+----------------------------------------------------------------------------------------------
+       1   TRAVAINI  CARLO ARTURO         1963   Acqua 1 Village asd - C.P   4'37"22  976,23
+       2   BORDONALI  BERNARDO            1961   Verolanuoto                 4'53"25  922,86
+       3   ZANZA  ANDREA                  1963   Villa Bonelli Nuoto asd     5'02"08  895,89
+       4   RUSCONI  ALFONSO               1963   Lecco Olimpica Nuoto        6'03"92  743,65
+       5   FACCONI  MASSIMO               1961   Aquatic Center ssd          6'05"08  741,29
+       6   SPERINDE`  MASSIMO             1959   Villa Bonelli Nuoto asd     6'28"40  696,78
+       7   PAINI  MIRCO                   1963   Canottieri Baldesio         6'31"55  691,18
+       8   FORESTANO  LEONARDO            1959   Acqua 1 Village asd - C.P   6'32"47  689,56
+       9   LUTERO  CESARE                 1963   Dimensione N Pontedera      6'52"47  656,12
+      10   PICARELLI  ALESSIO FILIPPO     1960   Canottieri Flora            9'00"51  500,69
+           RIGO  MAURO                    1963   Lecco Olimpica Nuoto       Squalif.    0,00
+
+        400 stile libero  maschile   -  Categoria  Master 60      Tempo Base :  4'40"46
+----------------------------------------------------------------------------------------------
+       1   BRAVI  MARCO ALESSANDRO        1956   Amici Nuoto Firenze         4'47"05  977,04
+       2   D`ELIA  FRANCESCO              1958   Nuoto Master Brescia asd    5'31"33  846,47
+       3   LUCHETTA  GIOVANNI             1956   ASA asd - Cinisello Balsa   5'40"12  824,59
+       4   PANICUCCI  MARCO               1958   Dimensione N Pontedera      5'44"72  813,59
+       5   SIRAGUSA  ROBERTO              1958   Villa Bonelli Nuoto asd     6'27"79  723,23
+       6   GHISALBERTI  PIETRO            1958   Esc ssd - Brescia           6'50"95  682,47
+       7   CIRELLA  RAFFAELE              1958   Il Delfino Napoli asd       7'18"60  639,44
+       8   CERETTI  FABIO                 1957   Canottieri Flora            7'38"29  611,97
+       9   REBOLINI  GIOVANNI             1956   B.Fit Legnano Nuoto         8'43"05  536,20
+
+        400 stile libero  maschile   -  Categoria  Master 65      Tempo Base :  4'56"16
+----------------------------------------------------------------------------------------------
+       1   VELARDI  EUGENIO               1953   Circolo Canottieri Aniene   5'58"18  826,85
+       2   CASTRACANI  GIOVANNI           1950   Aquatic Center ssd          6'45"61  730,16
+       3   PISTOLESI CLAUDIO              1950   ENJOY S.S.D.                6'49"73  722,82
+       4   DEJACO  STEPHAN                1949   SSV Brixen                  6'50"41  721,62
+       5   NERI  UMBERTO                  1951   Master Melzo Nuoto          6'58"70  707,33
+       6   BOZZOLO  GIOVANNI ANGELO       1949   SWIM PRO LOMBARDIA ASD      6'58"81  707,15
+       7   SIGNORELLI  ERCOLE             1951   GIS Milano ssd              7'58"11  619,44
+
+        400 stile libero  maschile   -  Categoria  Master 70      Tempo Base :  5'18"66
+----------------------------------------------------------------------------------------------
+       1   MILLEFIORINI  MAURO            1948   Nord Padania Nuoto - Vare   6'48"61  779,86
+
+        400 stile libero  maschile   -  Categoria  Master 75      Tempo Base :  5'43"39
+----------------------------------------------------------------------------------------------
+       1   DELLA CASA  PIERINO            1941   Genova Nuoto My Sport ssd   7'01"54  814,61
+       2   MAINARDI  ENNIO                1939   Il Cigno Coop.Sport Dil.    7'53"80  724,76
+       3   LALLA  MARIANO                 1943   Il Delfino Napoli asd       8'24"67  680,42
+       4   MERCATI  GHERARDO              1939   Bergamo Nuoto               9'30"47  601,94
+
+        400 stile libero  maschile   -  Categoria  Master 80      Tempo Base :  6'12"63
+----------------------------------------------------------------------------------------------
+       1   FORLANI  GEROLAMO              1935   Sporting Lodi ssd           7'30"56  827,04
+
+        100 misti  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   FERRARI  ALICE                 1997   Coopernuoto                 1'12"29  0,00
+       2   BONFIGLIO  ELENA               1994   Esc ssd - Brescia           1'27"49  0,00
+
+        100 misti  femminile  -  Categoria  Master 25             Tempo Base :  1'04"10
+----------------------------------------------------------------------------------------------
+       1   GUARESCHI  MARTINA             1990   Coopernuoto                 1'10"98  903,07
+       2   FE`  ELEONORA                  1989   Prosport Acqua ssd          1'12"55  883,53
+       3   LOPPI  LAURA                   1989   Amici Nuoto Firenze         1'13"10  876,88
+       4   PASTORE  GIULIA                1991   Effetto Sport - Barzano`    1'13"91  867,27
+       5   MININI  CHIARA                 1992   Verolanuoto                 1'15"35  850,70
+       6   MOTTADELLI  ANNA               1992   Nord Padania Nuoto - Vare   1'21"92  782,47
+       7   BIGIOGGERO GIORGIA             1993   NUOTO ALTO MILANESE         1'22"57  776,31
+       8   GHIRINGHELLI  CHIARA           1992   Canottieri Baldesio         1'29"41  716,92
+       9   RICCARDI  FIORELLA             1989   Amici Nuoto Firenze         1'37"46  657,71
+
+        100 misti  femminile  -  Categoria  Master 30             Tempo Base :  1'03"94
+----------------------------------------------------------------------------------------------
+       1   LUGANO  DILETTA                1984   Derthona Nuoto              1'11"77  890,90
+       2   TAINI  RAFFAELLA               1984   Nuoto Master Brescia asd    1'18"03  819,43
+       3   LEONI  SARA                    1985   Prosport Acqua ssd          1'26"24  741,42
+       4   LEONARDI  CHIARA               1985   ASA asd - Cinisello Balsa   1'28"96  718,75
+
+        100 misti  femminile  -  Categoria  Master 35             Tempo Base :  1'05"82
+----------------------------------------------------------------------------------------------
+       1   LUGANO  VALENTINA              1980   Derthona Nuoto              1'18"09  842,87
+       2   FANTECHI  CLAUDIA              1981   FIRENZE NUOTA EXTREMO       1'21"10  811,59
+       3   FONTANA  LIDIA                 1982   Genova Nuoto My Sport ssd   1'41"43  648,92
+
+        100 misti  femminile  -  Categoria  Master 40             Tempo Base :  1'06"33
+----------------------------------------------------------------------------------------------
+       1   CIOCILTEU  FLORENTINA          1976   Nuoto Master Brescia asd    1'13"95  896,96
+       2   BORRELLO  CLIZIA               1976   ASA asd - Cinisello Balsa   1'14"66  888,43
+       3   CICERI  LARA                   1976   ASA asd - Cinisello Balsa   1'17"01  861,32
+       4   FASOLINI  DIANA                1977   Prosport Acqua ssd          1'21"85  810,38
+       5   FERTONANI  SARA                1978   Canottieri Baldesio         1'30"96  729,22
+       6   VINCENZI GIULIA                1976   Lecco Olimpica Nuoto        1'34"02  705,49
+       7   CEREDA  MIRIAM                 1978   Canottieri Baldesio         2'01"84  544,40
+       8   SORRENTINO  ANNA               1975   Il Delfino Napoli asd       2'02"14  543,07
+
+        100 misti  femminile  -  Categoria  Master 45             Tempo Base :  1'07"80
+----------------------------------------------------------------------------------------------
+       1   FERRANDO  ELEONORA             1969   Genova Nuoto My Sport ssd   1'16"73  883,62
+       2   ROBBIATI  ALESSANDRA           1973   Rari Nantes Legnano         1'18"89  859,42
+       3   SANTINI  NADIA                 1969   ASA asd - Cinisello Balsa   1'24"35  803,79
+       4   PIATTI  SUSANNA                1970   Nord Padania Nuoto - Vare   1'24"72  800,28
+       5   RUGGIERO  FRANCESCA            1971   Esc ssd - Brescia           1'25"55  792,52
+       6   DEDOLA  BARBARA                1970   Leaena ssd                  1'28"01  770,37
+       7   FUMASOLI  ALESSIA              1973   Settefrati Libertas MN 33   1'32"88  729,97
+       8   DELLE PIANE  RAFFAELLA         1972   Genova Nuoto My Sport ssd   1'34"06  720,82
+       9   TORTI  FRANCESCA               1970   Canottieri Baldesio         1'56"84  580,28
+
+        100 misti  femminile  -  Categoria  Master 50             Tempo Base :  1'09"85
+----------------------------------------------------------------------------------------------
+       1   DE PONTI  DANIELA              1965   Nuoto Master Brescia asd    1'12"13  968,39
+       2   OUSPENKINA  LARISSA            1967   Canottieri Baldesio         1'21"97  852,14
+       3   FORNI  ELISABETTA              1967   Como Nuoto                  1'27"57  797,65
+       4   DELLA CASA MONGIARDINO  ANTON  1967   Genova Nuoto My Sport ssd   1'30"86  768,77
+       5   MASPER  MARCELLA               1967   Bergamo Nuoto               1'34"15  741,90
+       6   VANERIO  SIMONA                1964   Natatio Master Team asd     1'44"57  667,97
+       7   D`ALBERTI  PIERANNA            1964   Forum ssd - Assago          1'46"87  653,60
+       8   ZANGA  DANIELA                 1967   Bergamo Nuoto               2'04"83  559,56
+
+        100 misti  femminile  -  Categoria  Master 55             Tempo Base :  1'14"03
+----------------------------------------------------------------------------------------------
+       1   ROVIDA  MARIA CRISTINA         1960   Master Melzo Nuoto          1'33"72  789,91
+       2   DI BERNARDO  FULVIA            1959   Master Melzo Nuoto          1'50"37  670,74
+       3   BALZARETTI  CRISTINA           1963   Nuoto Club Seregno          2'22"63  519,04
+
+        100 misti  femminile  -  Categoria  Master 65             Tempo Base :  1'22"59
+----------------------------------------------------------------------------------------------
+       1   CANGELLI  CLAUDIA              1951   Bergamo Nuoto               1'52"28  735,57
+       2   MICHELONI  MARA                1951   Verolanuoto                 2'04"62  662,73
+       3   REBOLINI  ANTONIETTA           1951   B.Fit Legnano Nuoto         2'12"51  623,27
+
+        100 misti  femminile  -  Categoria  Master 70             Tempo Base :  1'27"56
+----------------------------------------------------------------------------------------------
+       1   CASTIGLIONI ISABELLA           1947   SWIM PRO LOMBARDIA ASD      2'03"81  707,21
+
+        100 misti  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   REBONI  GIOVANNI               1994   G.A.M. Team ssd - Brescia   1'23"95  0,00
+       2   BRICCHI  MATTIA                1994   G.A.M. Team ssd - Brescia   1'29"66  0,00
+       3   PIOTTI  PAOLO                  1996   G.A.M. Team ssd - Brescia   1'32"86  0,00
+
+        100 misti  maschile   -  Categoria  Master 25             Tempo Base :  0'55"36
+----------------------------------------------------------------------------------------------
+       1   CIVETTINI  ANDREA              1992   G.A.M. Team ssd - Brescia   1'06"06  838,03
+       2   PETROVICH  DAVIDE              1993   Leaena ssd                  1'09"46  797,01
+       3   BROCCOLINO  FILIPPO MARIA      1989   Master Melzo Nuoto          1'09"73  793,92
+       4   GOZZI  FABIO                   1990   Coopernuoto                 1'11"10  778,62
+       5   BALLADORE  MARCO               1992   Derthona Nuoto              1'11"76  771,46
+       6   FACCHINETTI  ROBERTO ARISTIDE  1989   Nuoto Master Brescia asd    1'11"95  769,42
+       7   FOLINI  FRANCESCO              1993   Amici Nuoto Firenze         1'19"43  696,97
+       8   PINTOSSI  MARCO                1989   G.A.M. Team ssd - Brescia   1'20"30  689,41
+       9   MOTTA  ALESSANDRO              1991   Prosport Acqua ssd          1'21"96  675,45
+      10   NIOI  ROBERTO                  1991   G.A.M. Team ssd - Brescia   1'30"28  613,20
+
+        100 misti  maschile   -  Categoria  Master 30             Tempo Base :  0'55"58
+----------------------------------------------------------------------------------------------
+       1   TUSCANO  MARCO                 1988   Esc ssd - Brescia           1'02"04  895,87
+       2   GIOVANNINI  LORENZO            1986   Nuoto Club Firenze          1'02"34  891,56
+       3   PELI  DANIELE                  1986   G.A.M. Team ssd - Brescia   1'03"24  878,87
+       4   FUMAGALLI  SIMONE              1985   Effetto Sport - Barzano`    1'07"86  819,04
+       5   TORRI  CRISTIAN                1986   G.A.M. Team ssd - Brescia   1'11"68  775,39
+       6   GUATTERI  RICCARDO             1985   Villa Bonelli Nuoto asd     1'14"26  748,45
+       7   ALBERTI  DANIELE               1985   Tibidabo ssd - Concesio     1'17"19  720,04
+       8   FRANCHI  DANIELE               1987   Amici Nuoto Firenze         1'17"46  717,53
+       9   SCIOLA  STEFANO                1985   Esc ssd - Brescia           1'17"66  715,68
+      10   GATELLI  FILIPPO               1986   Tibidabo ssd - Concesio     1'23"76  663,56
+
+        100 misti  maschile   -  Categoria  Master 35             Tempo Base :  0'57"16
+----------------------------------------------------------------------------------------------
+       1   GOTTI  YURI                    1982   Nuoto Master Brescia asd    1'04"72  883,19
+       2   LAI  GIAN MICHELE              1982   La Wellness ssd - Milano    1'08"69  832,14
+       3   VENTURINI  MICHELE             1982   Amici Nuoto Firenze         1'10"38  812,16
+       4   GABRIELI  SIMONE               1979   Esc ssd - Brescia           1'13"90  773,48
+       5   GAVIOLA  SIMONE                1982   Acqua 1 Village asd - C.P   1'13"99  772,54
+       6   DE MARINIS GALLO  GIANLUIGI    1981   Villa Bonelli Nuoto asd     1'16"13  750,82
+       7   MAESTRI  ENRICO                1982   Leaena ssd                  1'17"05  741,86
+       8   CONTIN  FLAVIO                 1981   G.A.M. Team ssd - Brescia   1'18"87  724,74
+       9   CANFAROTTA  ANTONINO           1979   Aquatic Center ssd          1'19"10  722,63
+      10   MONTANUCCI  ROBERTO            1979   Il Cigno Coop.Sport Dil.    1'19"56  718,45
+      11   BETTINAZZI  MORENO             1982   Aquatic Center ssd          1'20"17  712,98
+
+        100 misti  maschile   -  Categoria  Master 40             Tempo Base :  0'58"34
+----------------------------------------------------------------------------------------------
+       1   EROLI  MASSIMILIANO            1976   Nuoto Master Brescia asd    0'59"39  982,32
+       2   COSCIA  CHRISTIAN              1976   Derthona Nuoto              1'08"77  848,34
+       3   ROSSO  ALESSANDRO              1978   Verolanuoto                 1'12"11  809,04
+       4   LANATA  PAOLO                  1977   Genova Nuoto My Sport ssd   1'15"94  768,24
+       5   RUSSO  GIUSEPPE                1977   Gestisport Coop ssd - Car   1'16"17  765,92
+       6   BARONIO  ROBERTO               1974   Verolanuoto                 1'16"86  759,04
+       7   SACCHI  MARCO                  1978   Verolanuoto                 1'17"87  749,20
+       8   MIOT  FEDERICO                 1977   Derthona Nuoto              1'18"44  743,75
+       9   PERFETTI  PAOLO                1978   Aquatic Center ssd          1'21"23  718,21
+      10   CLEMENCIGH MATTEO              1977   Team Insubrika asd          1'21"31  717,50
+      11   BERTAIOLA  ANDREA              1976   asd Tennis Club Peschiera   1'22"05  711,03
+      12   SCOTUZZI  ALESSANDRO           1975   Esc ssd - Brescia           1'24"64  689,27
+      13   BERGAMINI  MARCO               1976   Aquatic Center ssd          1'25"76  680,27
+      14   MORATTI  PIERLUIGI             1974   Aquatic Center ssd          1'26"18  676,96
+           FRANZINI  STEFANO ROBERTO      1977   Canottieri Baldesio        Squalif.    0,00
+
+        100 misti  maschile   -  Categoria  Master 45             Tempo Base :  1'00"17
+----------------------------------------------------------------------------------------------
+       1   GRAMEGNA  FABIO                1971   Forum ssd - Assago          1'10"53  853,11
+       2   PERNUMIAN  MARCO               1971   Nuoto Club Milano           1'11"40  842,72
+       3   COSTANZO  DANIELE              1972   Genova Nuoto My Sport ssd   1'14"79  804,52
+       4   STOPPANI  MAURO                1971   Gonzaga Sport Club ssd      1'16"14  790,25
+       5   GARRAPA  MARCELLO              1971   ASA asd - Cinisello Balsa   1'16"83  783,16
+       6   SABADINI  MASSIMILIANO         1970   Polisp San Giuliano ssd     1'18"54  766,11
+       7   FIGAROLI  MASSIMO              1971   ASA asd - Cinisello Balsa   1'19"74  754,58
+       8   BIFULCO  OTTAVIO               1971   Nuoto Club Firenze          1'21"98  733,96
+       9   BIANCHI  PIERLUIGI             1969   Canottieri Baldesio         1'23"08  724,24
+      10   SCORDAMAGLIA  OLIVIERO         1969   Rari Nantes Legnano         1'23"44  721,12
+      11   SANTORO  GIUSEPPE              1971   Aquatic Center ssd          1'32"45  650,84
+      12   VITI  PIERLUIGI                1971   Nuoto Club Sassuolo         1'32"74  648,80
+      13   SANNINO  LUIGI                 1970   Nord Padania Nuoto - Vare   1'38"13  613,17
+      14   LUPI  GIANCARLO                1972   Canottieri Baldesio         1'43"22  582,93
+           PRADA  ROLANDO                 1972   Forum ssd - Assago         Squalif.    0,00
+
+        100 misti  maschile   -  Categoria  Master 50             Tempo Base :  1'01"49
+----------------------------------------------------------------------------------------------
+       1   GIALDI  MASSIMILIANO           1968   Nuoto Master Brescia asd    1'05"86  933,65
+       2   BRUNORI  ROBERTO               1964   Nuoto Master Brescia asd    1'09"48  885,00
+       3   CAPPELLETTI  MAURO             1965   ASA asd - Cinisello Balsa   1'15"13  818,45
+       4   LANCETTI  ALBERTO              1968   Canottieri Baldesio         1'15"15  818,23
+       5   VIVANTI  MASSIMO               1968   ASA asd - Cinisello Balsa   1'15"70  812,29
+       6   LORINI  ANDREA                 1968   Amici Nuoto Firenze         1'17"47  793,73
+       7   BO  ROBERTO                    1966   Rari Nantes Gerbido         1'18"15  786,82
+       8   MARSALA  ADRIANO               1965   La Wellness ssd - Milano    1'20"37  765,09
+       9   PASSIGATTI  GINO               1967   Villa Bonelli Nuoto asd     1'20"54  763,47
+      10   TANSINI  STEFANO               1964   Can. Vittorino da Feltre    1'21"18  757,45
+      11   DUINA  DIEGO                   1967   Esc ssd - Brescia           1'21"22  757,08
+      12   SILVANI  LORENZO               1965   Leaena ssd                  1'21"52  754,29
+      13   CAVALCA  MARCO                 1968   Villa Bonelli Nuoto asd     1'33"40  658,35
+           CALMASINI  FABIO               1968   Nuoto Master Brescia asd   Squalif.    0,00
+
+        100 misti  maschile   -  Categoria  Master 55             Tempo Base :  1'03"88
+----------------------------------------------------------------------------------------------
+       1   TRAVAINI  CARLO ARTURO         1963   Acqua 1 Village asd - C.P   1'04"68  987,63
+       2   ZANZA  ANDREA                  1963   Villa Bonelli Nuoto asd     1'16"55  834,49
+       3   COMPIANI  PAOLO                1963   Canottieri Baldesio         1'19"29  805,65
+       4   LUTERO  CESARE                 1963   Dimensione N Pontedera      1'28"23  724,02
+       5   RUSCONI  ALFONSO               1963   Lecco Olimpica Nuoto        1'32"07  693,82
+       6   SPERINDE`  MASSIMO             1959   Villa Bonelli Nuoto asd     1'35"22  670,87
+       7   PAINI  MIRCO                   1963   Canottieri Baldesio         1'37"63  654,31
+       8   RIGO  MAURO                    1963   Lecco Olimpica Nuoto        1'38"33  649,65
+       9   COLOMBO  ALESSANDRO            1963   Ice Club Como               1'40"66  634,61
+      10   RUGGERI  MARIO                 1960   Canottieri Baldesio         1'58"00  541,36
+           FORESTANO  LEONARDO            1959   Acqua 1 Village asd - C.P  Squalif.    0,00
+
+        100 misti  maschile   -  Categoria  Master 60             Tempo Base :  1'07"25
+----------------------------------------------------------------------------------------------
+       1   PANICUCCI  MARCO               1958   Dimensione N Pontedera      1'24"70  793,98
+       2   SIRAGUSA  ROBERTO              1958   Villa Bonelli Nuoto asd     1'36"00  700,52
+       3   LUCHETTA  GIOVANNI             1956   ASA asd - Cinisello Balsa   1'37"59  689,11
+       4   CIRELLA  RAFFAELE              1958   Il Delfino Napoli asd       1'42"14  658,41
+       5   REBOLINI  GIOVANNI             1956   B.Fit Legnano Nuoto         1'43"79  647,94
+
+        100 misti  maschile   -  Categoria  Master 65             Tempo Base :  1'10"92
+----------------------------------------------------------------------------------------------
+       1   VELARDI  EUGENIO               1953   Circolo Canottieri Aniene   1'30"90  780,20
+       2   BOZZOLO  GIOVANNI ANGELO       1949   SWIM PRO LOMBARDIA ASD      1'36"65  733,78
+       3   NERI  UMBERTO                  1951   Master Melzo Nuoto          1'42"36  692,85
+       4   PISTOLESI CLAUDIO              1950   ENJOY S.S.D.                1'43"26  686,81
+       5   DEJACO  STEPHAN                1949   SSV Brixen                  1'43"78  683,37
+       6   SIGNORELLI  ERCOLE             1951   GIS Milano ssd              1'59"42  593,87
+
+        100 misti  maschile   -  Categoria  Master 75             Tempo Base :  1'22"28
+----------------------------------------------------------------------------------------------
+       1   DELLA CASA  PIERINO            1941   Genova Nuoto My Sport ssd   1'38"90  831,95
+       2   MAINARDI  ENNIO                1939   Il Cigno Coop.Sport Dil.    2'02"10  673,87
+       3   LALLA  MARIANO                 1943   Il Delfino Napoli asd       2'13"44  616,61
+       4   MERCATI  GHERARDO              1939   Bergamo Nuoto               2'26"56  561,41
+
+        100 misti  maschile   -  Categoria  Master 80             Tempo Base :  1'30"58
+----------------------------------------------------------------------------------------------
+       1   FORLANI  GEROLAMO              1935   Sporting Lodi ssd           2'05"07  724,23
+
+        100 stile libero  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   GUARNERA  ELISABETTA           1998   Aquatic Center ssd          1'10"85  0,00
+       2   BONFIGLIO  ELENA               1994   Esc ssd - Brescia           1'15"86  0,00
+       3   BERETTA  SARA                  1995   Nuotatori Milanesi          1'17"02  0,00
+       4   MUSCIO  JESSICA                1994   G.A.M. Team ssd - Brescia   1'28"18  0,00
+
+        100 stile libero  femminile  -  Categoria  Master 25      Tempo Base :  0'55"84
+----------------------------------------------------------------------------------------------
+       1   MENTA  FRANCESCA               1991   Esc ssd - Brescia           1'12"03  775,23
+       2   AMALFI  LINDA                  1991   Chiari Swim Team asd        1'21"56  684,65
+       3   GHIRALDI  SARA                 1990   Canottieri Baldesio         1'57"34  475,88
+
+        100 stile libero  femminile  -  Categoria  Master 30      Tempo Base :  0'56"32
+----------------------------------------------------------------------------------------------
+       1   PELIZZARI  VALENTINA           1987   Aquatic Center ssd          1'15"13  749,63
+       2   MAZZOLENI  ELISA               1987   Canottieri Baldesio         1'22"07  686,24
+       3   MORO  BENEDETTA                1987   Nuotatori Milanesi          1'23"51  674,41
+
+        100 stile libero  femminile  -  Categoria  Master 35      Tempo Base :  0'57"80
+----------------------------------------------------------------------------------------------
+       1   TORRU  MARTA                   1981   Effetto Sport - Barzano`    1'19"08  730,91
+
+        100 stile libero  femminile  -  Categoria  Master 40      Tempo Base :  0'58"45
+----------------------------------------------------------------------------------------------
+       1   BORGHESANI  CINZIA             1976   Settefrati Libertas MN 33   1'11"15  821,50
+       2   GUARNERI  PAOLA                1975   Canottieri Baldesio         1'38"76  591,84
+       3   LUCCHI  ELENA                  1976   Canottieri Flora            1'48"69  537,77
+
+        100 stile libero  femminile  -  Categoria  Master 45      Tempo Base :  0'59"61
+----------------------------------------------------------------------------------------------
+       1   MARCHESINI  SILVIA             1969   Villa Bonelli Nuoto asd     1'12"96  817,02
+       2   VALTUENA MARTINEZ  SILVIA      1969   Villa Bonelli Nuoto asd     1'17"69  767,28
+       3   ZUZIC  MELITA                  1972   Canottieri Baldesio         1'29"98  662,48
+       4   MANGANELLI  SIMONA             1970   Canottieri Flora            1'53"34  525,94
+
+        100 stile libero  femminile  -  Categoria  Master 50      Tempo Base :  1'01"40
+----------------------------------------------------------------------------------------------
+       1   HOAG  JANE ANN                 1966   Team Insubrika asd          1'05"80  933,13
+       2   RAVELLI  MARIAELENA            1967   Sport \& Fitness ssd - Bre   1'27"67  700,35
+       3   CINQUINI  MARIA                1965   Chiari Swim Team asd        1'34"49  649,80
+       4   CONTI  MARIA PAOLA             1965   Verolanuoto                 1'35"31  644,21
+       5   ARBUSTI  GIUSEPPINA            1968   Canottieri Baldesio         1'45"57  581,60
+       6   RAVELLI  ELISABETTA            1968   Sport \& Fitness ssd - Bre   1'51"89  548,75
+
+        100 stile libero  femminile  -  Categoria  Master 55      Tempo Base :  1'03"85
+----------------------------------------------------------------------------------------------
+       1   REGGIANI GABRIELLA             1959   Villa Bonelli Nuoto asd     1'37"77  653,06
+
+        100 stile libero  femminile  -  Categoria  Master 60      Tempo Base :  1'07"63
+----------------------------------------------------------------------------------------------
+       1   DE LUCIA  GIOVANNA             1958   ASA asd - Cinisello Balsa   2'06"76  533,53
+
+        100 stile libero  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   GREGORELLI  DAVIDE             1995   Tibidabo ssd - Concesio     1'21"32  0,00
+
+        100 stile libero  maschile   -  Categoria  Master 25      Tempo Base :  0'49"30
+----------------------------------------------------------------------------------------------
+       1   DALLA PIAZZA  MICHAEL          1991   Aquatic Center ssd          0'59"83  824,00
+       2   CAPUZZI  LORENZO               1989   Esc ssd - Brescia           1'01"11  806,74
+       3   ZUCCHETTI  ALBERTO             1992   Spazio Sport One - Palazz   1'02"49  788,93
+       4   BONAVITA  ALESSIO              1992   Nuotatori Milanesi          1'02"85  784,41
+       5   GASTALDI  TOMMASO              1991   Canottieri Baldesio         1'05"95  747,54
+       6   REGONASCHI  DAVIDE             1991   Aquatic Center ssd          1'07"09  734,83
+       7   NIOI  ROBERTO                  1991   G.A.M. Team ssd - Brescia   1'09"90  705,29
+       8   BERTASSI  MATTEO               1989   Aquatic Center ssd          1'14"47  662,01
+           GAFFORINI PAOLO                1993   Leaena ssd                 Squalif.    0,00
+
+        100 stile libero  maschile   -  Categoria  Master 30      Tempo Base :  0'49"39
+----------------------------------------------------------------------------------------------
+       1   PEDRETTI  SIMONE               1988   Nuoto Master Brescia asd    0'55"10  896,37
+       2   GALMOZZI  STEFANO              1984   Nuotatori Milanesi          1'10"90  696,61
+       3   ACERBI  THOMAS                 1984   Nuotatori Milanesi          1'13"86  668,70
+       4   BONETTI  STEFANO               1986   Effetto Sport - Barzano`    1'18"49  629,25
+       5   ERMAL  ISAI                    1987   Canottieri Baldesio         1'22"27  600,34
+           FAVALLI  MARCO                 1984   Settefrati Libertas MN 33  Squalif.    0,00
+
+        100 stile libero  maschile   -  Categoria  Master 35      Tempo Base :  0'50"85
+----------------------------------------------------------------------------------------------
+       1   FEDELI  STEFANO IGNAZIO        1981   Canottieri Baldesio         0'57"44  885,27
+       2   FAVINI  OTTONE                 1979   Canottieri Baldesio         0'58"12  874,91
+       3   SCARNA`  GIANLUCA              1980   Chiari Swim Team asd        1'01"84  822,28
+       4   PARACCHINI  ANDREA             1979   G.A.M. Team ssd - Brescia   1'04"20  792,06
+       5   FEDERICI  ANDREA               1982   Settefrati Libertas MN 33   1'11"25  713,68
+       6   ANGIUS MARONGIU  ANTONIO COST  1980   G.A.M. Team ssd - Brescia   1'13"20  694,67
+       7   SANSONE  EMANUELE              1982   Aquatic Center ssd          1'18"50  647,77
+       8   DONEGA`  DANIELE               1980   Settefrati Libertas MN 33   1'19"27  641,48
+       9   GARAVELLI  FABIO               1982   Canottieri Baldesio         1'19"97  635,86
+
+        100 stile libero  maschile   -  Categoria  Master 40      Tempo Base :  0'51"30
+----------------------------------------------------------------------------------------------
+       1   ZANETTINI  LORENZO             1978   Villa Bonelli Nuoto asd     0'59"91  856,28
+       2   AMELLI  ANDREA                 1976   NC Castiglione delle Stiv   1'06"21  774,81
+       3   PEGOIANI  MASSIMO              1978   Aquatic Center ssd          1'07"37  761,47
+       4   GRITTI  ROBERTO                1975   Chiari Swim Team asd        1'07"63  758,54
+       5   FRECCHIAMI  ALESSANDRO         1976   SWIM PRO LOMBARDIA ASD      1'07"93  755,19
+       6   BERGAMIN  DAVIDE               1975   Canottieri Baldesio         1'08"43  749,67
+       7   COLOMBINI  ENRICO              1974   Esc ssd - Brescia           1'09"47  738,45
+       8   ROSSI  GUILLERMO               1975   Chiari Swim Team asd        1'11"03  722,23
+           BELOTTI  ALBERTO               1974   Spazio Sport One - Palazz   1'11"03  722,23
+      10   BERARDI  MICHELE               1976   Spazio Sport One - Palazz   1'12"04  712,10
+      11   BONOMI  MAURO                  1975   Sport \& Fitness ssd - Bre   1'17"54  661,59
+      12   BOCCHIO  ALESSANDRO            1978   Settefrati Libertas MN 33   1'18"86  650,52
+      13   BERTASI  GIORGIO               1974   Canottieri Baldesio         1'19"83  642,62
+      14   PROSPERI  MICHELE              1976   Canottieri Baldesio         1'28"84  577,44
+
+        100 stile libero  maschile   -  Categoria  Master 45      Tempo Base :  0'52"76
+----------------------------------------------------------------------------------------------
+       1   SERESINI  FABIO                1969   Sky Line Nuoto - C.puster   1'01"86  852,89
+       2   FIORE  GIUSEPPE                1972   Esc ssd - Brescia           1'03"06  836,66
+       3   LAZZARINI  MARCO               1971   SWIM PRO LOMBARDIA ASD      1'03"56  830,08
+       4   GEREVINI  MAURO                1970   Canottieri Flora            1'04"06  823,60
+       5   RUGGERI  ANDREA                1973   Canottieri Baldesio         1'05"95  800,00
+       6   GABOARDI DAVIDE                1969   CANOTTIERI BISSOLATI        1'06"67  791,36
+       7   LOCATI  ANDREA                 1969   Verolanuoto                 1'07"00  787,46
+       8   GIOVANETTI  FLAVIO             1970   Aquatic Center ssd          1'10"59  747,41
+       9   BASSI  MARCO                   1969   asd Tennis Club Peschiera   1'11"43  738,63
+      10   COFFANI  ALESSANDRO            1972   Esc ssd - Brescia           1'11"46  738,32
+      11   FRACASCIO  CARMELO             1971   Esc ssd - Brescia           1'14"64  706,86
+      12   BARDINI  ENRICO                1970   Settefrati Libertas MN 33   1'15"48  698,99
+      13   BECCARI  GIANPAOLO             1973   Esc ssd - Brescia           1'18"86  669,03
+      14   DE GIACOMI  TULLIO             1970   Tibidabo ssd - Concesio     1'22"24  641,54
+      15   MENGA  RENATO                  1973   Canottieri Baldesio         1'32"55  570,07
+      16   BIETTI  STEFANO                1973   Canottieri Baldesio         1'56"88  451,40
+
+        100 stile libero  maschile   -  Categoria  Master 50      Tempo Base :  0'54"53
+----------------------------------------------------------------------------------------------
+       1   TABLADINI MARCO                1968   Canottieri Baldesio         0'59"86  910,96
+       2   MELLI  DAVIDE                  1968   Nuoto Master Brescia asd    1'03"52  858,47
+       3   GOBBI  STEFANO                 1966   Villa Bonelli Nuoto asd     1'06"83  815,95
+       4   NISCI  PAOLO                   1967   Villa Bonelli Nuoto asd     1'06"91  814,98
+       5   DALLATANA  MARCO               1965   Villa Bonelli Nuoto asd     1'06"92  814,85
+       6   COZZANI  ANDREA                1968   Villa Bonelli Nuoto asd     1'08"34  797,92
+       7   BONFANTE  CORRADO              1964   Settefrati Libertas MN 33   1'10"71  771,18
+       8   SEGHELINI  ANTONIO             1968   Canottieri Baldesio         1'11"82  759,26
+       9   ARRONDO  FERNANDO              1964   Settefrati Libertas MN 33   1'13"22  744,74
+      10   BOLZACCHI  MICHELE             1967   Canottieri Baldesio         1'14"36  733,32
+      11   MUSCIO  FULVIO                 1968   G.A.M. Team ssd - Brescia   1'20"29  679,16
+      12   ONGER  ALESSANDRO              1967   Chiari Swim Team asd        1'27"83  620,86
+      13   MARICONDA  GIUSEPPE            1968   Canottieri Flora            1'38"37  554,34
+      14   VERCESI  DARIO                 1964   Nuotatori Milanesi          1'40"38  543,24
+
+        100 stile libero  maschile   -  Categoria  Master 55      Tempo Base :  0'56"31
+----------------------------------------------------------------------------------------------
+       1   BENATTI  PAOLO                 1963   Settefrati Libertas MN 33   1'17"99  722,02
+       2   TERENZI LUIGI MARIO            1962   Circolo Canottieri Aniene   1'20"19  702,21
+       3   GOTTARDO  MAURIZIO             1962   G.A.M. Team ssd - Brescia   1'24"60  665,60
+       4   BOCCIA  GIANFRANCO             1960   AICS Pavia Nuoto            1'26"60  650,23
+
+        100 stile libero  maschile   -  Categoria  Master 60      Tempo Base :  0'58"03
+----------------------------------------------------------------------------------------------
+       1   D`ELIA  FRANCESCO              1958   Nuoto Master Brescia asd    1'09"62  833,52
+       2   CERETTI  FABIO                 1957   Canottieri Flora            1'27"96  659,73
+       3   FILIPPINI  SILVANO             1954   Aquatic Center ssd          1'37"53  595,00
+
+        100 stile libero  maschile   -  Categoria  Master 65      Tempo Base :  1'00"27
+----------------------------------------------------------------------------------------------
+       1   MIRANDOLA  ANGELO              1952   Il Cigno Coop.Sport Dil.    1'22"95  726,58
+       2   CASTRACANI  GIOVANNI           1950   Aquatic Center ssd          1'28"17  683,57
+
+        100 stile libero  maschile   -  Categoria  Master 70      Tempo Base :  1'04"56
+----------------------------------------------------------------------------------------------
+       1   BECCHETTI  ROMOLO              1946   Aquatica ssd                1'25"48  755,26
+       2   BONAZZA  GIORGIO               1945   Rari Nantes Trento          1'25"87  751,83
+
+        100 stile libero  maschile   -  Categoria  Master 75      Tempo Base :  1'09"82
+----------------------------------------------------------------------------------------------
+       1   BIANCHI  ANTONIO               1943   Verolanuoto                 1'53"09  617,38
+
+        100 rana  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   BAIGUERA  MARTA ISIDE          1994   Verolanuoto                 1'23"95  0,00
+
+        100 rana  femminile  -  Categoria  Master 25              Tempo Base :  1'09"93
+----------------------------------------------------------------------------------------------
+       1   GROPPI  JESSICA                1989   Sky Line Nuoto - C.puster   1'27"85  796,02
+
+        100 rana  femminile  -  Categoria  Master 35              Tempo Base :  1'11"76
+----------------------------------------------------------------------------------------------
+       1   CERESA  CECILIA                1981   Canottieri Baldesio         2'00"53  595,37
+
+        100 rana  femminile  -  Categoria  Master 40              Tempo Base :  1'12"57
+----------------------------------------------------------------------------------------------
+       1   VIANI  MIRKA                   1976   Villa Bonelli Nuoto asd     1'50"14  658,89
+       2   VAILATI  CHIARA                1976   Canottieri Baldesio         1'51"57  650,44
+       3   ZAMBELLI  SILVIA               1974   Canottieri Baldesio         1'57"17  619,36
+
+        100 rana  femminile  -  Categoria  Master 45              Tempo Base :  1'14"69
+----------------------------------------------------------------------------------------------
+       1   VALTUENA MARTINEZ  SILVIA      1969   Villa Bonelli Nuoto asd     1'39"69  749,22
+       2   TORNAGHI  ELENA                1973   Canottieri Baldesio         1'49"61  681,42
+       3   ALBANESE  ANTONELLA            1970   ASA asd - Cinisello Balsa   1'57"67  634,74
+       4   CABRINI  ELENA                 1971   Canottieri Baldesio         2'02"17  611,36
+
+        100 rana  femminile  -  Categoria  Master 50              Tempo Base :  1'18"23
+----------------------------------------------------------------------------------------------
+       1   POZZI  ELISABETTA              1966   Effetto Sport - Barzano`    1'38"81  791,72
+       2   TORCHIO  BETTINA               1965   Canottieri Baldesio         1'56"98  668,75
+       3   MONTI  SILVIA                  1968   Canottieri Baldesio         2'05"03  625,69
+
+        100 rana  femminile  -  Categoria  Master 55              Tempo Base :  1'22"76
+----------------------------------------------------------------------------------------------
+       1   TAFFELLI  CLAUDIA              1963   Aquatic Center ssd          1'43"11  802,64
+       2   BIZAI  TIZIANA                 1962   Leaena ssd                  1'58"20  700,17
+
+        100 rana  femminile  -  Categoria  Master 60              Tempo Base :  1'27"08
+----------------------------------------------------------------------------------------------
+       1   ABBRUSCATO  MARIA FRANCESCA    1957   Nuotopiu` Academy asd       2'18"97  626,61
+       2   DE LUCIA  GIOVANNA             1958   ASA asd - Cinisello Balsa   2'30"00  580,53
+
+        100 rana  femminile  -  Categoria  Master 65              Tempo Base :  1'32"35
+----------------------------------------------------------------------------------------------
+       1   MICHELONI  MARA                1951   Verolanuoto                 2'03"64  746,93
+
+        100 rana  maschile   -  Categoria  Master 25              Tempo Base :  1'00"87
+----------------------------------------------------------------------------------------------
+       1   CADEMARTORI  ROBERTO           1992   Aquatic Center ssd          1'08"23  892,13
+       2   CREVAR  MARKO                  1989   asd Tennis Club Peschiera   1'16"35  797,25
+       3   LUNGHI  LEONARDO               1992   Leaena ssd                  1'16"44  796,31
+
+        100 rana  maschile   -  Categoria  Master 35              Tempo Base :  1'02"32
+----------------------------------------------------------------------------------------------
+       1   MANUINI  MATTEO                1983   NC Castiglione delle Stiv   1'41"08  616,54
+
+        100 rana  maschile   -  Categoria  Master 40              Tempo Base :  1'03"24
+----------------------------------------------------------------------------------------------
+       1   FRANCHINI  MARCO               1974   Nuoto Master Brescia asd    1'11"74  881,52
+       2   SCURI  ALBERTO                 1977   Nuoto Master Brescia asd    1'18"10  809,73
+       3   GIUZZI  ANDREA                 1977   Aquatic Center ssd          1'26"17  733,90
+       4   GAGGIA  MICHELANGELO           1977   Canottieri Baldesio         1'45"30  600,57
+       5   PROSPERI  MICHELE              1976   Canottieri Baldesio         2'05"16  505,27
+
+        100 rana  maschile   -  Categoria  Master 45              Tempo Base :  1'04"89
+----------------------------------------------------------------------------------------------
+       1   FRASCHINI  CRISTIANO           1973   Gestisport Coop ssd - Car   1'19"06  820,77
+       2   SCARATTI  MASSIMILIANO         1973   G.A.M. Team ssd - Brescia   1'29"41  725,76
+       3   ARMANELLI  MARCO               1970   Spazio Sport One - Palazz   1'29"73  723,17
+       4   SANDRI  MASSIMO                1970   asd Tennis Club Peschiera   1'31"44  709,65
+       5   PRAMPOLINI  GABRIELE           1970   ASA asd - Cinisello Balsa   1'32"21  703,72
+
+        100 rana  maschile   -  Categoria  Master 50              Tempo Base :  1'08"71
+----------------------------------------------------------------------------------------------
+       1   POLTRONIERI  MARCO             1968   Circolo Canottieri Aniene   1'17"68  884,53
+       2   COSTA  ALBERTO                 1966   Esc ssd - Brescia           1'36"00  715,73
+       3   ROSSETTI  LORENZO              1968   Canottieri Baldesio         1'48"01  636,14
+
+        100 rana  maschile   -  Categoria  Master 55              Tempo Base :  1'10"57
+----------------------------------------------------------------------------------------------
+       1   MANNUCCI BENINCASA  MARCO      1963   Effetto Sport - Barzano`    1'23"34  846,77
+       2   MADINI MORETTI  LUCA           1963   San Giuseppe ssd - Arese    1'27"58  805,78
+       3   FERRARI  CARLO                 1960   Clorolesi Treviglio asd     1'32"86  759,96
+       4   BOCCIA  GIANFRANCO             1960   AICS Pavia Nuoto            1'44"52  675,18
+
+        100 rana  maschile   -  Categoria  Master 60              Tempo Base :  1'13"50
+----------------------------------------------------------------------------------------------
+       1   MARASI  GABRIELE               1958   Effetto Sport - Barzano`    1'39"04  742,12
+
+        100 rana  maschile   -  Categoria  Master 65              Tempo Base :  1'17"49
+----------------------------------------------------------------------------------------------
+       1   NICASTRO  ANTONIO              1951   ASA asd - Cinisello Balsa   1'50"43  701,71
+       2   MIRANDOLA  ANGELO              1952   Il Cigno Coop.Sport Dil.    1'50"65  700,32
+
+        50 rana  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   FERLENGHI  MARIANNA            1994   Canottieri Baldesio         0'37"59  0,00
+       2   MERLO  GRETA                   1994   Canottieri Flora            0'42"20  0,00
+       3   DELPANNO  VANESSA              1998   Chiari Swim Team asd        0'51"14  0,00
+       4   VIDALBA  ELISA                 1995   Canottieri Flora            0'53"32  0,00
+
+        50 rana  femminile  -  Categoria  Master 25               Tempo Base :  0'31"91
+----------------------------------------------------------------------------------------------
+       1   SIMONCELLI  LAURA              1993   Aquatic Center ssd          0'48"82  653,63
+
+        50 rana  femminile  -  Categoria  Master 30               Tempo Base :  0'32"08
+----------------------------------------------------------------------------------------------
+       1   BETTONI  LUISA                 1986   Esc ssd - Brescia           0'39"54  811,33
+       2   BIOLCHI  MELANIA               1987   Canottieri Baldesio         0'48"47  661,85
+       3   GHINAGLIA  SILVIA              1988   Canottieri Baldesio         0'51"30  625,34
+       4   GALBIATI  ANNALISA             1984   Canottieri Baldesio         0'59"79  536,54
+
+        50 rana  femminile  -  Categoria  Master 35               Tempo Base :  0'32"85
+----------------------------------------------------------------------------------------------
+       1   CERESA  CECILIA                1981   Canottieri Baldesio         0'56"85  577,84
+       2   PRIORI SILVIA                  1979   Canottieri Baldesio         1'00"70  541,19
+       3   POLI  ELISA                    1981   Canottieri Flora            1'01"16  537,12
+       4   GRANDINI MARIA                 1983   Canottieri Baldesio         1'05"69  500,08
+
+        50 rana  femminile  -  Categoria  Master 40               Tempo Base :  0'33"56
+----------------------------------------------------------------------------------------------
+       1   COLOMBO  ALICE                 1975   Effetto Sport - Barzano`    0'43"23  776,31
+       2   CROCETTI  CARMELA              1977   Aquatic Center ssd          0'46"54  721,10
+       3   VAILATI  CHIARA                1976   Canottieri Baldesio         0'51"84  647,38
+       4   ZAMBELLI  SILVIA               1974   Canottieri Baldesio         0'54"18  619,42
+       5   GUARNERI  PAOLA                1975   Canottieri Baldesio         0'55"53  604,36
+
+        50 rana  femminile  -  Categoria  Master 45               Tempo Base :  0'34"25
+----------------------------------------------------------------------------------------------
+       1   MARCHESINI  SILVIA             1969   Villa Bonelli Nuoto asd     0'44"73  765,71
+       2   LOSACCO  ANNALISA              1972   Canottieri Baldesio         0'45"28  756,40
+       3   TORNAGHI  ELENA                1973   Canottieri Baldesio         0'48"84  701,27
+       4   ZUZIC  MELITA                  1972   Canottieri Baldesio         0'49"32  694,44
+       5   CABRINI  ELENA                 1971   Canottieri Baldesio         0'53"66  638,28
+       6   ALBANESE  ANTONELLA            1970   ASA asd - Cinisello Balsa   0'54"70  626,14
+
+        50 rana  femminile  -  Categoria  Master 50               Tempo Base :  0'35"63
+----------------------------------------------------------------------------------------------
+       1   COI  MARTA                     1965   Team Insubrika asd          0'42"32  841,92
+       2   AZZOLINI  GIOVANNA             1964   Esc ssd - Brescia           0'50"68  703,04
+       3   RAVELLI  MARIAELENA            1967   Sport \& Fitness ssd - Bre   0'52"66  676,60
+       4   MONTI  SILVIA                  1968   Canottieri Baldesio         0'53"45  666,60
+       5   MAZZINI  CRISTINA              1968   Canottieri Baldesio         0'53"69  663,62
+       6   TORCHIO  BETTINA               1965   Canottieri Baldesio         0'54"21  657,26
+       7   VIGONI  MONICA ENRICA          1965   Canottieri Flora            0'54"34  655,69
+       8   CROTTI  MARIATERESA            1965   Canottieri Flora            1'02"63  568,90
+
+        50 rana  femminile  -  Categoria  Master 55               Tempo Base :  0'37"52
+----------------------------------------------------------------------------------------------
+       1   TAFFELLI  CLAUDIA              1963   Aquatic Center ssd          0'47"68  786,91
+       2   BIZAI  TIZIANA                 1962   Leaena ssd                  0'55"21  679,59
+       3   SANFELICI  MONICA              1962   Settefrati Libertas MN 33   0'58"74  638,75
+       4   MENSI  ILARIA                  1962   Canottieri Baldesio         1'11"98  521,26
+
+        50 rana  femminile  -  Categoria  Master 60               Tempo Base :  0'39"26
+----------------------------------------------------------------------------------------------
+       1   ABBRUSCATO  MARIA FRANCESCA    1957   Nuotopiu` Academy asd       1'07"31  583,27
+
+        50 rana  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   GAJIC  FILIP                   1994   Gymnasium Spilimbergo       0'30"78  0,00
+
+        50 rana  maschile   -  Categoria  Master 25               Tempo Base :  0'27"70
+----------------------------------------------------------------------------------------------
+       1   ZANETTI  ALBERTO               1992   G.A.M. Team ssd - Brescia   0'34"00  814,71
+       2   BERGONZI  LORENZO              1990   Villa Bonelli Nuoto asd     0'36"23  764,56
+       3   GASTALDI  TOMMASO              1991   Canottieri Baldesio         0'39"61  699,32
+
+        50 rana  maschile   -  Categoria  Master 30               Tempo Base :  0'27"79
+----------------------------------------------------------------------------------------------
+       1   PANCIROLI  MATTEO              1984   Villa Bonelli Nuoto asd     0'31"01  896,16
+       2   CAMERONI  FABRIZIO             1986   Team Insubrika asd          0'34"02  816,87
+       3   FERRARI  FILIPPO               1987   Canottieri Baldesio         0'39"37  705,87
+       4   BENEDINI  MARCO                1985   Settefrati Libertas MN 33   0'42"20  658,53
+
+        50 rana  maschile   -  Categoria  Master 35               Tempo Base :  0'28"57
+----------------------------------------------------------------------------------------------
+       1   POLARA  EMANUELE               1983   Canottieri Baldesio         0'31"13  917,76
+       2   DEL CONT  MICHELE              1982   Canottieri Flora            0'32"94  867,33
+       3   ZAMBELLI  PAOLO                1981   Settefrati Libertas MN 33   0'36"23  788,57
+       4   PAROLARI  SIMONE               1983   G.A.M. Team ssd - Brescia   0'42"99  664,57
+       5   GARAVELLI  FABIO               1982   Canottieri Baldesio         0'44"24  645,80
+       6   ANGIUS MARONGIU  ANTONIO COST  1980   G.A.M. Team ssd - Brescia   0'45"07  633,90
+       7   DONEGA`  DANIELE               1980   Settefrati Libertas MN 33   0'46"85  609,82
+       8   MANFREDI ANDREA                1983   Canottieri Baldesio         0'47"40  602,74
+
+        50 rana  maschile   -  Categoria  Master 40               Tempo Base :  0'28"93
+----------------------------------------------------------------------------------------------
+       1   FRANCHINI  MARCO               1974   Nuoto Master Brescia asd    0'32"38  893,45
+       2   PONTI  MAURIZIO                1977   Esc ssd - Brescia           0'35"18  822,34
+       3   SCURI  ALBERTO                 1977   Nuoto Master Brescia asd    0'35"68  810,82
+       4   CAVALLI  ANDREA                1975   Team Trezzo Sport ssd       0'35"73  809,68
+       5   ZANETTINI  LORENZO             1978   Villa Bonelli Nuoto asd     0'36"87  784,65
+       6   BARONIO  ROBERTO               1974   Verolanuoto                 0'37"79  765,55
+       7   GIUZZI  ANDREA                 1977   Aquatic Center ssd          0'39"83  726,34
+           GRITTI  ROBERTO                1975   Chiari Swim Team asd        0'39"83  726,34
+       9   CAPELLI  LUCA                  1977   Canottieri Baldesio         0'40"68  711,16
+      10   FRANZINI  STEFANO ROBERTO      1977   Canottieri Baldesio         0'42"98  673,10
+      11   DE MONTE  FRANCESCO            1976   Esc ssd - Brescia           0'43"22  669,37
+      12   BERTASI  GIORGIO               1974   Canottieri Baldesio         0'44"53  649,67
+      13   BERGAMIN  DAVIDE               1975   Canottieri Baldesio         0'44"94  643,75
+      14   LAZZARINI  MANUELE             1975   Canottieri Flora            0'45"88  630,56
+      15   GAGGIA  MICHELANGELO           1977   Canottieri Baldesio         0'46"52  621,88
+      16   CASTELLI  TARCISIO             1976   Clorolesi Treviglio asd     0'50"54  572,42
+
+        50 rana  maschile   -  Categoria  Master 45               Tempo Base :  0'29"50
+----------------------------------------------------------------------------------------------
+       1   PRADA  ROLANDO                 1972   Forum ssd - Assago          0'35"24  837,12
+       2   RUGGERI  ANDREA                1973   Canottieri Baldesio         0'35"68  826,79
+       3   FRASCHINI  CRISTIANO           1973   Gestisport Coop ssd - Car   0'36"46  809,11
+       4   PRAMPOLINI  GABRIELE           1970   ASA asd - Cinisello Balsa   0'42"28  697,73
+       5   BODINI  STEFANO                1969   Canottieri Baldesio         0'43"87  672,44
+       6   VERZELLESI  WILLIAM            1973   Canottieri Baldesio         0'44"08  669,24
+       7   LUSIARDI  MARCO                1971   Canottieri Baldesio         0'54"56  540,69
+
+        50 rana  maschile   -  Categoria  Master 50               Tempo Base :  0'30"64
+----------------------------------------------------------------------------------------------
+       1   COSTA  ALBERTO                 1966   Esc ssd - Brescia           0'41"85  732,14
+       2   SEGHELINI  ANTONIO             1968   Canottieri Baldesio         0'41"98  729,87
+       3   GOBBI  STEFANO                 1966   Villa Bonelli Nuoto asd     0'42"03  729,00
+       4   MANTOVANI  ANDREA              1968   Settefrati Libertas MN 33   0'43"21  709,10
+       5   LENZA  FERDINANDO              1968   Aquatic Center ssd          0'46"78  654,98
+       6   BRIGANTI  ANDREA               1968   Villa Bonelli Nuoto asd     0'52"54  583,17
+
+        50 rana  maschile   -  Categoria  Master 55               Tempo Base :  0'31"75
+----------------------------------------------------------------------------------------------
+       1   CELADA  ALESSANDRO             1963   Canottieri Baldesio         0'44"73  709,81
+       2   SAVOLDI  MASSIMO               1959   Leaena ssd                  0'45"21  702,28
+       3   BENVENUTI  FRANCESCO           1962   Leaena ssd                  0'46"55  682,06
+       4   MASTROFINI  MAURIZIO           1959   Team Trezzo Sport ssd       0'48"67  652,35
+
+        50 rana  maschile   -  Categoria  Master 70               Tempo Base :  0'36"74
+----------------------------------------------------------------------------------------------
+       1   BRIGANTI  PAOLO                1945   Villa Bonelli Nuoto asd     1'09"52  528,48
+
+        50 rana  maschile   -  Categoria  Master 75               Tempo Base :  0'39"64
+----------------------------------------------------------------------------------------------
+       1   SIMONELLI  GAETANO             1943   Villa Bonelli Nuoto asd     1'05"31  606,95
+       2   BIANCHI  ANTONIO               1943   Verolanuoto                 1'15"15  527,48
+
+        50 rana  maschile   -  Categoria  Master 80               Tempo Base :  0'43"54
+----------------------------------------------------------------------------------------------
+       1   BERTUCCELLI  OSVALDO MENOTTI   1936   Versilianuoto - Viareggio   0'47"21  922,26
+
+        50 farfalla  femminile  -  Categoria  Master 25           Tempo Base :  0'27"39
+----------------------------------------------------------------------------------------------
+       1   SALETTI  COSTANZA              1992   Villa Bonelli Nuoto asd     0'30"76  890,44
+       2   SEREGNI  PETRA                 1990   Nord Padania Nuoto - Vare   0'34"58  792,08
+       3   MENTA  FRANCESCA               1991   Esc ssd - Brescia           0'36"23  756,00
+
+        50 farfalla  femminile  -  Categoria  Master 35           Tempo Base :  0'28"41
+----------------------------------------------------------------------------------------------
+       1   RAMPINI  ROSSANA               1982   Verolanuoto                 0'34"63  820,39
+       2   BRAGHIROLI  ELISA              1981   Villa Bonelli Nuoto asd     0'36"75  773,06
+       3   SCHREIBER  ANNAMARIA           1983   Spazio Sport One - Palazz   0'42"16  673,86
+
+        50 farfalla  femminile  -  Categoria  Master 40           Tempo Base :  0'28"76
+----------------------------------------------------------------------------------------------
+       1   MANERBA  FRANCESCA             1976   Aquatic Center ssd          0'33"10  868,88
+       2   PEGOIANI  MARILISA             1976   Aquatic Center ssd          0'38"84  740,47
+
+        50 farfalla  femminile  -  Categoria  Master 45           Tempo Base :  0'29"39
+----------------------------------------------------------------------------------------------
+       1   LOSACCO  ANNALISA              1972   Canottieri Baldesio         0'37"01  794,11
+       2   BOSCAINI  SONIA                1970   Rari Nantes Trento          0'39"05  752,62
+       3   ARCARI  MICHELA                1971   Aquatic Center ssd          0'54"94  534,95
+
+        50 farfalla  femminile  -  Categoria  Master 50           Tempo Base :  0'30"27
+----------------------------------------------------------------------------------------------
+       1   BOSISIO  FRANCA                1968   Team Trezzo Sport ssd       0'31"08  973,94
+       2   POZZI  ELISABETTA              1966   Effetto Sport - Barzano`    0'46"75  647,49
+
+        50 farfalla  femminile  -  Categoria  Master 55           Tempo Base :  0'31"60
+----------------------------------------------------------------------------------------------
+       1   REGGIANI GABRIELLA             1959   Villa Bonelli Nuoto asd     1'05"43  482,96
+
+        50 farfalla  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   MOMBELLI  ANDREA               1996   Canottieri Baldesio         0'29"03  0,00
+       2   BONETTI CRISTIAN               1997   Canottieri Baldesio         0'30"31  0,00
+       3   MOROSINI  ETTORE               1995   SWIM PRO LOMBARDIA ASD      0'38"07  0,00
+
+        50 farfalla  maschile   -  Categoria  Master 25           Tempo Base :  0'23"85
+----------------------------------------------------------------------------------------------
+       1   BACCHI STEFANI  MATTEO         1991   Villa Bonelli Nuoto asd     0'27"56  865,38
+       2   ROSSETTI VITTORIO MARIA        1989   Canottieri Baldesio         0'28"46  838,02
+       3   FORBICE  ANDREA                1991   Team Trezzo Sport ssd       0'29"42  810,67
+       4   TIRELLI  MARCELLO              1989   Canottieri Baldesio         0'31"86  748,59
+       5   BONAVITA  ALESSIO              1992   Nuotatori Milanesi          0'31"97  746,01
+       6   NORESE  CRISTIANO              1991   L`Acqua di Pianeta Sport    0'32"24  739,76
+           BERGONZI  LORENZO              1990   Villa Bonelli Nuoto asd     0'32"24  739,76
+       8   REGONASCHI  DAVIDE             1991   Aquatic Center ssd          0'33"79  705,83
+       9   BERTONI  STEFANO               1991   Verolanuoto                 0'33"95  702,50
+      10   LORENZETTI  FERDINANDO         1989   SWIM PRO LOMBARDIA ASD      0'33"99  701,68
+      11   CASTELLANO  ANDRES             1991   G.A.M. Team ssd - Brescia   0'40"54  588,31
+
+        50 farfalla  maschile   -  Categoria  Master 30           Tempo Base :  0'24"24
+----------------------------------------------------------------------------------------------
+       1   PEDRETTI  SIMONE               1988   Nuoto Master Brescia asd    0'27"63  877,31
+       2   CRISTINI  ALBERTO              1984   Aquatic Center ssd          0'31"04  780,93
+       3   FAVALLI  MARCO                 1984   Settefrati Libertas MN 33   0'33"31  727,71
+       4   PINI  ALESSANDRO               1987   Canottieri Baldesio         0'33"46  724,45
+       5   FERRARI  FILIPPO               1987   Canottieri Baldesio         0'34"03  712,31
+       6   BONETTI  STEFANO               1986   Effetto Sport - Barzano`    0'36"34  667,03
+       7   GALMOZZI  STEFANO              1984   Nuotatori Milanesi          0'39"05  620,74
+       8   ACERBI  THOMAS                 1984   Nuotatori Milanesi          0'39"69  610,73
+
+        50 farfalla  maschile   -  Categoria  Master 35           Tempo Base :  0'24"44
+----------------------------------------------------------------------------------------------
+       1   FEDELI  STEFANO IGNAZIO        1981   Canottieri Baldesio         0'27"35  893,60
+       2   POLARA  EMANUELE               1983   Canottieri Baldesio         0'28"29  863,91
+       3   CIUCO  LEONARDO                1983   Nord Padania Nuoto - Vare   0'30"31  806,33
+       4   LANZANI  MARCO                 1979   Settefrati Libertas MN 33   0'36"47  670,14
+       5   MANUINI  MATTEO                1983   NC Castiglione delle Stiv   0'45"89  532,58
+
+        50 farfalla  maschile   -  Categoria  Master 40           Tempo Base :  0'25"13
+----------------------------------------------------------------------------------------------
+       1   CATTANEO  MATTEO               1975   Verolanuoto                 0'31"95  786,54
+       2   PIETTA  LUCA MARCO             1978   Canottieri Baldesio         0'32"38  776,10
+       3   ROSSI  GUILLERMO               1975   Chiari Swim Team asd        0'33"61  747,69
+       4   COLOMBINI  ENRICO              1974   Esc ssd - Brescia           0'35"36  710,69
+       5   PEGOIANI  MASSIMO              1978   Aquatic Center ssd          0'36"00  698,06
+       6   BERARDI  MICHELE               1976   Spazio Sport One - Palazz   0'37"08  677,72
+       7   AMELLI  ANDREA                 1976   NC Castiglione delle Stiv   0'37"42  671,57
+       8   SCOTTI  SILVIO                 1976   Master Melzo Nuoto          0'38"17  658,37
+       9   MEZZARI  FABRIZIO              1975   asd Tennis Club Peschiera   0'43"83  573,35
+
+        50 farfalla  maschile   -  Categoria  Master 45           Tempo Base :  0'25"86
+----------------------------------------------------------------------------------------------
+       1   RIPAMONTI  DAVIDE              1970   Master Melzo Nuoto          0'30"23  855,44
+       2   FIORE  GIUSEPPE                1972   Esc ssd - Brescia           0'30"95  835,54
+       3   STEFINI  FEDERICO              1973   Nuoto Master Brescia asd    0'31"67  816,55
+       4   SCARATTI  MASSIMILIANO         1973   G.A.M. Team ssd - Brescia   0'33"65  768,50
+       5   CONFORTI  STEFANO              1973   Canottieri Baldesio         0'34"33  753,28
+       6   MORABITO  PAOLO                1971   Canottieri Baldesio         0'35"85  721,34
+       7   BASSI  MARCO                   1969   asd Tennis Club Peschiera   0'38"30  675,20
+       8   ARMANELLI  MARCO               1970   Spazio Sport One - Palazz   0'38"55  670,82
+       9   VOLPI  PIERLUIGI               1970   Aquatic Center ssd          0'41"56  622,23
+
+        50 farfalla  maschile   -  Categoria  Master 50           Tempo Base :  0'26"34
+----------------------------------------------------------------------------------------------
+       1   MICHELOTTI  LEONARDO           1965   Canottieri Baldesio         0'27"90  944,09
+       2   CAPELLI  MASSIMO               1968   Settefrati Libertas MN 33   0'29"51  892,58
+       3   MONTAGNI  MARCO LUIGI          1967   Canottieri Baldesio         0'31"40  838,85
+       4   NISCI  PAOLO                   1967   Villa Bonelli Nuoto asd     0'32"64  806,99
+       5   QUINCI  GIORGIO                1964   L`Acqua di Pianeta Sport    0'35"06  751,28
+       6   DALLATANA  MARCO               1965   Villa Bonelli Nuoto asd     0'35"65  738,85
+       7   COZZANI  ANDREA                1968   Villa Bonelli Nuoto asd     0'36"91  713,63
+       8   ARRONDO  FERNANDO              1964   Settefrati Libertas MN 33   0'39"28  670,57
+       9   ONGER  ALESSANDRO              1967   Chiari Swim Team asd        0'47"31  556,75
+
+        50 farfalla  maschile   -  Categoria  Master 55           Tempo Base :  0'27"24
+----------------------------------------------------------------------------------------------
+       1   OLIVETTI  FRANCO               1960   Nuoto Master Brescia asd    0'30"37  896,94
+       2   COMPIANI  PAOLO                1963   Canottieri Baldesio         0'34"35  793,01
+
+        50 farfalla  maschile   -  Categoria  Master 65           Tempo Base :  0'29"50
+----------------------------------------------------------------------------------------------
+       1   NICASTRO  ANTONIO              1951   ASA asd - Cinisello Balsa   0'43"85  672,75
+
+        50 farfalla  maschile   -  Categoria  Master 70           Tempo Base :  0'31"73
+----------------------------------------------------------------------------------------------
+       1   BONAZZA  GIORGIO               1945   Rari Nantes Trento          0'43"30  732,79
+
+        200 misti  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   DALLA PIAZZA  NOEMI            1994   Aquatic Center ssd          2'40"12  0,00
+
+        200 misti  femminile  -  Categoria  Master 25             Tempo Base :  2'20"05
+----------------------------------------------------------------------------------------------
+       1   GROPPI  JESSICA                1989   Sky Line Nuoto - C.puster   3'01"14  773,16
+
+        200 misti  femminile  -  Categoria  Master 30             Tempo Base :  2'20"12
+----------------------------------------------------------------------------------------------
+       1   MURA  SILVIA                   1986   Aquatic Center ssd          3'06"09  752,97
+
+        200 misti  femminile  -  Categoria  Master 35             Tempo Base :  2'23"08
+----------------------------------------------------------------------------------------------
+       1   BATTISTONI  ELISA              1981   Aquatic Center ssd          2'38"40  903,28
+           BRAGHIROLI  ELISA              1981   Villa Bonelli Nuoto asd    Squalif.    0,00
+
+        200 misti  femminile  -  Categoria  Master 40             Tempo Base :  2'24"42
+----------------------------------------------------------------------------------------------
+       1   D`ADDEZIO  SILVIA              1977   Canottieri Baldesio         3'48"92  630,88
+       2   VIANI  MIRKA                   1976   Villa Bonelli Nuoto asd     3'50"11  627,61
+
+        200 misti  femminile  -  Categoria  Master 45             Tempo Base :  2'28"68
+----------------------------------------------------------------------------------------------
+       1   ARCARI  MICHELA                1971   Aquatic Center ssd          4'13"20  587,20
+
+        200 misti  femminile  -  Categoria  Master 50             Tempo Base :  2'32"72
+----------------------------------------------------------------------------------------------
+       1   HOAG  JANE ANN                 1966   Team Insubrika asd          2'40"43  951,94
+       2   CASARI  PATRIZIA               1966   Rari Nantes Trento          3'23"38  750,91
+
+        200 misti  femminile  -  Categoria  Master 55             Tempo Base :  2'41"49
+----------------------------------------------------------------------------------------------
+       1   SANFELICI  MONICA              1962   Settefrati Libertas MN 33   4'12"32  640,02
+
+        200 misti  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   BRAMBILLA MARCO                1994   Coopernuoto                 2'46"84  0,00
+       2   MOROSINI  ETTORE               1995   SWIM PRO LOMBARDIA ASD      3'17"43  0,00
+
+        200 misti  maschile   -  Categoria  Master 25             Tempo Base :  2'02"42
+----------------------------------------------------------------------------------------------
+       1   CADEMARTORI  ROBERTO           1992   Aquatic Center ssd          2'13"63  916,11
+       2   LUNGHI  LEONARDO               1992   Leaena ssd                  2'25"98  838,61
+       3   CREVAR  MARKO                  1989   asd Tennis Club Peschiera   2'38"68  771,49
+       4   ZUCCHETTI  ALBERTO             1992   Spazio Sport One - Palazz   2'42"71  752,38
+       5   LORENZETTI  FERDINANDO         1989   SWIM PRO LOMBARDIA ASD      3'03"30  667,87
+
+        200 misti  maschile   -  Categoria  Master 30             Tempo Base :  2'02"25
+----------------------------------------------------------------------------------------------
+       1   PANCIROLI  MATTEO              1984   Villa Bonelli Nuoto asd     2'27"05  831,35
+       2   GAIONI  ROBERTO                1985   Nuoto Master Brescia asd    2'27"52  828,70
+           CRISTINI  ALBERTO              1984   Aquatic Center ssd         Squalif.    0,00
+
+        200 misti  maschile   -  Categoria  Master 35             Tempo Base :  2'06"66
+----------------------------------------------------------------------------------------------
+       1   TONNI  MARCO                   1980   Aquatic Center ssd          2'37"19  805,78
+       2   ZAMBELLI  PAOLO                1981   Settefrati Libertas MN 33   2'50"04  744,88
+       3   MONTI  GABRIELE                1979   Coopernuoto                 3'05"49  682,84
+
+        200 misti  maschile   -  Categoria  Master 40             Tempo Base :  2'08"05
+----------------------------------------------------------------------------------------------
+       1   MEZZARI  FABRIZIO              1975   asd Tennis Club Peschiera   3'28"75  613,41
+
+        200 misti  maschile   -  Categoria  Master 45             Tempo Base :  2'12"03
+----------------------------------------------------------------------------------------------
+       1   GUGLIELMI  ROBERTO             1972   ASA asd - Cinisello Balsa   2'48"19  785,01
+       2   SANDRI  MASSIMO                1970   asd Tennis Club Peschiera   3'34"55  615,38
+
+        200 misti  maschile   -  Categoria  Master 50             Tempo Base :  2'15"39
+----------------------------------------------------------------------------------------------
+       1   MONTAGNI  MARCO LUIGI          1967   Canottieri Baldesio         2'37"40  860,17
+       2   POLTRONIERI  MARCO             1968   Circolo Canottieri Aniene   2'39"13  850,81
+       3   DUINA  DIEGO                   1967   Esc ssd - Brescia           3'02"23  742,96
+       4   MAININI GIOVANNI               1968   Nuotatori Milanesi          3'56"37  572,79
+
+        200 misti  maschile   -  Categoria  Master 55             Tempo Base :  2'21"50
+----------------------------------------------------------------------------------------------
+       1   MADINI MORETTI  LUCA           1963   San Giuseppe ssd - Arese    2'59"54  788,13
+       2   ZORZI  DANIELE                 1961   G.A.M. Team ssd - Brescia   3'22"73  697,97
+       3   TERENZI LUIGI MARIO            1962   Circolo Canottieri Aniene   3'38"13  648,70
+       4   TORRETTA  CARLO                1963   Acqua 1 Village asd - C.P   3'53"05  607,17
+       5   MIRIANI  DANIELE               1961   Acqua 1 Village asd - C.P   3'58"99  592,07
+
+        50 dorso  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   FERLENGHI  MARIANNA            1994   Canottieri Baldesio         0'37"65  0,00
+       2   BERETTA  SARA                  1995   Nuotatori Milanesi          0'40"58  0,00
+       3   BOTTAIOLI MARGHERITA           1998   Canottieri Flora            0'44"38  0,00
+       4   DELPANNO  VANESSA              1998   Chiari Swim Team asd        0'47"49  0,00
+
+        50 dorso  femminile  -  Categoria  Master 25              Tempo Base :  0'29"08
+----------------------------------------------------------------------------------------------
+       1   SALETTI  COSTANZA              1992   Villa Bonelli Nuoto asd     0'31"77  915,33
+       2   MININI  CHIARA                 1992   Verolanuoto                 0'35"17  826,84
+       3   LAVADINI  VITTORIA             1993   Canottieri Flora            0'43"07  675,18
+       4   AMALFI  LINDA                  1991   Chiari Swim Team asd        0'43"59  667,13
+       5   SOMASCHI  CECILIA              1989   Canottieri Baldesio         0'48"42  600,58
+
+        50 dorso  femminile  -  Categoria  Master 30              Tempo Base :  0'29"21
+----------------------------------------------------------------------------------------------
+       1   GUERRESCHI  MARTA              1985   Canottieri Baldesio         0'42"87  681,36
+       2   MORO  BENEDETTA                1987   Nuotatori Milanesi          0'45"43  642,97
+       3   CONTI  NICOLETTA               1987   Canottieri Baldesio         0'45"52  641,70
+
+        50 dorso  femminile  -  Categoria  Master 35              Tempo Base :  0'29"81
+----------------------------------------------------------------------------------------------
+       1   SCHREIBER  ANNAMARIA           1983   Spazio Sport One - Palazz   0'43"06  692,29
+       2   TORRU  MARTA                   1981   Effetto Sport - Barzano`    0'44"25  673,67
+
+        50 dorso  femminile  -  Categoria  Master 40              Tempo Base :  0'30"42
+----------------------------------------------------------------------------------------------
+       1   PEGOIANI  MARILISA             1976   Aquatic Center ssd          0'38"38  792,60
+       2   CORRADINI  MILA                1974   Canottieri Baldesio         0'39"61  767,99
+
+        50 dorso  femminile  -  Categoria  Master 45              Tempo Base :  0'31"03
+----------------------------------------------------------------------------------------------
+       1   BOSCAINI  SONIA                1970   Rari Nantes Trento          0'40"93  758,12
+       2   SCHINA  ROBERTA                1973   ASA asd - Cinisello Balsa   0'42"57  728,92
+       3   POGGI  SAMANTA                 1969   Tibidabo ssd - Concesio     0'42"79  725,17
+
+        50 dorso  femminile  -  Categoria  Master 50              Tempo Base :  0'32"22
+----------------------------------------------------------------------------------------------
+       1   CASARI  PATRIZIA               1966   Rari Nantes Trento          0'42"25  762,60
+       2   PAROLETTI  MIRELLA             1964   Sport \& Fitness ssd - Bre   0'45"20  712,83
+       3   COI  MARTA                     1965   Team Insubrika asd          0'49"87  646,08
+       4   ARBUSTI  GIUSEPPINA            1968   Canottieri Baldesio         0'57"64  558,99
+       5   RAVELLI  ELISABETTA            1968   Sport \& Fitness ssd - Bre   1'01"73  521,95
+
+        50 dorso  femminile  -  Categoria  Master 55              Tempo Base :  0'33"96
+----------------------------------------------------------------------------------------------
+       1   CESTARI  NADIA                 1959   Settefrati Libertas MN 33   0'50"66  670,35
+
+        50 dorso  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   MOMBELLI  ANDREA               1996   Canottieri Baldesio         0'33"01  0,00
+
+        50 dorso  maschile   -  Categoria  Master 25              Tempo Base :  0'24"96
+----------------------------------------------------------------------------------------------
+       1   BACCHI STEFANI  MATTEO         1991   Villa Bonelli Nuoto asd     0'28"92  863,07
+
+        50 dorso  maschile   -  Categoria  Master 30              Tempo Base :  0'25"12
+----------------------------------------------------------------------------------------------
+       1   TUSCANO  MARCO                 1988   Esc ssd - Brescia           0'29"77  843,80
+       2   CAMERONI  FABRIZIO             1986   Team Insubrika asd          0'31"76  790,93
+
+        50 dorso  maschile   -  Categoria  Master 35              Tempo Base :  0'26"11
+----------------------------------------------------------------------------------------------
+       1   TONNI  MARCO                   1980   Aquatic Center ssd          0'31"40  831,53
+       2   SCARNA`  GIANLUCA              1980   Chiari Swim Team asd        0'32"97  791,93
+       3   LANZANI  MARCO                 1979   Settefrati Libertas MN 33   0'41"01  636,67
+
+        50 dorso  maschile   -  Categoria  Master 40              Tempo Base :  0'26"62
+----------------------------------------------------------------------------------------------
+       1   LOMBARDI  NICOLA               1975   Chiari Swim Team asd        0'35"22  755,82
+       2   PIETTA  LUCA MARCO             1978   Canottieri Baldesio         0'36"64  726,53
+       3   PIETTA  PAOLO                  1974   Canottieri Baldesio         0'36"80  723,37
+       4   BELOTTI  ALBERTO               1974   Spazio Sport One - Palazz   0'39"21  678,91
+       5   MANTOAN  ALBERTO GIORGIO       1974   Sporting Club 63 ssd        0'56"38  472,15
+
+        50 dorso  maschile   -  Categoria  Master 45              Tempo Base :  0'27"23
+----------------------------------------------------------------------------------------------
+       1   CAPELLI  NICOLA                1969   Settefrati Libertas MN 33   0'35"60  764,89
+       2   BELLARDI DAVIDE                1969   CANOTTIERI BISSOLATI        0'37"42  727,69
+       3   GHEZZI  ROBERTO                1969   Canottieri Baldesio         0'38"23  712,27
+       4   MANFREDINI  GABRIELE           1971   Canottieri Baldesio         0'40"78  667,73
+       5   PEDROLA  RICCARDO              1970   Canottieri Baldesio         0'53"66  507,45
+
+        50 dorso  maschile   -  Categoria  Master 50              Tempo Base :  0'28"31
+----------------------------------------------------------------------------------------------
+       1   CORSINI  ALESSANDRO            1968   Canottieri Baldesio         0'29"98  944,30
+       2   CASSAGHI  MASSIMO              1965   ASA asd - Cinisello Balsa   0'33"66  841,06
+       3   GIBERTONI  PAOLO               1965   Verolanuoto                 0'38"93  727,20
+       4   SANTORO  ANTONIO               1965   Nuoto Club Milano           0'39"88  709,88
+       5   BOLZACCHI  MICHELE             1967   Canottieri Baldesio         0'40"08  706,34
+       6   LENZA  FERDINANDO              1968   Aquatic Center ssd          0'44"82  631,64
+       7   MAININI GIOVANNI               1968   Nuotatori Milanesi          0'54"46  519,83
+       8   FIORI  MASSIMILIANO            1965   Canottieri Baldesio         0'56"14  504,28
+
+        50 dorso  maschile   -  Categoria  Master 55              Tempo Base :  0'29"09
+----------------------------------------------------------------------------------------------
+       1   OLIVETTI  FRANCO               1960   Nuoto Master Brescia asd    0'33"59  866,03
+       2   MANNUCCI BENINCASA  MARCO      1963   Effetto Sport - Barzano`    0'36"78  790,92
+       3   COLOMBO  ALESSANDRO            1963   Ice Club Como               0'42"24  688,68
+       4   ZORZI  DANIELE                 1961   G.A.M. Team ssd - Brescia   0'44"73  650,35
+       5   FINCO  LUIGI                   1962   Settefrati Libertas MN 33   0'45"38  641,03
+       6   MIRIANI  DANIELE               1961   Acqua 1 Village asd - C.P   0'52"35  555,68
+       7   TORRETTA  CARLO                1963   Acqua 1 Village asd - C.P   0'56"23  517,34
+
+        50 dorso  maschile   -  Categoria  Master 60              Tempo Base :  0'30"83
+----------------------------------------------------------------------------------------------
+       1   MARASI  GABRIELE               1958   Effetto Sport - Barzano`    0'45"43  678,63
+       2   MALLUCCI  CARLO                1954   Nuoto Club Milano           0'49"01  629,06
+
+        50 stile libero  femminile  -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   DALLA PIAZZA  NOEMI            1994   Aquatic Center ssd          0'28"91  0,00
+       2   TOLU  FRANCESCA                1994   Canottieri Flora            0'33"70  0,00
+       3   MERLO  GRETA                   1994   Canottieri Flora            0'34"03  0,00
+       4   BOTTAIOLI MARGHERITA           1998   Canottieri Flora            0'37"59  0,00
+       5   MUSCIO  JESSICA                1994   G.A.M. Team ssd - Brescia   0'39"01  0,00
+       6   VIDALBA  ELISA                 1995   Canottieri Flora            0'43"55  0,00
+
+        50 stile libero  femminile  -  Categoria  Master 25       Tempo Base :  0'25"63
+----------------------------------------------------------------------------------------------
+       1   SEREGNI  PETRA                 1990   Nord Padania Nuoto - Vare   0'32"77  782,12
+       2   SOMASCHI  CECILIA              1989   Canottieri Baldesio         0'38"38  667,80
+       3   SIMONCELLI  LAURA              1993   Aquatic Center ssd          0'38"80  660,57
+       4   GHIRALDI  SARA                 1990   Canottieri Baldesio         0'50"86  503,93
+
+        50 stile libero  femminile  -  Categoria  Master 30       Tempo Base :  0'25"77
+----------------------------------------------------------------------------------------------
+       1   BETTONI  LUISA                 1986   Esc ssd - Brescia           0'29"83  863,90
+       2   MURA  SILVIA                   1986   Aquatic Center ssd          0'32"97  781,62
+       3   GUERRESCHI  MARTA              1985   Canottieri Baldesio         0'36"42  707,58
+       4   CONTI  NICOLETTA               1987   Canottieri Baldesio         0'38"87  662,98
+       5   BIOLCHI  MELANIA               1987   Canottieri Baldesio         0'39"20  657,40
+       6   GHINAGLIA  SILVIA              1988   Canottieri Baldesio         0'40"58  635,04
+       7   FRIGOLI  ILARIA                1987   Canottieri Flora            0'45"39  567,75
+       8   GALBIATI  ANNALISA             1984   Canottieri Baldesio         0'49"47  520,92
+
+        50 stile libero  femminile  -  Categoria  Master 35       Tempo Base :  0'26"11
+----------------------------------------------------------------------------------------------
+       1   GRANDINI MARIA                 1983   Canottieri Baldesio         0'49"34  529,19
+       2   PRIORI SILVIA                  1979   Canottieri Baldesio         0'50"90  512,97
+       3   POLI  ELISA                    1981   Canottieri Flora            0'51"35  508,47
+
+        50 stile libero  femminile  -  Categoria  Master 40       Tempo Base :  0'26"65
+----------------------------------------------------------------------------------------------
+       1   MANERBA  FRANCESCA             1976   Aquatic Center ssd          0'29"84  893,10
+       2   CORRADINI  MILA                1974   Canottieri Baldesio         0'31"22  853,62
+       3   BORGHESANI  CINZIA             1976   Settefrati Libertas MN 33   0'32"35  823,80
+       4   COLOMBO  ALICE                 1975   Effetto Sport - Barzano`    0'37"69  707,08
+       5   D`ADDEZIO  SILVIA              1977   Canottieri Baldesio         0'40"56  657,05
+       6   CROCETTI  CARMELA              1977   Aquatic Center ssd          0'41"37  644,19
+       7   LUCCHI  ELENA                  1976   Canottieri Flora            0'46"61  571,77
+
+        50 stile libero  femminile  -  Categoria  Master 45       Tempo Base :  0'27"03
+----------------------------------------------------------------------------------------------
+       1   SCHINA  ROBERTA                1973   ASA asd - Cinisello Balsa   0'34"57  781,89
+       2   POGGI  SAMANTA                 1969   Tibidabo ssd - Concesio     0'38"85  695,75
+       3   MANGANELLI  SIMONA             1970   Canottieri Flora            0'49"29  548,39
+
+        50 stile libero  femminile  -  Categoria  Master 50       Tempo Base :  0'27"68
+----------------------------------------------------------------------------------------------
+       1   BOSISIO  FRANCA                1968   Team Trezzo Sport ssd       0'28"92  957,12
+       2   MAZZINI  CRISTINA              1968   Canottieri Baldesio         0'39"46  701,47
+       3   PAROLETTI  MIRELLA             1964   Sport \& Fitness ssd - Bre   0'40"73  679,60
+       4   AZZOLINI  GIOVANNA             1964   Esc ssd - Brescia           0'42"61  649,61
+       5   VIGONI  MONICA ENRICA          1965   Canottieri Flora            0'45"39  609,83
+       6   CROTTI  MARIATERESA            1965   Canottieri Flora            1'04"74  427,56
+
+        50 stile libero  femminile  -  Categoria  Master 55       Tempo Base :  0'28"71
+----------------------------------------------------------------------------------------------
+       1   CESTARI  NADIA                 1959   Settefrati Libertas MN 33   0'38"83  739,38
+       2   MENSI  ILARIA                  1962   Canottieri Baldesio         1'06"48  431,86
+
+        50 stile libero  maschile   -  Categoria  Under 25
+----------------------------------------------------------------------------------------------
+       1   BONETTI CRISTIAN               1997   Canottieri Baldesio         0'27"39  0,00
+
+        50 stile libero  maschile   -  Categoria  Master 25       Tempo Base :  0'22"24
+----------------------------------------------------------------------------------------------
+       1   FORBICE  ANDREA                1991   Team Trezzo Sport ssd       0'26"78  830,47
+       2   ROSSETTI VITTORIO MARIA        1989   Canottieri Baldesio         0'27"01  823,40
+       3   DALLA PIAZZA  MICHAEL          1991   Aquatic Center ssd          0'27"09  820,97
+       4   CAPUZZI  LORENZO               1989   Esc ssd - Brescia           0'27"17  818,55
+       5   NORESE  CRISTIANO              1991   L`Acqua di Pianeta Sport    0'27"30  814,65
+       6   BALDINI  RICCARDO              1993   Aquatic Center ssd          0'28"72  774,37
+       7   TIRELLI  MARCELLO              1989   Canottieri Baldesio         0'29"17  762,43
+       8   GAFFORINI PAOLO                1993   Leaena ssd                  0'29"96  742,32
+       9   BERTASSI  MATTEO               1989   Aquatic Center ssd          0'31"73  700,91
+      10   CASSIS  MARCO                  1992   L`Acqua di Pianeta Sport    0'33"37  666,47
+      11   CASTELLANO  ANDRES             1991   G.A.M. Team ssd - Brescia   0'33"80  657,99
+
+        50 stile libero  maschile   -  Categoria  Master 30       Tempo Base :  0'22"27
+----------------------------------------------------------------------------------------------
+       1   ALBINI  BENEDETTO              1985   Verolanuoto                 0'28"62  778,13
+       2   PINI  ALESSANDRO               1987   Canottieri Baldesio         0'29"48  755,43
+       3   BENEDINI  MARCO                1985   Settefrati Libertas MN 33   0'29"94  743,82
+       4   ERMAL  ISAI                    1987   Canottieri Baldesio         0'34"80  639,94
+
+        50 stile libero  maschile   -  Categoria  Master 35       Tempo Base :  0'22"79
+----------------------------------------------------------------------------------------------
+       1   FAVINI  OTTONE                 1979   Canottieri Baldesio         0'26"57  857,73
+       2   CIUCO  LEONARDO                1983   Nord Padania Nuoto - Vare   0'28"27  806,15
+       3   DEL CONT  MICHELE              1982   Canottieri Flora            0'28"50  799,65
+       4   FEDERICI  ANDREA               1982   Settefrati Libertas MN 33   0'31"16  731,39
+       5   SANSONE  EMANUELE              1982   Aquatic Center ssd          0'33"92  671,88
+       6   PAROLARI  SIMONE               1983   G.A.M. Team ssd - Brescia   0'34"41  662,31
+       7   MANFREDI ANDREA                1983   Canottieri Baldesio         0'34"51  660,39
+
+        50 stile libero  maschile   -  Categoria  Master 40       Tempo Base :  0'23"27
+----------------------------------------------------------------------------------------------
+       1   CAVALLI  ANDREA                1975   Team Trezzo Sport ssd       0'27"94  832,86
+       2   LOMBARDI  NICOLA               1975   Chiari Swim Team asd        0'29"20  796,92
+       3   PONTI  MAURIZIO                1977   Esc ssd - Brescia           0'29"44  790,42
+       4   BURASCHI  FABIO                1978   Aquatic Center ssd          0'29"78  781,40
+       5   PIETTA  PAOLO                  1974   Canottieri Baldesio         0'30"37  766,22
+       6   SCOTTI  SILVIO                 1976   Master Melzo Nuoto          0'33"47  695,25
+       7   BOCCHIO  ALESSANDRO            1978   Settefrati Libertas MN 33   0'33"68  690,91
+       8   BONOMI  MAURO                  1975   Sport \& Fitness ssd - Bre   0'33"84  687,65
+       9   DE MONTE  FRANCESCO            1976   Esc ssd - Brescia           0'36"10  644,60
+      10   CAPELLI  LUCA                  1977   Canottieri Baldesio         0'36"56  636,49
+      11   LAZZARINI  MANUELE             1975   Canottieri Flora            0'37"42  621,86
+      12   CASTELLI  TARCISIO             1976   Clorolesi Treviglio asd     0'39"29  592,26
+      13   MANTOAN  ALBERTO GIORGIO       1974   Sporting Club 63 ssd        0'43"93  529,71
+
+        50 stile libero  maschile   -  Categoria  Master 45       Tempo Base :  0'23"73
+----------------------------------------------------------------------------------------------
+       1   SERESINI  FABIO                1969   Sky Line Nuoto - C.puster   0'27"90  850,54
+       2   CAPELLI  NICOLA                1969   Settefrati Libertas MN 33   0'28"08  845,09
+       3   RIPAMONTI  DAVIDE              1970   Master Melzo Nuoto          0'28"69  827,12
+       4   STEFINI  FEDERICO              1973   Nuoto Master Brescia asd    0'28"90  821,11
+       5   GUGLIELMI  ROBERTO             1972   ASA asd - Cinisello Balsa   0'29"08  816,02
+       6   GHEZZI  ROBERTO                1969   Canottieri Baldesio         0'29"62  801,15
+       7   METELLI  ANTHONY               1973   G.A.M. Team ssd - Brescia   0'29"63  800,88
+       8   SUSSARELLO  ALDO               1970   Esc ssd - Brescia           0'29"92  793,11
+       9   CONFORTI  STEFANO              1973   Canottieri Baldesio         0'29"95  792,32
+      10   GIOVANETTI  FLAVIO             1970   Aquatic Center ssd          0'31"13  762,29
+      11   MORABITO  PAOLO                1971   Canottieri Baldesio         0'31"42  755,25
+      12   COFFANI  ALESSANDRO            1972   Esc ssd - Brescia           0'31"53  752,62
+      13   FRACASCIO  CARMELO             1971   Esc ssd - Brescia           0'32"20  736,96
+      14   BARDINI  ENRICO                1970   Settefrati Libertas MN 33   0'33"72  703,74
+      15   BODINI  STEFANO                1969   Canottieri Baldesio         0'33"85  701,03
+      16   VERZELLESI  WILLIAM            1973   Canottieri Baldesio         0'34"04  697,12
+      17   MANFREDINI  GABRIELE           1971   Canottieri Baldesio         0'34"38  690,23
+      18   PEDROLA  RICCARDO              1970   Canottieri Baldesio         0'35"84  662,11
+      19   MENGA  RENATO                  1973   Canottieri Baldesio         0'40"57  584,91
+      20   LUSIARDI  MARCO                1971   Canottieri Baldesio         0'43"18  549,56
+      21   BIETTI  STEFANO                1973   Canottieri Baldesio         0'44"46  533,74
+           BELLARDI DAVIDE                1969   CANOTTIERI BISSOLATI       Squalif.    0,00
+
+        50 stile libero  maschile   -  Categoria  Master 50       Tempo Base :  0'24"55
+----------------------------------------------------------------------------------------------
+       1   MICHELOTTI  LEONARDO           1965   Canottieri Baldesio         0'26"02  943,50
+       2   TABLADINI MARCO                1968   Canottieri Baldesio         0'27"01  908,92
+       3   CORSINI  ALESSANDRO            1968   Canottieri Baldesio         0'27"05  907,58
+       4   CAPELLI  MASSIMO               1968   Settefrati Libertas MN 33   0'27"20  902,57
+       5   MARTINELLI  ROBERTO            1967   Verolanuoto                 0'27"53  891,75
+       6   CASSAGHI  MASSIMO              1965   ASA asd - Cinisello Balsa   0'29"32  837,31
+       7   GIBERTONI  PAOLO               1965   Verolanuoto                 0'30"83  796,30
+       8   QUINCI  GIORGIO                1964   L`Acqua di Pianeta Sport    0'31"29  784,60
+       9   BALDELLI  ANDREA               1967   SWIM PRO LOMBARDIA ASD      0'31"61  776,65
+      10   BONFANTE  CORRADO              1964   Settefrati Libertas MN 33   0'32"33  759,36
+      11   MANTOVANI  ANDREA              1968   Settefrati Libertas MN 33   0'32"67  751,45
+      12   SANTORO  ANTONIO               1965   Nuoto Club Milano           0'34"50  711,59
+      13   MUSCIO  FULVIO                 1968   G.A.M. Team ssd - Brescia   0'36"02  681,57
+      14   BRIGANTI  ANDREA               1968   Villa Bonelli Nuoto asd     0'38"55  636,84
+      15   ROSSETTI  LORENZO              1968   Canottieri Baldesio         0'39"06  628,52
+      16   FIORI  MASSIMILIANO            1965   Canottieri Baldesio         0'44"49  551,81
+      17   VERCESI  DARIO                 1964   Nuotatori Milanesi          0'45"07  544,71
+
+        50 stile libero  maschile   -  Categoria  Master 55       Tempo Base :  0'25"11
+----------------------------------------------------------------------------------------------
+       1   BORDONALI  BERNARDO            1961   Verolanuoto                 0'33"39  752,02
+       2   FERRARI  CARLO                 1960   Clorolesi Treviglio asd     0'33"89  740,93
+       3   BENATTI  PAOLO                 1963   Settefrati Libertas MN 33   0'34"09  736,58
+       4   FINCO  LUIGI                   1962   Settefrati Libertas MN 33   0'36"23  693,07
+       5   BENVENUTI  FRANCESCO           1962   Leaena ssd                  0'36"34  690,97
+       6   CELADA  ALESSANDRO             1963   Canottieri Baldesio         0'36"72  683,82
+       7   SAVOLDI  MASSIMO               1959   Leaena ssd                  0'36"85  681,41
+       8   GOTTARDO  MAURIZIO             1962   G.A.M. Team ssd - Brescia   0'37"46  670,32
+       9   FONTANA  LORENZO               1959   G.A.M. Team ssd - Brescia   0'40"56  619,08
+      10   MASTROFINI  MAURIZIO           1959   Team Trezzo Sport ssd       0'41"11  610,80
+
+        50 stile libero  maschile   -  Categoria  Master 60       Tempo Base :  0'25"90
+----------------------------------------------------------------------------------------------
+       1   MALLUCCI  CARLO                1954   Nuoto Club Milano           0'38"21  677,83
+       2   FILIPPINI  SILVANO             1954   Aquatic Center ssd          0'43"85  590,65
+
+        50 stile libero  maschile   -  Categoria  Master 70       Tempo Base :  0'28"45
+----------------------------------------------------------------------------------------------
+       1   BECCHETTI  ROMOLO              1946   Aquatica ssd                0'36"62  776,90
+       2   BRIGANTI  PAOLO                1945   Villa Bonelli Nuoto asd     0'58"67  484,92
+
+        50 stile libero  maschile   -  Categoria  Master 75       Tempo Base :  0'30"77
+----------------------------------------------------------------------------------------------
+       1   SIMONELLI  GAETANO             1943   Villa Bonelli Nuoto asd     0'43"09  714,09
+
+        50 stile libero  maschile   -  Categoria  Master 80       Tempo Base :  0'33"04
+----------------------------------------------------------------------------------------------
+       1   BERTUCCELLI  OSVALDO MENOTTI   1936   Versilianuoto - Viareggio   0'38"48  858,63
+
