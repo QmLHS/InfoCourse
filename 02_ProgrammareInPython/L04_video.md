@@ -49,7 +49,7 @@ I quattro frame su `not`, `and` e `or` stanno **in coda a `L04_c`**, dentro la t
 
 ### Le f-string non sono in nessun video
 
-Gli ultimi due frame di `L04_c` insegnano le **f-string** — `print(f"media: {media:.2f}")` — che il video non mostra. Sono ammesse all'esame come la formattazione con `%`: entrambe stanno in `riepilogo_funzioni_python.md`.
+Gli ultimi due frame di `L04_c` insegnano le **f-string** — `print(f"media: {media:.2f}")` — che il video non mostra. Si usano come la formattazione con `%`: entrambe stanno in `riepilogo_funzioni_python.md`.
 
 ### La tabella delle parole riservate è cambiata
 

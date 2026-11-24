@@ -1,6 +1,6 @@
 # Focus — la shell moderna: strumenti che valgono l'installazione
 
-> **Materiale facoltativo.** Non è materia d'esame, non si dà per svolto e non serve per nessun esercizio del corso. È per chi finisce prima e si chiede se si possa lavorare meglio: la risposta è sì.
+> **Materiale facoltativo: approfondisce quello che serve al corso.** Non si dà per svolto e non serve per nessun esercizio del corso. È per chi finisce prima e si chiede se si possa lavorare meglio: la risposta è sì.
 
 I comandi che hai imparato in `L02_shell.md` hanno dai trenta ai cinquant'anni, e sono installati **su qualunque macchina Unix esistente**. È il loro punto di forza: un comando `grep` scritto oggi funziona su un server a cui ti collegherai fra tre anni, senza chiedere niente a nessuno.
 

@@ -1,6 +1,6 @@
 # Focus — Python e il sistema operativo
 
-> **Materiale facoltativo.** Non è materia d'esame e non serve per nessun esercizio del corso. È per chi, finita `L09`, vuole lavorare con i file senza scrivere percorsi a mano, scrivere script che funzionino su Linux, macOS e Windows, e lanciare un programma da un altro tenendo traccia di come è andata.
+> **Materiale facoltativo: approfondisce quello che serve al corso.** Non serve per nessun esercizio del corso. È per chi, finita `L09`, vuole lavorare con i file senza scrivere percorsi a mano, scrivere script che funzionino su Linux, macOS e Windows, e lanciare un programma da un altro tenendo traccia di come è andata.
 
 Si dà per saputo `L09`: aprire, leggere e scrivere un file, `with`, le modalità. Il focus ha tre parti, che si possono leggere separatamente:
 

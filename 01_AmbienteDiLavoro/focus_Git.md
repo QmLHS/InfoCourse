@@ -1,6 +1,6 @@
 # Focus — usare git sul proprio lavoro
 
-> **Materiale facoltativo.** Non è materia d'esame e non serve per nessun esercizio del corso. Per scaricare e aggiornare il materiale bastano i due comandi di `guida_GitHub.md`: questa scheda è per chi vuole usare git sulle **proprie** analisi.
+> **Materiale facoltativo: approfondisce quello che serve al corso.** Non serve per nessun esercizio del corso. Per scaricare e aggiornare il materiale bastano i due comandi di `guida_GitHub.md`: questa scheda è per chi vuole usare git sulle **proprie** analisi.
 >
 > Vale la pena leggerla prima della tesi, non dopo.
 

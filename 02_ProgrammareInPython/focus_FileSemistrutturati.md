@@ -1,6 +1,6 @@
 # Focus — Caricare un file semistrutturato
 
-> **Materiale facoltativo.** Non è materia d'esame. È per chi, finita `L09`, vuole un metodo per caricare un file che non ha mai visto, invece di una ricetta per ciascun file del corso.
+> **Materiale facoltativo: approfondisce quello che serve al corso.** È per chi, finita `L09`, vuole un metodo per caricare un file che non ha mai visto, invece di una ricetta per ciascun file del corso.
 
 Si dà per saputo `L09`, con i suoi esercizi: aprire e leggere un file, `strip` e `split`, i dizionari di `L07`. Il focus ha cinque parti:
 

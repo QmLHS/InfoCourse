@@ -2,7 +2,7 @@
 
 > **Materiale pre-lezione.** Da leggere prima di venire in aula. Questa lezione non ha videolezione: il materiale scritto è l'unico che precede l'incontro.
 >
-> **File parziale.** Contiene per ora le quattro operazioni che risultavano mancanti dal materiale didattico pur essendo chieste all'esame — vedi `riepilogo_funzioni_python.md` §13. Il resto della lezione va ancora riportato qui dai notebook del 2023.
+> **File parziale.** Contiene per ora quattro operazioni che mancavano dal materiale didattico. Il resto della lezione va ancora riportato qui dai notebook del 2023.
 
 Tutti gli esempi girano su `data/MeteoMilano2011.csv`, il meteo giornaliero di Milano nel 2011 — 365 righe, una per giorno.
 

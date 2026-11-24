@@ -4,7 +4,7 @@ Tutti i comandi della lezione, in un posto solo. Le opzioni elencate sono quelle
 
 Vale per **Unix** — Linux e macOS, quindi la VM del corso. I comandi Windows corrispondenti sono nella tabella dei lucidi.
 
-> Questi comandi servono **a lavorare**, non all'esame: la prova è in Python, e quello che vi si può chiedere sta in `riepilogo_funzioni_python.md`. Qui trovate gli strumenti per guardare un file prima di aprirlo, che è un gesto che farete tutte le volte e che nessuna prova vi chiederà.
+> Questi comandi servono **a lavorare**, non all'esame: la prova è in Python, e le funzioni Python del corso sono raccolte in `riepilogo_funzioni_python.md`. Qui trovate gli strumenti per guardare un file prima di aprirlo, che è un gesto che farete tutte le volte e che nessuna prova vi chiederà.
 
 ---
 
