@@ -1,0 +1,41 @@
+POS ATLETA                    SOCIETA               TEMPO
+  1 ATLETA  0                 Nuoto Club Bicocca    1'00"00
+  2 ATLETA  1                 Acquatica Milano      1'00"37
+  3 ATLETA  2                 Polisportiva Lambro   1'00"74
+  4 ATLETA  3                 Nuoto Club Bicocca    1'01"11
+  5 ATLETA  4                 Acquatica Milano      1'01"48
+  6 ATLETA  5                 Polisportiva Lambro   1'01"85
+  7 ATLETA  6                 Nuoto Club Bicocca    1'02"22
+  8 ATLETA  7                 Acquatica Milano      1'02"59
+    ATLETA  8                 Polisportiva Lambro   Squalif.
+ 10 ATLETA  9                 Nuoto Club Bicocca    1'03"33
+ 11 ATLETA  10                Acquatica Milano      1'03"70
+ 12 ATLETA  11                Polisportiva Lambro   1'04"07
+ 13 ATLETA  12                Nuoto Club Bicocca    1'04"44
+ 14 ATLETA  13                Acquatica Milano      1'04"81
+ 15 ATLETA  14                Polisportiva Lambro   1'05"18
+ 16 ATLETA  15                Nuoto Club Bicocca    1'05"55
+ 17 ATLETA  16                Acquatica Milano      1'05"92
+    ATLETA  17                Polisportiva Lambro   Squalif.
+ 19 ATLETA  18                Nuoto Club Bicocca    1'06"66
+ 20 ATLETA  19                Acquatica Milano      1'07"03
+ 21 ATLETA  20                Polisportiva Lambro   1'07"40
+ 22 ATLETA  21                Nuoto Club Bicocca    1'07"77
+ 23 ATLETA  22                Acquatica Milano      1'08"14
+ 24 ATLETA  23                Polisportiva Lambro   1'08"51
+ 25 ATLETA  24                Nuoto Club Bicocca    1'08"88
+ 26 ATLETA  25                Acquatica Milano      1'09"25
+    ATLETA  26                Polisportiva Lambro   Squalif.
+ 28 ATLETA  27                Nuoto Club Bicocca    1'09"99
+ 29 ATLETA  28                Acquatica Milano      1'10"36
+ 30 ATLETA  29                Polisportiva Lambro   1'10"73
+ 31 ATLETA  30                Nuoto Club Bicocca    1'11"10
+ 32 ATLETA  31                Acquatica Milano      1'11"47
+ 33 ATLETA  32                Polisportiva Lambro   1'11"84
+ 34 ATLETA  33                Nuoto Club Bicocca    1'12"21
+ 35 ATLETA  34                Acquatica Milano      1'12"58
+    ATLETA  35                Polisportiva Lambro   Squalif.
+ 37 ATLETA  36                Nuoto Club Bicocca    1'13"32
+ 38 ATLETA  37                Acquatica Milano      1'13"69
+ 39 ATLETA  38                Polisportiva Lambro   1'14"06
+ 40 ATLETA  39                Nuoto Club Bicocca    1'14"43

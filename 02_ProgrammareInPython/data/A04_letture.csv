@@ -1,0 +1,13 @@
+# letture dei sensori della rete urbana
+# temperature in gradi, con la virgola decimale
+istante;stazione;temperatura
+2026-01-12 06:00;Brera;-1,5
+2026-01-12 06:00;Lambrate;-3,0
+2026-01-12 12:00;Brera;4,0
+2026-01-12 12:00;Lambrate;2,5
+2026-01-12 18:00;Brera;1,0
+2026-01-12 18:00;Lambrate;-0,5
+2026-01-13 06:00;Brera;-2,5
+2026-01-13 06:00;Lambrate;-4,5
+2026-01-13 12:00;Brera;3,5
+2026-01-13 12:00;Lambrate;3,0

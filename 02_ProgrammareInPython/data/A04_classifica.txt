@@ -1,0 +1,6 @@
+POS ATLETA                    SOCIETA               TEMPO
+  1 BIANCHI  ANNA MARIA       Nuoto Club Bicocca    1'05"32
+  2 ROSSI  GIULIA             Acquatica Milano      1'06"08
+  3 VERDI  CHIARA             Nuoto Club Bicocca    1'07"91
+  4 NERI  SOFIA ELENA         Polisportiva Lambro   1'10"45
+    GALLI  MARTA              Acquatica Milano      Squalif.

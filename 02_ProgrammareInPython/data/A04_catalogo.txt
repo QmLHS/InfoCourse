@@ -1,0 +1,26 @@
+codice: B01
+titolo: Il nome della rosa
+autore: Umberto Eco
+anno: 1980
+
+codice: B02
+titolo: La donna della domenica
+autore: Carlo Fruttero
+autore: Franco Lucentini
+anno: 1972
+
+codice: B03
+titolo: Il sistema periodico
+autore: Primo Levi
+anno: 1975
+
+codice: B04
+titolo: A che punto è la notte
+autore: Carlo Fruttero
+autore: Franco Lucentini
+anno: 1979
+
+codice: B05
+titolo: Il barone rampante
+autore: Italo Calvino
+anno: 1957

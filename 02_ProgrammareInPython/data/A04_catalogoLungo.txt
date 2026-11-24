@@ -1,0 +1,314 @@
+codice: L00
+titolo: Titolo 0
+autore: Autore 0
+autore: Autore 7
+anno: 1950
+
+codice: L01
+titolo: Titolo 1
+autore: Autore 1
+anno: 1951
+
+codice: L02
+titolo: Titolo 2
+autore: Autore 2
+anno: 1952
+
+codice: L03
+titolo: Titolo 3
+autore: Autore 3
+anno: 1953
+
+codice: L04
+titolo: Titolo 4
+autore: Autore 4
+autore: Autore 11
+anno: 1954
+
+codice: L05
+titolo: Titolo 5
+autore: Autore 5
+anno: 1955
+
+codice: L06
+titolo: Titolo 6
+autore: Autore 6
+anno: 1956
+
+codice: L07
+titolo: Titolo 7
+autore: Autore 0
+anno: 1957
+
+codice: L08
+titolo: Titolo 8
+autore: Autore 1
+autore: Autore 10
+anno: 1958
+
+codice: L09
+titolo: Titolo 9
+autore: Autore 2
+anno: 1959
+
+codice: L10
+titolo: Titolo 10
+autore: Autore 3
+anno: 1960
+
+codice: L11
+titolo: Titolo 11
+autore: Autore 4
+anno: 1961
+
+codice: L12
+titolo: Titolo 12
+autore: Autore 5
+autore: Autore 9
+anno: 1962
+
+codice: L13
+titolo: Titolo 13
+autore: Autore 6
+anno: 1963
+
+codice: L14
+titolo: Titolo 14
+autore: Autore 0
+anno: 1964
+
+codice: L15
+titolo: Titolo 15
+autore: Autore 1
+anno: 1965
+
+codice: L16
+titolo: Titolo 16
+autore: Autore 2
+autore: Autore 8
+anno: 1966
+
+codice: L17
+titolo: Titolo 17
+autore: Autore 3
+anno: 1967
+
+codice: L18
+titolo: Titolo 18
+autore: Autore 4
+anno: 1968
+
+codice: L19
+titolo: Titolo 19
+autore: Autore 5
+anno: 1969
+
+codice: L20
+titolo: Titolo 20
+autore: Autore 6
+autore: Autore 7
+anno: 1970
+
+codice: L21
+titolo: Titolo 21
+autore: Autore 0
+anno: 1971
+
+codice: L22
+titolo: Titolo 22
+autore: Autore 1
+anno: 1972
+
+codice: L23
+titolo: Titolo 23
+autore: Autore 2
+anno: 1973
+
+codice: L24
+titolo: Titolo 24
+autore: Autore 3
+autore: Autore 11
+anno: 1974
+
+codice: L25
+titolo: Titolo 25
+autore: Autore 4
+anno: 1975
+
+codice: L26
+titolo: Titolo 26
+autore: Autore 5
+anno: 1976
+
+codice: L27
+titolo: Titolo 27
+autore: Autore 6
+anno: 1977
+
+codice: L28
+titolo: Titolo 28
+autore: Autore 0
+autore: Autore 10
+anno: 1978
+
+codice: L29
+titolo: Titolo 29
+autore: Autore 1
+anno: 1979
+
+codice: L30
+titolo: Titolo 30
+autore: Autore 2
+anno: 1980
+
+codice: L31
+titolo: Titolo 31
+autore: Autore 3
+anno: 1981
+
+codice: L32
+titolo: Titolo 32
+autore: Autore 4
+autore: Autore 9
+anno: 1982
+
+codice: L33
+titolo: Titolo 33
+autore: Autore 5
+anno: 1983
+
+codice: L34
+titolo: Titolo 34
+autore: Autore 6
+anno: 1984
+
+codice: L35
+titolo: Titolo 35
+autore: Autore 0
+anno: 1985
+
+codice: L36
+titolo: Titolo 36
+autore: Autore 1
+autore: Autore 8
+anno: 1986
+
+codice: L37
+titolo: Titolo 37
+autore: Autore 2
+anno: 1987
+
+codice: L38
+titolo: Titolo 38
+autore: Autore 3
+anno: 1988
+
+codice: L39
+titolo: Titolo 39
+autore: Autore 4
+anno: 1989
+
+codice: L40
+titolo: Titolo 40
+autore: Autore 5
+autore: Autore 7
+anno: 1990
+
+codice: L41
+titolo: Titolo 41
+autore: Autore 6
+anno: 1991
+
+codice: L42
+titolo: Titolo 42
+autore: Autore 0
+anno: 1992
+
+codice: L43
+titolo: Titolo 43
+autore: Autore 1
+anno: 1993
+
+codice: L44
+titolo: Titolo 44
+autore: Autore 2
+autore: Autore 11
+anno: 1994
+
+codice: L45
+titolo: Titolo 45
+autore: Autore 3
+anno: 1995
+
+codice: L46
+titolo: Titolo 46
+autore: Autore 4
+anno: 1996
+
+codice: L47
+titolo: Titolo 47
+autore: Autore 5
+anno: 1997
+
+codice: L48
+titolo: Titolo 48
+autore: Autore 6
+autore: Autore 10
+anno: 1998
+
+codice: L49
+titolo: Titolo 49
+autore: Autore 0
+anno: 1999
+
+codice: L50
+titolo: Titolo 50
+autore: Autore 1
+anno: 2000
+
+codice: L51
+titolo: Titolo 51
+autore: Autore 2
+anno: 2001
+
+codice: L52
+titolo: Titolo 52
+autore: Autore 3
+autore: Autore 9
+anno: 2002
+
+codice: L53
+titolo: Titolo 53
+autore: Autore 4
+anno: 2003
+
+codice: L54
+titolo: Titolo 54
+autore: Autore 5
+anno: 2004
+
+codice: L55
+titolo: Titolo 55
+autore: Autore 6
+anno: 2005
+
+codice: L56
+titolo: Titolo 56
+autore: Autore 0
+autore: Autore 8
+anno: 2006
+
+codice: L57
+titolo: Titolo 57
+autore: Autore 1
+anno: 2007
+
+codice: L58
+titolo: Titolo 58
+autore: Autore 2
+anno: 2008
+
+codice: L59
+titolo: Titolo 59
+autore: Autore 3
+anno: 2009
